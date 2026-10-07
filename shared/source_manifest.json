@@ -1,0 +1,26 @@
+{
+  "status": "FOUNDATION_ONLY_NOT_CLEANED",
+  "raw_file": "bremen_crime_data_2026.parquet",
+  "raw_sha256": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
+  "base_file": "shared/reports_base.parquet",
+  "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
+  "row_count": 5126,
+  "original_columns": [
+    "date_posted",
+    "title_en",
+    "description_en",
+    "district",
+    "desc_en_embeddings768",
+    "title_en_embeddings768",
+    "url"
+  ],
+  "report_id_rule": "BR plus original source-row position, zero-padded to six digits; assigned once before filtering or sorting",
+  "date_posted_in_base": "Original string values retained; Member 1 converts the prepared table to datetime",
+  "source_changes": "If the raw file changes, stop and agree a new source version. Never silently regenerate IDs.",
+  "shared_preparation_rule": "All base rows and original report IDs must remain in reports_prepared.parquet. Exclusions use include_in_analysis and exclusion_reason.",
+  "embedding_rule": "The two original embedding arrays remain attached to their original report_id. Never sort an embedding matrix independently of its report table.",
+  "foundation_python": "3.14.3",
+  "foundation_packages": {
+    "pandas": "3.0.1"
+  }
+}

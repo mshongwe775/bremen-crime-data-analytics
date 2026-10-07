@@ -1,0 +1,9 @@
+{
+  "model_id": null,
+  "status": "pending",
+  "prepared_sha256": null,
+  "category_mapping_sha256": null,
+  "report_categories_sha256": null,
+  "selection_reason": "",
+  "approvers": []
+}

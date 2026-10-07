@@ -1,0 +1,383 @@
+{
+  "project": "Bremen Police Reports Project 2: Data Analytics",
+  "status": "SKELETON_NO_ANALYTICAL_RESULTS",
+  "id_column": "report_id",
+  "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
+  "base_rows": 5126,
+  "model_ids": [
+    "nmf_titles",
+    "nmf_descriptions",
+    "bertopic_titles",
+    "bertopic_descriptions"
+  ],
+  "assignment_status_values": [
+    "assigned",
+    "unassigned",
+    "excluded",
+    "missing_text",
+    "invalid_embedding"
+  ],
+  "category_status_values": [
+    "mapped_topic",
+    "manual_override",
+    "unclear",
+    "unassigned",
+    "excluded",
+    "missing_text",
+    "invalid_embedding"
+  ],
+  "elderly_status_values": [
+    "yes",
+    "no_evidence",
+    "unclear",
+    "not_reviewed",
+    "excluded"
+  ],
+  "csv_rule": "UTF-8 CSV, index=False; preserve report_id strings; empty topic_id allowed for missing/excluded inputs",
+  "parquet_rule": "Member 1 prepared table contains all base rows/IDs, original columns plus district_clean, include_in_analysis, exclusion_reason; date_posted is datetime",
+  "model_row_rule": "Each assignments CSV has exactly one row for every base report_id, including excluded, missing-text, invalid-embedding and unassigned records",
+  "model_topic_rule": "topic_id is an integer local to model_id; compare (model_id, topic_id), never topic_id alone. HDBSCAN noise topic -1 stays unassigned unless separately reviewed.",
+  "prepared_checksum_rule": "Every modeling handover/run_metadata.json records the SHA-256 of the exact reports_prepared.parquet used. Main integration rejects inconsistent versions.",
+  "review_rule": "Use a fixed common evaluation set eligible for all compared models. Development review and held-out review remain separate; report selection rules and disagreements.",
+  "mapping_rule": "category_mapping.csv covers all topics of all four models for comparison. selected_model.json identifies one approved model for the final report_categories.csv.",
+  "overrides_rule": "Any report-level category exception is recorded in category_overrides.csv with report_id, crime_category, reason, reviewer and category_status=manual_override.",
+  "district_share_definitions": {
+    "share_within_district": "category report_count divided by all included category report counts in that district",
+    "share_of_category_reports": "district category report_count divided by that category total across included reports, including Unknown district in the denominator"
+  },
+  "roles": {
+    "member_01": {
+      "notebook": "team_notebooks/01_data_and_districts.ipynb",
+      "title": "Data preparation and district analysis",
+      "output_folder": "outputs/member_01",
+      "required_files": [
+        "data_quality.csv",
+        "district_lookup.csv",
+        "duplicate_review.csv",
+        "district_category_counts.csv",
+        "highest_district_by_category.csv",
+        "run_metadata.json",
+        "handover.md",
+        "reports_prepared.parquet"
+      ],
+      "csv_schemas": {
+        "data_quality.csv": [
+          "check",
+          "value",
+          "notes"
+        ],
+        "district_lookup.csv": [
+          "district_original",
+          "district_clean",
+          "decision",
+          "notes"
+        ],
+        "duplicate_review.csv": [
+          "report_id",
+          "url",
+          "decision",
+          "reason"
+        ],
+        "district_category_counts.csv": [
+          "district_clean",
+          "crime_category",
+          "report_count",
+          "share_within_district",
+          "share_of_category_reports"
+        ],
+        "highest_district_by_category.csv": [
+          "crime_category",
+          "district_clean",
+          "report_count"
+        ]
+      }
+    },
+    "member_02": {
+      "notebook": "team_notebooks/02_title_topic_modeling.ipynb",
+      "title": "Topic modeling using titles",
+      "output_folder": "outputs/member_02",
+      "required_files": [
+        "nmf_titles_assignments.csv",
+        "nmf_titles_topics.csv",
+        "nmf_titles_samples.csv",
+        "nmf_titles_run.csv",
+        "run_metadata.json",
+        "handover.md"
+      ],
+      "csv_schemas": {
+        "nmf_titles_assignments.csv": [
+          "report_id",
+          "model_id",
+          "topic_id",
+          "assignment_status"
+        ],
+        "nmf_titles_topics.csv": [
+          "model_id",
+          "topic_id",
+          "keywords",
+          "n_reports",
+          "proposed_category",
+          "notes"
+        ],
+        "nmf_titles_samples.csv": [
+          "model_id",
+          "topic_id",
+          "report_id",
+          "selection_reason"
+        ],
+        "nmf_titles_run.csv": [
+          "model_id",
+          "n_topics",
+          "assigned_reports",
+          "unassigned_reports",
+          "excluded_reports",
+          "missing_text_reports",
+          "invalid_embedding_reports",
+          "elapsed_seconds",
+          "parameters"
+        ]
+      }
+    },
+    "member_03": {
+      "notebook": "team_notebooks/03_description_topic_modeling.ipynb",
+      "title": "Topic modeling using descriptions",
+      "output_folder": "outputs/member_03",
+      "required_files": [
+        "nmf_descriptions_assignments.csv",
+        "nmf_descriptions_topics.csv",
+        "nmf_descriptions_samples.csv",
+        "nmf_descriptions_run.csv",
+        "run_metadata.json",
+        "handover.md"
+      ],
+      "csv_schemas": {
+        "nmf_descriptions_assignments.csv": [
+          "report_id",
+          "model_id",
+          "topic_id",
+          "assignment_status"
+        ],
+        "nmf_descriptions_topics.csv": [
+          "model_id",
+          "topic_id",
+          "keywords",
+          "n_reports",
+          "proposed_category",
+          "notes"
+        ],
+        "nmf_descriptions_samples.csv": [
+          "model_id",
+          "topic_id",
+          "report_id",
+          "selection_reason"
+        ],
+        "nmf_descriptions_run.csv": [
+          "model_id",
+          "n_topics",
+          "assigned_reports",
+          "unassigned_reports",
+          "excluded_reports",
+          "missing_text_reports",
+          "invalid_embedding_reports",
+          "elapsed_seconds",
+          "parameters"
+        ]
+      }
+    },
+    "member_04": {
+      "notebook": "team_notebooks/04_embedding_topic_modeling.ipynb",
+      "title": "Topic modeling using supplied embeddings",
+      "output_folder": "outputs/member_04",
+      "required_files": [
+        "bertopic_titles_assignments.csv",
+        "bertopic_titles_topics.csv",
+        "bertopic_titles_samples.csv",
+        "bertopic_titles_run.csv",
+        "bertopic_descriptions_assignments.csv",
+        "bertopic_descriptions_topics.csv",
+        "bertopic_descriptions_samples.csv",
+        "bertopic_descriptions_run.csv",
+        "run_metadata.json",
+        "handover.md"
+      ],
+      "csv_schemas": {
+        "bertopic_titles_assignments.csv": [
+          "report_id",
+          "model_id",
+          "topic_id",
+          "assignment_status"
+        ],
+        "bertopic_titles_topics.csv": [
+          "model_id",
+          "topic_id",
+          "keywords",
+          "n_reports",
+          "proposed_category",
+          "notes"
+        ],
+        "bertopic_titles_samples.csv": [
+          "model_id",
+          "topic_id",
+          "report_id",
+          "selection_reason"
+        ],
+        "bertopic_titles_run.csv": [
+          "model_id",
+          "n_topics",
+          "assigned_reports",
+          "unassigned_reports",
+          "excluded_reports",
+          "missing_text_reports",
+          "invalid_embedding_reports",
+          "elapsed_seconds",
+          "parameters"
+        ],
+        "bertopic_descriptions_assignments.csv": [
+          "report_id",
+          "model_id",
+          "topic_id",
+          "assignment_status"
+        ],
+        "bertopic_descriptions_topics.csv": [
+          "model_id",
+          "topic_id",
+          "keywords",
+          "n_reports",
+          "proposed_category",
+          "notes"
+        ],
+        "bertopic_descriptions_samples.csv": [
+          "model_id",
+          "topic_id",
+          "report_id",
+          "selection_reason"
+        ],
+        "bertopic_descriptions_run.csv": [
+          "model_id",
+          "n_topics",
+          "assigned_reports",
+          "unassigned_reports",
+          "excluded_reports",
+          "missing_text_reports",
+          "invalid_embedding_reports",
+          "elapsed_seconds",
+          "parameters"
+        ]
+      }
+    },
+    "member_05": {
+      "notebook": "team_notebooks/05_time_and_anomalies.ipynb",
+      "title": "Time patterns and unusual increases",
+      "output_folder": "outputs/member_05",
+      "required_files": [
+        "monthly_counts.csv",
+        "seasonal_summary.csv",
+        "anomalies.csv",
+        "run_metadata.json",
+        "handover.md"
+      ],
+      "csv_schemas": {
+        "monthly_counts.csv": [
+          "month",
+          "district_clean",
+          "crime_category",
+          "report_count",
+          "coverage_note"
+        ],
+        "seasonal_summary.csv": [
+          "calendar_month",
+          "crime_category",
+          "report_count",
+          "observed_months",
+          "mean_reports_per_observed_month"
+        ],
+        "anomalies.csv": [
+          "district_clean",
+          "crime_category",
+          "window_start",
+          "window_end",
+          "report_count",
+          "baseline_count",
+          "method",
+          "possible_explanation",
+          "evidence_url",
+          "evidence_status"
+        ]
+      }
+    },
+    "member_06": {
+      "notebook": "team_notebooks/06_validation_and_elderly.ipynb",
+      "title": "Category validation and elderly victims",
+      "output_folder": "outputs/member_06",
+      "required_files": [
+        "review_sample.csv",
+        "category_codebook.csv",
+        "model_comparison.csv",
+        "category_mapping.csv",
+        "report_categories.csv",
+        "elderly_review.csv",
+        "elderly_summary.csv",
+        "run_metadata.json",
+        "handover.md",
+        "selected_model.json"
+      ],
+      "csv_schemas": {
+        "review_sample.csv": [
+          "report_id",
+          "review_split",
+          "reviewer",
+          "reference_category",
+          "second_reviewer",
+          "second_category",
+          "agreed_category",
+          "notes"
+        ],
+        "category_codebook.csv": [
+          "crime_category",
+          "definition",
+          "inclusions",
+          "exclusions",
+          "example_report_id"
+        ],
+        "model_comparison.csv": [
+          "model_id",
+          "n_topics",
+          "assigned_share",
+          "unassigned_share",
+          "reviewed_reports",
+          "matching_labels",
+          "label_agreement_rate",
+          "selection_notes"
+        ],
+        "category_mapping.csv": [
+          "model_id",
+          "topic_id",
+          "crime_category",
+          "decision",
+          "reason"
+        ],
+        "report_categories.csv": [
+          "report_id",
+          "selected_model_id",
+          "topic_id",
+          "crime_category",
+          "category_status"
+        ],
+        "elderly_review.csv": [
+          "report_id",
+          "elderly_victim_status",
+          "evidence_excerpt",
+          "reason",
+          "reviewer"
+        ],
+        "elderly_summary.csv": [
+          "crime_category",
+          "district_clean",
+          "confirmed_reports",
+          "reviewed_candidate_reports",
+          "notes"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python/Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Local editor/system state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Obsolete/local archives and backups
+backups/
+*.zip
+*.log
+
+# Large local model caches
+.cache/
+models/

@@ -1,0 +1,15 @@
+# Course recommendation: Python 3.12+. Agree one compatible version before modeling.
+# These are requested packages, not a claim that every package is installed.
+# Once all four model runs work, record exact tested versions in the group handovers.
+pandas
+numpy
+pyarrow
+matplotlib
+scikit-learn
+umap-learn
+hdbscan
+bertopic
+ipykernel
+nbformat
+nbclient
+# Optional later: geopandas for geographic boundaries; streamlit for a bonus dashboard.
