@@ -1,0 +1,9 @@
+decision,draft_rule
+Counting unit,"Count reports, not individual incidents or victims."
+Main category,Use one reviewed primary category per report.
+Topic interpretation,Review keywords and descriptions before naming a crime category.
+Mixed or unclear reports,Document the primary-category rule; keep unresolved cases visible.
+Elderly age threshold,Undecided. Do not classify cases using an assumed age cutoff.
+Victim context,An older suspect or witness is not evidence of an elderly victim.
+Missing age evidence,No age mention does not prove that a victim is young.
+Final approval,The team agrees definitions and model selection before labels are published.

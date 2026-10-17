@@ -1,0 +1,3 @@
+review_split,proposed_reports,purpose
+development,60,Develop category rules and resolve ambiguities
+held_out,60,Evaluate frozen rules and compare models
