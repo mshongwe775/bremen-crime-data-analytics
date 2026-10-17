@@ -1,17 +1,21 @@
-# Member 6: first-session handover
+# Member 6: validation and age 50+ screening
 Author: Mcolisi Austine Shongwe
-Status: In progress; draft protocol awaiting team review.
+Status: In progress; manual victim-role review and final model work pending.
 Base reports checked: 5126
 Base SHA-256: e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534
+Working definition: age 50+ inclusive, selected by the project owner.
 
-Completed: source checks, input availability, draft review rules and proposed review plan.
-Files and row counts:
-- source_checks.csv: 4; input_readiness.csv: 5.
-- review_rules_draft.csv: 8; review_plan_draft.csv: 2.
-- run_metadata.json and this handover.
+Completed: source checks, draft review rules/plan and automated age-pattern screening.
+Age 50+ mention: 1201 reports.
+Age 65+ mention (reference): 590 reports.
+Additional reports at 50+: 611.
+Candidate queue including elderly wording: 1225 reports; all unreviewed.
+Outputs: source_checks.csv, input_readiness.csv, review_rules_draft.csv, review_plan_draft.csv.
+Screening files: age50plus_screening.csv, age50plus_candidates_draft.csv, age_threshold_comparison.csv.
+Also saved: run_metadata.json and figures/member_06/age_threshold_screening.png.
 
-Pending: prepared data, actual review sample, codebook and four-model comparison.
-Also pending: mappings, selected model, final labels and elderly-victim analysis.
-Elderly age threshold: undecided. No elderly cases have been classified.
-Team action: agree definitions and review assignments; Members 1-4 supply their handovers.
-Main workstation: no analytical results are ready to import; final integration is pending.
+Pending: prepared data, actual common review sample, codebook and four-model comparison.
+Also pending: mappings, final labels, victim-role verification and elderly category/district counts.
+Limits: age matches can describe suspects, witnesses, ranges or objects; patterns may miss other wording.
+Next: communicate the 50+ definition and review candidate descriptions with another team member.
+Main workstation: exploratory screening only; no confirmed elderly-victim totals to import yet.

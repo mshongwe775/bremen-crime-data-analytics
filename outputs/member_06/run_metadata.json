@@ -7,29 +7,40 @@
   "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
   "prepared_sha256": null,
   "report_categories_sha256": null,
-  "run_date": "2026-10-17T11:48:50.478437+02:00",
+  "run_date": "2026-10-17T12:00:02.012500+02:00",
   "python_version": "3.14.3",
   "package_versions": {
     "pandas": "3.0.1",
-    "pyarrow": "25.0.1"
+    "pyarrow": "25.0.1",
+    "matplotlib": "3.10.8"
   },
   "methods": [
     "Base source checks",
-    "Input availability check",
-    "Draft manual review protocol"
+    "Draft review protocol",
+    "Regex age and elderly-wording candidate screening"
   ],
   "parameters": {
-    "elderly_age_threshold": null,
-    "elderly_threshold_status": "undecided",
+    "elderly_age_threshold": 50,
+    "elderly_threshold_status": "working_definition_selected_by_project_owner",
+    "reference_threshold": 65,
     "proposed_review_reports": 120,
-    "review_sample_status": "not_drawn_common_cohort_pending"
+    "review_sample_status": "not_drawn_common_cohort_pending",
+    "year_old_pattern": "\\b(\\d{1,3})[\\s-]+year[\\s-]+olds?\\b",
+    "aged_pattern": "\\baged?\\s+(\\d{1,3}(?:(?:\\s*,\\s*|\\s+and\\s+|\\s+to\\s+|\\s*-\\s*)\\d{1,3})*)",
+    "elderly_word_pattern": "\\b(?:elderly|pensioners?|senior citizens?)\\b"
   },
   "counts": {
     "base_reports": 5126,
-    "listed_inputs_available": 0
+    "listed_inputs_available": 0,
+    "reports_with_age50plus_mention": 1201,
+    "reports_with_age65plus_mention": 590,
+    "additional_reports_at_50": 611,
+    "candidate_reports_pending_manual_review": 1225
   },
   "notes": [
-    "Draft rules need team agreement; no elderly labels or final categories produced.",
-    "Final work needs Member 1 prepared data and Members 2-4 model handovers."
+    "Age 50+ inclusive selected by the project owner; communicate the definition to the team.",
+    "Screening counts are any-role age-pattern matches, not confirmed victim counts.",
+    "Word-only candidates have no established exact age; ranges and age formatting need review.",
+    "No final crime labels or elderly-victim classifications produced; prepared/model handovers pending."
   ]
 }
