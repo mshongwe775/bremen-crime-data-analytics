@@ -1,0 +1,11 @@
+model_id,topic_id,keywords,n_reports,proposed_category,notes
+nmf_descriptions,1,"man, emergency, officers, arrested, services, emergency services, apprehended, men, police officers, knife",1022,Police Arrests and Apprehension,Provisional NMF topic; pending shared validation.
+nmf_descriptions,2,"black, dark, unknown, tall, fled, perpetrator, man, described, years, wore",814,Robberies and Suspect Descriptions,Provisional NMF topic; pending shared validation.
+nmf_descriptions,3,"driver, accident, traffic, car, driving, injuries, hospital, collided, road, truck",649,Road Traffic Accidents,Provisional NMF topic; pending shared validation.
+nmf_descriptions,4,"stadium, traffic, match, expected, vicinity, parking, osterdeich, werder, sielwall, sv",98,Football Matches and Public Safety,Provisional NMF topic; pending shared validation.
+nmf_descriptions,5,"witnesses, looking witnesses, looking, unknown, paint, damage, criminal police, night, police looking, criminal",742,Graffiti and Property Damage,Provisional NMF topic; pending shared validation.
+nmf_descriptions,6,"public, prosecutor, public prosecutor, prosecutor office, office, searching, press, press release, release, accounts",366,Public Appeals and Investigations,Provisional NMF topic; pending shared validation.
+nmf_descriptions,7,"drug, officers, seized, violations, cannabis, drugs, narcotics, checked, checks, cocaine",450,Drug-Related Offences,Provisional NMF topic; pending shared validation.
+nmf_descriptions,8,"apartment, woman, senior, water, money, jewelry, phone, access, gained, senior citizen",405,"Fraud, Impersonation and Theft",Provisional NMF topic; pending shared validation.
+nmf_descriptions,9,"assembly, participants, people, rally, violations, demonstration, procession, city, gathered, filed",489,Public Demonstrations and Assemblies,Provisional NMF topic; pending shared validation.
+nmf_descriptions,10,"bomb, disposal, bomb disposal, expert, disposal expert, work, detonated, exploratory, exploratory work, world war",91,Bomb Discoveries and Disposal Operations,Provisional NMF topic; pending shared validation.
