@@ -1,0 +1,44 @@
+check,value,notes
+source_rows,5126,All permanent IDs retained
+base_columns,8,Seven raw columns plus report_id
+prepared_columns,11,Exactly eleven contracted columns
+unique_report_ids,5126,No repeated or regenerated IDs
+included_reports,5124,Approved inclusion policy
+excluded_duplicate_reports,2,BR001569; BR002114
+original_district_labels,273,Original labels preserved
+protected_geographic_exceptions,4,All Unknown and included
+publication_date_min,2019-07-14,Not incident date
+publication_date_max,2026-09-03,Partial boundary periods
+title_en_missing,0,Source nulls
+title_en_blank,0,Whitespace-only values
+description_en_missing,0,Source nulls
+description_en_blank,0,Whitespace-only values
+district_missing,0,Source nulls
+district_blank,0,Whitespace-only values
+date_valid,5126,YYYY-MM-DD
+date_missing,0,Source nulls
+date_blank,0,Source whitespace
+date_invalid,0,Not missing or blank
+district_literal_None,530,Unknown; retained
+district_literal_null,65,Unknown; retained
+report_id_repeated_groups,0,Exact nonblank source values
+report_id_reports_in_repeated_groups,0,Repetition alone is not an exclusion
+url_repeated_groups,2,Exact nonblank source values
+url_reports_in_repeated_groups,4,Repetition alone is not an exclusion
+title_en_repeated_groups,287,Exact nonblank source values
+title_en_reports_in_repeated_groups,819,Repetition alone is not an exclusion
+description_en_repeated_groups,2,Exact nonblank source values
+description_en_reports_in_repeated_groups,4,Repetition alone is not an exclusion
+repeated_title_description_pairs,2,Exact pairs
+reports_in_repeated_text_pairs,4,Pairs checked across five fields
+desc_en_embeddings768_valid_768_finite,5126,"Numeric, finite, unchanged and aligned by ID"
+title_en_embeddings768_valid_768_finite,5126,"Numeric, finite, unchanged and aligned by ID"
+Ortsteile_mapped_included,2977,Included cohort; levels are never added
+Ortsteile_unknown_included,2147,Included cohort; levels are never added
+Stadtteile plus standalone Ortsteile_mapped_included,4149,Included cohort; levels are never added
+Stadtteile plus standalone Ortsteile_unknown_included,975,Included cohort; levels are never added
+shared_mapped_all_rows,4151,Stadtteile plus standalone Ortsteile
+shared_unknown_all_rows,975,Unresolved or missing information
+standalone_included,33,Known Ortsteile; no parent
+source_content_preserved,True,"Text, district, URLs and both vectors checked against source"
+peer_review,pending,Reviewer not assigned; no approval claimed
