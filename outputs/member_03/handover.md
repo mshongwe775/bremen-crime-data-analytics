@@ -10,11 +10,14 @@ and provide topic assignments for further evaluation.
 
 ## 2. Input data
 
-- Prepared input: `shared/reports_base.parquet`
-- Number of reports: 5126
+- Prepared input: `outputs/member_01/reports_prepared.parquet`
+- Total reports in prepared dataset: 5,126
+- Reports included in NMF modelling: 5,124
+- Reports excluded from NMF modelling: 2
+- Total assignment records: 5,126
 - Text field: `description_en`
-- Input checksum (SHA-256): `e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534`
-- Input status: Provisional, pending Member 1's confirmation
+- Input checksum (SHA-256): `bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139`
+- Input verification: Member 1's prepared dataset was checked, and the SHA-256 checksum remained unchanged during verification.
 
 ## 3. Modelling approach
 
