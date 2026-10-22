@@ -1,0 +1,1825 @@
+month,district_clean,crime_category,report_count,coverage_note
+2019-07,Blockland,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Blumenthal,All reports (categories pending),3,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Borgfeld,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Burglesum,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Findorff,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Gröpelingen,All reports (categories pending),1,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Hemelingen,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Horn-Lehe,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Huchting,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Häfen,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Mitte,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Neustadt,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Oberneuland,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Obervieland,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Osterholz,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Schwachhausen,All reports (categories pending),1,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Seehausen,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Strom,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Unknown,All reports (categories pending),5,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Vahr,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Vegesack,All reports (categories pending),1,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Walle,All reports (categories pending),1,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Woltmershausen,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2019-07,Östliche Vorstadt,All reports (categories pending),0,partial_month: reports 2019-07-14 to 2019-07-17
+2020-07,Blockland,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Blumenthal,All reports (categories pending),2,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Borgfeld,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Burglesum,All reports (categories pending),4,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Findorff,All reports (categories pending),1,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Gröpelingen,All reports (categories pending),2,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Hemelingen,All reports (categories pending),3,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Horn-Lehe,All reports (categories pending),1,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Huchting,All reports (categories pending),2,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Häfen,All reports (categories pending),1,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Mitte,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Neustadt,All reports (categories pending),3,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Oberneuland,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Obervieland,All reports (categories pending),2,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Osterholz,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Schwachhausen,All reports (categories pending),2,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Seehausen,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Strom,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Unknown,All reports (categories pending),8,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Vahr,All reports (categories pending),1,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Vegesack,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Walle,All reports (categories pending),2,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Woltmershausen,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-07,Östliche Vorstadt,All reports (categories pending),0,partial_month: reports 2020-07-16 to 2020-07-31
+2020-08,Blockland,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Blumenthal,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Borgfeld,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Burglesum,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Findorff,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Gröpelingen,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Hemelingen,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Horn-Lehe,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Huchting,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Häfen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Mitte,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Neustadt,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Oberneuland,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Obervieland,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Osterholz,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Schwachhausen,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Seehausen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Strom,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Unknown,All reports (categories pending),26,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Vahr,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Vegesack,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Walle,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Woltmershausen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-08,Östliche Vorstadt,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Blockland,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Blumenthal,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Borgfeld,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Burglesum,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Findorff,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Gröpelingen,All reports (categories pending),4,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Hemelingen,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Horn-Lehe,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Huchting,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Häfen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Mitte,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Neustadt,All reports (categories pending),9,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Oberneuland,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Obervieland,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Osterholz,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Schwachhausen,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Seehausen,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Strom,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Unknown,All reports (categories pending),32,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Vahr,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Vegesack,All reports (categories pending),4,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Walle,All reports (categories pending),8,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Woltmershausen,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-09,Östliche Vorstadt,All reports (categories pending),7,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Blockland,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Blumenthal,All reports (categories pending),4,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Borgfeld,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Burglesum,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Findorff,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Gröpelingen,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Hemelingen,All reports (categories pending),7,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Horn-Lehe,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Huchting,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Häfen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Mitte,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Neustadt,All reports (categories pending),8,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Oberneuland,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Obervieland,All reports (categories pending),4,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Osterholz,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Schwachhausen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Seehausen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Strom,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Unknown,All reports (categories pending),30,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Vahr,All reports (categories pending),4,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Vegesack,All reports (categories pending),4,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Walle,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Woltmershausen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-10,Östliche Vorstadt,All reports (categories pending),7,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Blockland,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Blumenthal,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Borgfeld,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Burglesum,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Findorff,All reports (categories pending),8,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Gröpelingen,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Hemelingen,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Horn-Lehe,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Huchting,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Häfen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Mitte,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Neustadt,All reports (categories pending),8,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Oberneuland,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Obervieland,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Osterholz,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Schwachhausen,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Seehausen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Strom,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Unknown,All reports (categories pending),19,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Vahr,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Vegesack,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Walle,All reports (categories pending),7,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Woltmershausen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-11,Östliche Vorstadt,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Blockland,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Blumenthal,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Borgfeld,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Burglesum,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Findorff,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Gröpelingen,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Hemelingen,All reports (categories pending),5,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Horn-Lehe,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Huchting,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Häfen,All reports (categories pending),1,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Mitte,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Neustadt,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Oberneuland,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Obervieland,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Osterholz,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Schwachhausen,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Seehausen,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Strom,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Unknown,All reports (categories pending),17,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Vahr,All reports (categories pending),2,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Vegesack,All reports (categories pending),0,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Walle,All reports (categories pending),6,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Woltmershausen,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2020-12,Östliche Vorstadt,All reports (categories pending),3,"complete_month; broad district labels, Mitte undercounted (use citywide totals only)"
+2021-01,Blockland,All reports (categories pending),0,complete_month
+2021-01,Blumenthal,All reports (categories pending),3,complete_month
+2021-01,Borgfeld,All reports (categories pending),0,complete_month
+2021-01,Burglesum,All reports (categories pending),3,complete_month
+2021-01,Findorff,All reports (categories pending),1,complete_month
+2021-01,Gröpelingen,All reports (categories pending),3,complete_month
+2021-01,Hemelingen,All reports (categories pending),6,complete_month
+2021-01,Horn-Lehe,All reports (categories pending),3,complete_month
+2021-01,Huchting,All reports (categories pending),1,complete_month
+2021-01,Häfen,All reports (categories pending),1,complete_month
+2021-01,Mitte,All reports (categories pending),4,complete_month
+2021-01,Neustadt,All reports (categories pending),8,complete_month
+2021-01,Oberneuland,All reports (categories pending),0,complete_month
+2021-01,Obervieland,All reports (categories pending),2,complete_month
+2021-01,Osterholz,All reports (categories pending),2,complete_month
+2021-01,Schwachhausen,All reports (categories pending),3,complete_month
+2021-01,Seehausen,All reports (categories pending),0,complete_month
+2021-01,Strom,All reports (categories pending),0,complete_month
+2021-01,Unknown,All reports (categories pending),4,complete_month
+2021-01,Vahr,All reports (categories pending),2,complete_month
+2021-01,Vegesack,All reports (categories pending),12,complete_month
+2021-01,Walle,All reports (categories pending),14,complete_month
+2021-01,Woltmershausen,All reports (categories pending),1,complete_month
+2021-01,Östliche Vorstadt,All reports (categories pending),0,complete_month
+2021-02,Blockland,All reports (categories pending),0,complete_month
+2021-02,Blumenthal,All reports (categories pending),5,complete_month
+2021-02,Borgfeld,All reports (categories pending),0,complete_month
+2021-02,Burglesum,All reports (categories pending),3,complete_month
+2021-02,Findorff,All reports (categories pending),5,complete_month
+2021-02,Gröpelingen,All reports (categories pending),7,complete_month
+2021-02,Hemelingen,All reports (categories pending),7,complete_month
+2021-02,Horn-Lehe,All reports (categories pending),5,complete_month
+2021-02,Huchting,All reports (categories pending),1,complete_month
+2021-02,Häfen,All reports (categories pending),1,complete_month
+2021-02,Mitte,All reports (categories pending),6,complete_month
+2021-02,Neustadt,All reports (categories pending),4,complete_month
+2021-02,Oberneuland,All reports (categories pending),1,complete_month
+2021-02,Obervieland,All reports (categories pending),1,complete_month
+2021-02,Osterholz,All reports (categories pending),2,complete_month
+2021-02,Schwachhausen,All reports (categories pending),1,complete_month
+2021-02,Seehausen,All reports (categories pending),0,complete_month
+2021-02,Strom,All reports (categories pending),0,complete_month
+2021-02,Unknown,All reports (categories pending),10,complete_month
+2021-02,Vahr,All reports (categories pending),1,complete_month
+2021-02,Vegesack,All reports (categories pending),0,complete_month
+2021-02,Walle,All reports (categories pending),5,complete_month
+2021-02,Woltmershausen,All reports (categories pending),1,complete_month
+2021-02,Östliche Vorstadt,All reports (categories pending),8,complete_month
+2021-03,Blockland,All reports (categories pending),0,complete_month
+2021-03,Blumenthal,All reports (categories pending),2,complete_month
+2021-03,Borgfeld,All reports (categories pending),0,complete_month
+2021-03,Burglesum,All reports (categories pending),2,complete_month
+2021-03,Findorff,All reports (categories pending),2,complete_month
+2021-03,Gröpelingen,All reports (categories pending),8,complete_month
+2021-03,Hemelingen,All reports (categories pending),7,complete_month
+2021-03,Horn-Lehe,All reports (categories pending),1,complete_month
+2021-03,Huchting,All reports (categories pending),3,complete_month
+2021-03,Häfen,All reports (categories pending),0,complete_month
+2021-03,Mitte,All reports (categories pending),17,complete_month
+2021-03,Neustadt,All reports (categories pending),9,complete_month
+2021-03,Oberneuland,All reports (categories pending),0,complete_month
+2021-03,Obervieland,All reports (categories pending),7,complete_month
+2021-03,Osterholz,All reports (categories pending),6,complete_month
+2021-03,Schwachhausen,All reports (categories pending),3,complete_month
+2021-03,Seehausen,All reports (categories pending),0,complete_month
+2021-03,Strom,All reports (categories pending),1,complete_month
+2021-03,Unknown,All reports (categories pending),9,complete_month
+2021-03,Vahr,All reports (categories pending),0,complete_month
+2021-03,Vegesack,All reports (categories pending),2,complete_month
+2021-03,Walle,All reports (categories pending),8,complete_month
+2021-03,Woltmershausen,All reports (categories pending),0,complete_month
+2021-03,Östliche Vorstadt,All reports (categories pending),5,complete_month
+2021-04,Blockland,All reports (categories pending),0,complete_month
+2021-04,Blumenthal,All reports (categories pending),3,complete_month
+2021-04,Borgfeld,All reports (categories pending),0,complete_month
+2021-04,Burglesum,All reports (categories pending),4,complete_month
+2021-04,Findorff,All reports (categories pending),5,complete_month
+2021-04,Gröpelingen,All reports (categories pending),10,complete_month
+2021-04,Hemelingen,All reports (categories pending),10,complete_month
+2021-04,Horn-Lehe,All reports (categories pending),2,complete_month
+2021-04,Huchting,All reports (categories pending),1,complete_month
+2021-04,Häfen,All reports (categories pending),0,complete_month
+2021-04,Mitte,All reports (categories pending),12,complete_month
+2021-04,Neustadt,All reports (categories pending),5,complete_month
+2021-04,Oberneuland,All reports (categories pending),0,complete_month
+2021-04,Obervieland,All reports (categories pending),2,complete_month
+2021-04,Osterholz,All reports (categories pending),2,complete_month
+2021-04,Schwachhausen,All reports (categories pending),2,complete_month
+2021-04,Seehausen,All reports (categories pending),0,complete_month
+2021-04,Strom,All reports (categories pending),0,complete_month
+2021-04,Unknown,All reports (categories pending),13,complete_month
+2021-04,Vahr,All reports (categories pending),2,complete_month
+2021-04,Vegesack,All reports (categories pending),2,complete_month
+2021-04,Walle,All reports (categories pending),5,complete_month
+2021-04,Woltmershausen,All reports (categories pending),0,complete_month
+2021-04,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2021-05,Blockland,All reports (categories pending),0,complete_month
+2021-05,Blumenthal,All reports (categories pending),2,complete_month
+2021-05,Borgfeld,All reports (categories pending),0,complete_month
+2021-05,Burglesum,All reports (categories pending),0,complete_month
+2021-05,Findorff,All reports (categories pending),0,complete_month
+2021-05,Gröpelingen,All reports (categories pending),6,complete_month
+2021-05,Hemelingen,All reports (categories pending),9,complete_month
+2021-05,Horn-Lehe,All reports (categories pending),0,complete_month
+2021-05,Huchting,All reports (categories pending),5,complete_month
+2021-05,Häfen,All reports (categories pending),0,complete_month
+2021-05,Mitte,All reports (categories pending),16,complete_month
+2021-05,Neustadt,All reports (categories pending),6,complete_month
+2021-05,Oberneuland,All reports (categories pending),0,complete_month
+2021-05,Obervieland,All reports (categories pending),1,complete_month
+2021-05,Osterholz,All reports (categories pending),3,complete_month
+2021-05,Schwachhausen,All reports (categories pending),4,complete_month
+2021-05,Seehausen,All reports (categories pending),0,complete_month
+2021-05,Strom,All reports (categories pending),0,complete_month
+2021-05,Unknown,All reports (categories pending),13,complete_month
+2021-05,Vahr,All reports (categories pending),4,complete_month
+2021-05,Vegesack,All reports (categories pending),1,complete_month
+2021-05,Walle,All reports (categories pending),7,complete_month
+2021-05,Woltmershausen,All reports (categories pending),1,complete_month
+2021-05,Östliche Vorstadt,All reports (categories pending),6,complete_month
+2021-06,Blockland,All reports (categories pending),0,complete_month
+2021-06,Blumenthal,All reports (categories pending),1,complete_month
+2021-06,Borgfeld,All reports (categories pending),0,complete_month
+2021-06,Burglesum,All reports (categories pending),3,complete_month
+2021-06,Findorff,All reports (categories pending),0,complete_month
+2021-06,Gröpelingen,All reports (categories pending),5,complete_month
+2021-06,Hemelingen,All reports (categories pending),4,complete_month
+2021-06,Horn-Lehe,All reports (categories pending),2,complete_month
+2021-06,Huchting,All reports (categories pending),0,complete_month
+2021-06,Häfen,All reports (categories pending),0,complete_month
+2021-06,Mitte,All reports (categories pending),12,complete_month
+2021-06,Neustadt,All reports (categories pending),6,complete_month
+2021-06,Oberneuland,All reports (categories pending),2,complete_month
+2021-06,Obervieland,All reports (categories pending),5,complete_month
+2021-06,Osterholz,All reports (categories pending),3,complete_month
+2021-06,Schwachhausen,All reports (categories pending),4,complete_month
+2021-06,Seehausen,All reports (categories pending),0,complete_month
+2021-06,Strom,All reports (categories pending),1,complete_month
+2021-06,Unknown,All reports (categories pending),16,complete_month
+2021-06,Vahr,All reports (categories pending),1,complete_month
+2021-06,Vegesack,All reports (categories pending),3,complete_month
+2021-06,Walle,All reports (categories pending),4,complete_month
+2021-06,Woltmershausen,All reports (categories pending),1,complete_month
+2021-06,Östliche Vorstadt,All reports (categories pending),5,complete_month
+2021-07,Blockland,All reports (categories pending),0,complete_month
+2021-07,Blumenthal,All reports (categories pending),2,complete_month
+2021-07,Borgfeld,All reports (categories pending),0,complete_month
+2021-07,Burglesum,All reports (categories pending),6,complete_month
+2021-07,Findorff,All reports (categories pending),0,complete_month
+2021-07,Gröpelingen,All reports (categories pending),4,complete_month
+2021-07,Hemelingen,All reports (categories pending),8,complete_month
+2021-07,Horn-Lehe,All reports (categories pending),0,complete_month
+2021-07,Huchting,All reports (categories pending),2,complete_month
+2021-07,Häfen,All reports (categories pending),0,complete_month
+2021-07,Mitte,All reports (categories pending),13,complete_month
+2021-07,Neustadt,All reports (categories pending),9,complete_month
+2021-07,Oberneuland,All reports (categories pending),3,complete_month
+2021-07,Obervieland,All reports (categories pending),2,complete_month
+2021-07,Osterholz,All reports (categories pending),2,complete_month
+2021-07,Schwachhausen,All reports (categories pending),0,complete_month
+2021-07,Seehausen,All reports (categories pending),0,complete_month
+2021-07,Strom,All reports (categories pending),0,complete_month
+2021-07,Unknown,All reports (categories pending),14,complete_month
+2021-07,Vahr,All reports (categories pending),2,complete_month
+2021-07,Vegesack,All reports (categories pending),3,complete_month
+2021-07,Walle,All reports (categories pending),4,complete_month
+2021-07,Woltmershausen,All reports (categories pending),0,complete_month
+2021-07,Östliche Vorstadt,All reports (categories pending),7,complete_month
+2021-08,Blockland,All reports (categories pending),0,complete_month
+2021-08,Blumenthal,All reports (categories pending),5,complete_month
+2021-08,Borgfeld,All reports (categories pending),0,complete_month
+2021-08,Burglesum,All reports (categories pending),4,complete_month
+2021-08,Findorff,All reports (categories pending),0,complete_month
+2021-08,Gröpelingen,All reports (categories pending),3,complete_month
+2021-08,Hemelingen,All reports (categories pending),6,complete_month
+2021-08,Horn-Lehe,All reports (categories pending),1,complete_month
+2021-08,Huchting,All reports (categories pending),2,complete_month
+2021-08,Häfen,All reports (categories pending),1,complete_month
+2021-08,Mitte,All reports (categories pending),14,complete_month
+2021-08,Neustadt,All reports (categories pending),8,complete_month
+2021-08,Oberneuland,All reports (categories pending),0,complete_month
+2021-08,Obervieland,All reports (categories pending),4,complete_month
+2021-08,Osterholz,All reports (categories pending),1,complete_month
+2021-08,Schwachhausen,All reports (categories pending),3,complete_month
+2021-08,Seehausen,All reports (categories pending),0,complete_month
+2021-08,Strom,All reports (categories pending),0,complete_month
+2021-08,Unknown,All reports (categories pending),17,complete_month
+2021-08,Vahr,All reports (categories pending),2,complete_month
+2021-08,Vegesack,All reports (categories pending),3,complete_month
+2021-08,Walle,All reports (categories pending),4,complete_month
+2021-08,Woltmershausen,All reports (categories pending),1,complete_month
+2021-08,Östliche Vorstadt,All reports (categories pending),0,complete_month
+2021-09,Blockland,All reports (categories pending),0,complete_month
+2021-09,Blumenthal,All reports (categories pending),3,complete_month
+2021-09,Borgfeld,All reports (categories pending),0,complete_month
+2021-09,Burglesum,All reports (categories pending),3,complete_month
+2021-09,Findorff,All reports (categories pending),1,complete_month
+2021-09,Gröpelingen,All reports (categories pending),1,complete_month
+2021-09,Hemelingen,All reports (categories pending),5,complete_month
+2021-09,Horn-Lehe,All reports (categories pending),0,complete_month
+2021-09,Huchting,All reports (categories pending),4,complete_month
+2021-09,Häfen,All reports (categories pending),0,complete_month
+2021-09,Mitte,All reports (categories pending),15,complete_month
+2021-09,Neustadt,All reports (categories pending),9,complete_month
+2021-09,Oberneuland,All reports (categories pending),1,complete_month
+2021-09,Obervieland,All reports (categories pending),5,complete_month
+2021-09,Osterholz,All reports (categories pending),1,complete_month
+2021-09,Schwachhausen,All reports (categories pending),2,complete_month
+2021-09,Seehausen,All reports (categories pending),0,complete_month
+2021-09,Strom,All reports (categories pending),0,complete_month
+2021-09,Unknown,All reports (categories pending),14,complete_month
+2021-09,Vahr,All reports (categories pending),6,complete_month
+2021-09,Vegesack,All reports (categories pending),3,complete_month
+2021-09,Walle,All reports (categories pending),3,complete_month
+2021-09,Woltmershausen,All reports (categories pending),1,complete_month
+2021-09,Östliche Vorstadt,All reports (categories pending),5,complete_month
+2021-10,Blockland,All reports (categories pending),0,complete_month
+2021-10,Blumenthal,All reports (categories pending),1,complete_month
+2021-10,Borgfeld,All reports (categories pending),0,complete_month
+2021-10,Burglesum,All reports (categories pending),1,complete_month
+2021-10,Findorff,All reports (categories pending),3,complete_month
+2021-10,Gröpelingen,All reports (categories pending),4,complete_month
+2021-10,Hemelingen,All reports (categories pending),9,complete_month
+2021-10,Horn-Lehe,All reports (categories pending),2,complete_month
+2021-10,Huchting,All reports (categories pending),2,complete_month
+2021-10,Häfen,All reports (categories pending),0,complete_month
+2021-10,Mitte,All reports (categories pending),17,complete_month
+2021-10,Neustadt,All reports (categories pending),6,complete_month
+2021-10,Oberneuland,All reports (categories pending),0,complete_month
+2021-10,Obervieland,All reports (categories pending),5,complete_month
+2021-10,Osterholz,All reports (categories pending),1,complete_month
+2021-10,Schwachhausen,All reports (categories pending),2,complete_month
+2021-10,Seehausen,All reports (categories pending),0,complete_month
+2021-10,Strom,All reports (categories pending),0,complete_month
+2021-10,Unknown,All reports (categories pending),12,complete_month
+2021-10,Vahr,All reports (categories pending),2,complete_month
+2021-10,Vegesack,All reports (categories pending),1,complete_month
+2021-10,Walle,All reports (categories pending),4,complete_month
+2021-10,Woltmershausen,All reports (categories pending),0,complete_month
+2021-10,Östliche Vorstadt,All reports (categories pending),1,complete_month
+2021-11,Blockland,All reports (categories pending),0,complete_month
+2021-11,Blumenthal,All reports (categories pending),3,complete_month
+2021-11,Borgfeld,All reports (categories pending),0,complete_month
+2021-11,Burglesum,All reports (categories pending),5,complete_month
+2021-11,Findorff,All reports (categories pending),0,complete_month
+2021-11,Gröpelingen,All reports (categories pending),1,complete_month
+2021-11,Hemelingen,All reports (categories pending),2,complete_month
+2021-11,Horn-Lehe,All reports (categories pending),3,complete_month
+2021-11,Huchting,All reports (categories pending),4,complete_month
+2021-11,Häfen,All reports (categories pending),2,complete_month
+2021-11,Mitte,All reports (categories pending),13,complete_month
+2021-11,Neustadt,All reports (categories pending),12,complete_month
+2021-11,Oberneuland,All reports (categories pending),1,complete_month
+2021-11,Obervieland,All reports (categories pending),2,complete_month
+2021-11,Osterholz,All reports (categories pending),2,complete_month
+2021-11,Schwachhausen,All reports (categories pending),2,complete_month
+2021-11,Seehausen,All reports (categories pending),0,complete_month
+2021-11,Strom,All reports (categories pending),0,complete_month
+2021-11,Unknown,All reports (categories pending),9,complete_month
+2021-11,Vahr,All reports (categories pending),0,complete_month
+2021-11,Vegesack,All reports (categories pending),1,complete_month
+2021-11,Walle,All reports (categories pending),2,complete_month
+2021-11,Woltmershausen,All reports (categories pending),1,complete_month
+2021-11,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2021-12,Blockland,All reports (categories pending),0,complete_month
+2021-12,Blumenthal,All reports (categories pending),4,complete_month
+2021-12,Borgfeld,All reports (categories pending),0,complete_month
+2021-12,Burglesum,All reports (categories pending),3,complete_month
+2021-12,Findorff,All reports (categories pending),4,complete_month
+2021-12,Gröpelingen,All reports (categories pending),7,complete_month
+2021-12,Hemelingen,All reports (categories pending),4,complete_month
+2021-12,Horn-Lehe,All reports (categories pending),1,complete_month
+2021-12,Huchting,All reports (categories pending),4,complete_month
+2021-12,Häfen,All reports (categories pending),1,complete_month
+2021-12,Mitte,All reports (categories pending),14,complete_month
+2021-12,Neustadt,All reports (categories pending),6,complete_month
+2021-12,Oberneuland,All reports (categories pending),2,complete_month
+2021-12,Obervieland,All reports (categories pending),3,complete_month
+2021-12,Osterholz,All reports (categories pending),2,complete_month
+2021-12,Schwachhausen,All reports (categories pending),2,complete_month
+2021-12,Seehausen,All reports (categories pending),0,complete_month
+2021-12,Strom,All reports (categories pending),0,complete_month
+2021-12,Unknown,All reports (categories pending),3,complete_month
+2021-12,Vahr,All reports (categories pending),4,complete_month
+2021-12,Vegesack,All reports (categories pending),2,complete_month
+2021-12,Walle,All reports (categories pending),7,complete_month
+2021-12,Woltmershausen,All reports (categories pending),2,complete_month
+2021-12,Östliche Vorstadt,All reports (categories pending),0,complete_month
+2022-01,Blockland,All reports (categories pending),0,complete_month
+2022-01,Blumenthal,All reports (categories pending),3,complete_month
+2022-01,Borgfeld,All reports (categories pending),0,complete_month
+2022-01,Burglesum,All reports (categories pending),3,complete_month
+2022-01,Findorff,All reports (categories pending),5,complete_month
+2022-01,Gröpelingen,All reports (categories pending),6,complete_month
+2022-01,Hemelingen,All reports (categories pending),1,complete_month
+2022-01,Horn-Lehe,All reports (categories pending),2,complete_month
+2022-01,Huchting,All reports (categories pending),3,complete_month
+2022-01,Häfen,All reports (categories pending),1,complete_month
+2022-01,Mitte,All reports (categories pending),15,complete_month
+2022-01,Neustadt,All reports (categories pending),4,complete_month
+2022-01,Oberneuland,All reports (categories pending),0,complete_month
+2022-01,Obervieland,All reports (categories pending),2,complete_month
+2022-01,Osterholz,All reports (categories pending),0,complete_month
+2022-01,Schwachhausen,All reports (categories pending),2,complete_month
+2022-01,Seehausen,All reports (categories pending),0,complete_month
+2022-01,Strom,All reports (categories pending),0,complete_month
+2022-01,Unknown,All reports (categories pending),2,complete_month
+2022-01,Vahr,All reports (categories pending),4,complete_month
+2022-01,Vegesack,All reports (categories pending),1,complete_month
+2022-01,Walle,All reports (categories pending),8,complete_month
+2022-01,Woltmershausen,All reports (categories pending),1,complete_month
+2022-01,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2022-02,Blockland,All reports (categories pending),0,complete_month
+2022-02,Blumenthal,All reports (categories pending),3,complete_month
+2022-02,Borgfeld,All reports (categories pending),0,complete_month
+2022-02,Burglesum,All reports (categories pending),4,complete_month
+2022-02,Findorff,All reports (categories pending),2,complete_month
+2022-02,Gröpelingen,All reports (categories pending),4,complete_month
+2022-02,Hemelingen,All reports (categories pending),3,complete_month
+2022-02,Horn-Lehe,All reports (categories pending),3,complete_month
+2022-02,Huchting,All reports (categories pending),2,complete_month
+2022-02,Häfen,All reports (categories pending),0,complete_month
+2022-02,Mitte,All reports (categories pending),8,complete_month
+2022-02,Neustadt,All reports (categories pending),3,complete_month
+2022-02,Oberneuland,All reports (categories pending),1,complete_month
+2022-02,Obervieland,All reports (categories pending),1,complete_month
+2022-02,Osterholz,All reports (categories pending),4,complete_month
+2022-02,Schwachhausen,All reports (categories pending),2,complete_month
+2022-02,Seehausen,All reports (categories pending),0,complete_month
+2022-02,Strom,All reports (categories pending),0,complete_month
+2022-02,Unknown,All reports (categories pending),13,complete_month
+2022-02,Vahr,All reports (categories pending),3,complete_month
+2022-02,Vegesack,All reports (categories pending),1,complete_month
+2022-02,Walle,All reports (categories pending),4,complete_month
+2022-02,Woltmershausen,All reports (categories pending),0,complete_month
+2022-02,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2022-03,Blockland,All reports (categories pending),0,complete_month
+2022-03,Blumenthal,All reports (categories pending),1,complete_month
+2022-03,Borgfeld,All reports (categories pending),0,complete_month
+2022-03,Burglesum,All reports (categories pending),3,complete_month
+2022-03,Findorff,All reports (categories pending),1,complete_month
+2022-03,Gröpelingen,All reports (categories pending),3,complete_month
+2022-03,Hemelingen,All reports (categories pending),3,complete_month
+2022-03,Horn-Lehe,All reports (categories pending),0,complete_month
+2022-03,Huchting,All reports (categories pending),2,complete_month
+2022-03,Häfen,All reports (categories pending),1,complete_month
+2022-03,Mitte,All reports (categories pending),9,complete_month
+2022-03,Neustadt,All reports (categories pending),7,complete_month
+2022-03,Oberneuland,All reports (categories pending),0,complete_month
+2022-03,Obervieland,All reports (categories pending),2,complete_month
+2022-03,Osterholz,All reports (categories pending),0,complete_month
+2022-03,Schwachhausen,All reports (categories pending),1,complete_month
+2022-03,Seehausen,All reports (categories pending),0,complete_month
+2022-03,Strom,All reports (categories pending),0,complete_month
+2022-03,Unknown,All reports (categories pending),12,complete_month
+2022-03,Vahr,All reports (categories pending),3,complete_month
+2022-03,Vegesack,All reports (categories pending),3,complete_month
+2022-03,Walle,All reports (categories pending),4,complete_month
+2022-03,Woltmershausen,All reports (categories pending),0,complete_month
+2022-03,Östliche Vorstadt,All reports (categories pending),6,complete_month
+2022-04,Blockland,All reports (categories pending),0,complete_month
+2022-04,Blumenthal,All reports (categories pending),2,complete_month
+2022-04,Borgfeld,All reports (categories pending),0,complete_month
+2022-04,Burglesum,All reports (categories pending),1,complete_month
+2022-04,Findorff,All reports (categories pending),3,complete_month
+2022-04,Gröpelingen,All reports (categories pending),5,complete_month
+2022-04,Hemelingen,All reports (categories pending),3,complete_month
+2022-04,Horn-Lehe,All reports (categories pending),1,complete_month
+2022-04,Huchting,All reports (categories pending),1,complete_month
+2022-04,Häfen,All reports (categories pending),1,complete_month
+2022-04,Mitte,All reports (categories pending),7,complete_month
+2022-04,Neustadt,All reports (categories pending),5,complete_month
+2022-04,Oberneuland,All reports (categories pending),0,complete_month
+2022-04,Obervieland,All reports (categories pending),5,complete_month
+2022-04,Osterholz,All reports (categories pending),1,complete_month
+2022-04,Schwachhausen,All reports (categories pending),2,complete_month
+2022-04,Seehausen,All reports (categories pending),0,complete_month
+2022-04,Strom,All reports (categories pending),0,complete_month
+2022-04,Unknown,All reports (categories pending),9,complete_month
+2022-04,Vahr,All reports (categories pending),2,complete_month
+2022-04,Vegesack,All reports (categories pending),2,complete_month
+2022-04,Walle,All reports (categories pending),8,complete_month
+2022-04,Woltmershausen,All reports (categories pending),3,complete_month
+2022-04,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2022-05,Blockland,All reports (categories pending),0,complete_month
+2022-05,Blumenthal,All reports (categories pending),1,complete_month
+2022-05,Borgfeld,All reports (categories pending),1,complete_month
+2022-05,Burglesum,All reports (categories pending),1,complete_month
+2022-05,Findorff,All reports (categories pending),1,complete_month
+2022-05,Gröpelingen,All reports (categories pending),4,complete_month
+2022-05,Hemelingen,All reports (categories pending),3,complete_month
+2022-05,Horn-Lehe,All reports (categories pending),1,complete_month
+2022-05,Huchting,All reports (categories pending),2,complete_month
+2022-05,Häfen,All reports (categories pending),2,complete_month
+2022-05,Mitte,All reports (categories pending),15,complete_month
+2022-05,Neustadt,All reports (categories pending),6,complete_month
+2022-05,Oberneuland,All reports (categories pending),1,complete_month
+2022-05,Obervieland,All reports (categories pending),3,complete_month
+2022-05,Osterholz,All reports (categories pending),4,complete_month
+2022-05,Schwachhausen,All reports (categories pending),3,complete_month
+2022-05,Seehausen,All reports (categories pending),0,complete_month
+2022-05,Strom,All reports (categories pending),0,complete_month
+2022-05,Unknown,All reports (categories pending),13,complete_month
+2022-05,Vahr,All reports (categories pending),1,complete_month
+2022-05,Vegesack,All reports (categories pending),2,complete_month
+2022-05,Walle,All reports (categories pending),5,complete_month
+2022-05,Woltmershausen,All reports (categories pending),0,complete_month
+2022-05,Östliche Vorstadt,All reports (categories pending),1,complete_month
+2022-06,Blockland,All reports (categories pending),0,complete_month
+2022-06,Blumenthal,All reports (categories pending),0,complete_month
+2022-06,Borgfeld,All reports (categories pending),1,complete_month
+2022-06,Burglesum,All reports (categories pending),3,complete_month
+2022-06,Findorff,All reports (categories pending),0,complete_month
+2022-06,Gröpelingen,All reports (categories pending),3,complete_month
+2022-06,Hemelingen,All reports (categories pending),6,complete_month
+2022-06,Horn-Lehe,All reports (categories pending),3,complete_month
+2022-06,Huchting,All reports (categories pending),3,complete_month
+2022-06,Häfen,All reports (categories pending),2,complete_month
+2022-06,Mitte,All reports (categories pending),16,complete_month
+2022-06,Neustadt,All reports (categories pending),7,complete_month
+2022-06,Oberneuland,All reports (categories pending),1,complete_month
+2022-06,Obervieland,All reports (categories pending),4,complete_month
+2022-06,Osterholz,All reports (categories pending),5,complete_month
+2022-06,Schwachhausen,All reports (categories pending),1,complete_month
+2022-06,Seehausen,All reports (categories pending),0,complete_month
+2022-06,Strom,All reports (categories pending),0,complete_month
+2022-06,Unknown,All reports (categories pending),11,complete_month
+2022-06,Vahr,All reports (categories pending),0,complete_month
+2022-06,Vegesack,All reports (categories pending),3,complete_month
+2022-06,Walle,All reports (categories pending),2,complete_month
+2022-06,Woltmershausen,All reports (categories pending),0,complete_month
+2022-06,Östliche Vorstadt,All reports (categories pending),0,complete_month
+2022-07,Blockland,All reports (categories pending),0,complete_month
+2022-07,Blumenthal,All reports (categories pending),3,complete_month
+2022-07,Borgfeld,All reports (categories pending),2,complete_month
+2022-07,Burglesum,All reports (categories pending),3,complete_month
+2022-07,Findorff,All reports (categories pending),2,complete_month
+2022-07,Gröpelingen,All reports (categories pending),3,complete_month
+2022-07,Hemelingen,All reports (categories pending),5,complete_month
+2022-07,Horn-Lehe,All reports (categories pending),1,complete_month
+2022-07,Huchting,All reports (categories pending),3,complete_month
+2022-07,Häfen,All reports (categories pending),0,complete_month
+2022-07,Mitte,All reports (categories pending),11,complete_month
+2022-07,Neustadt,All reports (categories pending),6,complete_month
+2022-07,Oberneuland,All reports (categories pending),1,complete_month
+2022-07,Obervieland,All reports (categories pending),2,complete_month
+2022-07,Osterholz,All reports (categories pending),3,complete_month
+2022-07,Schwachhausen,All reports (categories pending),2,complete_month
+2022-07,Seehausen,All reports (categories pending),0,complete_month
+2022-07,Strom,All reports (categories pending),0,complete_month
+2022-07,Unknown,All reports (categories pending),9,complete_month
+2022-07,Vahr,All reports (categories pending),1,complete_month
+2022-07,Vegesack,All reports (categories pending),3,complete_month
+2022-07,Walle,All reports (categories pending),7,complete_month
+2022-07,Woltmershausen,All reports (categories pending),1,complete_month
+2022-07,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2022-08,Blockland,All reports (categories pending),0,complete_month
+2022-08,Blumenthal,All reports (categories pending),3,complete_month
+2022-08,Borgfeld,All reports (categories pending),1,complete_month
+2022-08,Burglesum,All reports (categories pending),1,complete_month
+2022-08,Findorff,All reports (categories pending),3,complete_month
+2022-08,Gröpelingen,All reports (categories pending),3,complete_month
+2022-08,Hemelingen,All reports (categories pending),2,complete_month
+2022-08,Horn-Lehe,All reports (categories pending),0,complete_month
+2022-08,Huchting,All reports (categories pending),3,complete_month
+2022-08,Häfen,All reports (categories pending),0,complete_month
+2022-08,Mitte,All reports (categories pending),21,complete_month
+2022-08,Neustadt,All reports (categories pending),2,complete_month
+2022-08,Oberneuland,All reports (categories pending),2,complete_month
+2022-08,Obervieland,All reports (categories pending),1,complete_month
+2022-08,Osterholz,All reports (categories pending),2,complete_month
+2022-08,Schwachhausen,All reports (categories pending),2,complete_month
+2022-08,Seehausen,All reports (categories pending),2,complete_month
+2022-08,Strom,All reports (categories pending),0,complete_month
+2022-08,Unknown,All reports (categories pending),11,complete_month
+2022-08,Vahr,All reports (categories pending),1,complete_month
+2022-08,Vegesack,All reports (categories pending),10,complete_month
+2022-08,Walle,All reports (categories pending),5,complete_month
+2022-08,Woltmershausen,All reports (categories pending),2,complete_month
+2022-08,Östliche Vorstadt,All reports (categories pending),1,complete_month
+2022-09,Blockland,All reports (categories pending),0,complete_month
+2022-09,Blumenthal,All reports (categories pending),0,complete_month
+2022-09,Borgfeld,All reports (categories pending),0,complete_month
+2022-09,Burglesum,All reports (categories pending),1,complete_month
+2022-09,Findorff,All reports (categories pending),3,complete_month
+2022-09,Gröpelingen,All reports (categories pending),3,complete_month
+2022-09,Hemelingen,All reports (categories pending),5,complete_month
+2022-09,Horn-Lehe,All reports (categories pending),1,complete_month
+2022-09,Huchting,All reports (categories pending),4,complete_month
+2022-09,Häfen,All reports (categories pending),0,complete_month
+2022-09,Mitte,All reports (categories pending),7,complete_month
+2022-09,Neustadt,All reports (categories pending),12,complete_month
+2022-09,Oberneuland,All reports (categories pending),1,complete_month
+2022-09,Obervieland,All reports (categories pending),1,complete_month
+2022-09,Osterholz,All reports (categories pending),3,complete_month
+2022-09,Schwachhausen,All reports (categories pending),3,complete_month
+2022-09,Seehausen,All reports (categories pending),0,complete_month
+2022-09,Strom,All reports (categories pending),0,complete_month
+2022-09,Unknown,All reports (categories pending),10,complete_month
+2022-09,Vahr,All reports (categories pending),2,complete_month
+2022-09,Vegesack,All reports (categories pending),5,complete_month
+2022-09,Walle,All reports (categories pending),2,complete_month
+2022-09,Woltmershausen,All reports (categories pending),1,complete_month
+2022-09,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2022-10,Blockland,All reports (categories pending),0,complete_month
+2022-10,Blumenthal,All reports (categories pending),3,complete_month
+2022-10,Borgfeld,All reports (categories pending),0,complete_month
+2022-10,Burglesum,All reports (categories pending),0,complete_month
+2022-10,Findorff,All reports (categories pending),4,complete_month
+2022-10,Gröpelingen,All reports (categories pending),1,complete_month
+2022-10,Hemelingen,All reports (categories pending),2,complete_month
+2022-10,Horn-Lehe,All reports (categories pending),1,complete_month
+2022-10,Huchting,All reports (categories pending),2,complete_month
+2022-10,Häfen,All reports (categories pending),0,complete_month
+2022-10,Mitte,All reports (categories pending),8,complete_month
+2022-10,Neustadt,All reports (categories pending),2,complete_month
+2022-10,Oberneuland,All reports (categories pending),0,complete_month
+2022-10,Obervieland,All reports (categories pending),0,complete_month
+2022-10,Osterholz,All reports (categories pending),4,complete_month
+2022-10,Schwachhausen,All reports (categories pending),2,complete_month
+2022-10,Seehausen,All reports (categories pending),0,complete_month
+2022-10,Strom,All reports (categories pending),0,complete_month
+2022-10,Unknown,All reports (categories pending),12,complete_month
+2022-10,Vahr,All reports (categories pending),1,complete_month
+2022-10,Vegesack,All reports (categories pending),5,complete_month
+2022-10,Walle,All reports (categories pending),6,complete_month
+2022-10,Woltmershausen,All reports (categories pending),0,complete_month
+2022-10,Östliche Vorstadt,All reports (categories pending),0,complete_month
+2022-11,Blockland,All reports (categories pending),0,complete_month
+2022-11,Blumenthal,All reports (categories pending),2,complete_month
+2022-11,Borgfeld,All reports (categories pending),0,complete_month
+2022-11,Burglesum,All reports (categories pending),0,complete_month
+2022-11,Findorff,All reports (categories pending),2,complete_month
+2022-11,Gröpelingen,All reports (categories pending),2,complete_month
+2022-11,Hemelingen,All reports (categories pending),5,complete_month
+2022-11,Horn-Lehe,All reports (categories pending),2,complete_month
+2022-11,Huchting,All reports (categories pending),4,complete_month
+2022-11,Häfen,All reports (categories pending),1,complete_month
+2022-11,Mitte,All reports (categories pending),14,complete_month
+2022-11,Neustadt,All reports (categories pending),4,complete_month
+2022-11,Oberneuland,All reports (categories pending),2,complete_month
+2022-11,Obervieland,All reports (categories pending),2,complete_month
+2022-11,Osterholz,All reports (categories pending),6,complete_month
+2022-11,Schwachhausen,All reports (categories pending),2,complete_month
+2022-11,Seehausen,All reports (categories pending),0,complete_month
+2022-11,Strom,All reports (categories pending),0,complete_month
+2022-11,Unknown,All reports (categories pending),8,complete_month
+2022-11,Vahr,All reports (categories pending),1,complete_month
+2022-11,Vegesack,All reports (categories pending),6,complete_month
+2022-11,Walle,All reports (categories pending),8,complete_month
+2022-11,Woltmershausen,All reports (categories pending),0,complete_month
+2022-11,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2022-12,Blockland,All reports (categories pending),0,complete_month
+2022-12,Blumenthal,All reports (categories pending),0,complete_month
+2022-12,Borgfeld,All reports (categories pending),0,complete_month
+2022-12,Burglesum,All reports (categories pending),3,complete_month
+2022-12,Findorff,All reports (categories pending),1,complete_month
+2022-12,Gröpelingen,All reports (categories pending),2,complete_month
+2022-12,Hemelingen,All reports (categories pending),4,complete_month
+2022-12,Horn-Lehe,All reports (categories pending),1,complete_month
+2022-12,Huchting,All reports (categories pending),2,complete_month
+2022-12,Häfen,All reports (categories pending),2,complete_month
+2022-12,Mitte,All reports (categories pending),9,complete_month
+2022-12,Neustadt,All reports (categories pending),1,complete_month
+2022-12,Oberneuland,All reports (categories pending),0,complete_month
+2022-12,Obervieland,All reports (categories pending),5,complete_month
+2022-12,Osterholz,All reports (categories pending),1,complete_month
+2022-12,Schwachhausen,All reports (categories pending),0,complete_month
+2022-12,Seehausen,All reports (categories pending),0,complete_month
+2022-12,Strom,All reports (categories pending),0,complete_month
+2022-12,Unknown,All reports (categories pending),12,complete_month
+2022-12,Vahr,All reports (categories pending),3,complete_month
+2022-12,Vegesack,All reports (categories pending),3,complete_month
+2022-12,Walle,All reports (categories pending),5,complete_month
+2022-12,Woltmershausen,All reports (categories pending),1,complete_month
+2022-12,Östliche Vorstadt,All reports (categories pending),0,complete_month
+2023-01,Blockland,All reports (categories pending),0,complete_month
+2023-01,Blumenthal,All reports (categories pending),5,complete_month
+2023-01,Borgfeld,All reports (categories pending),1,complete_month
+2023-01,Burglesum,All reports (categories pending),1,complete_month
+2023-01,Findorff,All reports (categories pending),2,complete_month
+2023-01,Gröpelingen,All reports (categories pending),1,complete_month
+2023-01,Hemelingen,All reports (categories pending),10,complete_month
+2023-01,Horn-Lehe,All reports (categories pending),2,complete_month
+2023-01,Huchting,All reports (categories pending),4,complete_month
+2023-01,Häfen,All reports (categories pending),1,complete_month
+2023-01,Mitte,All reports (categories pending),10,complete_month
+2023-01,Neustadt,All reports (categories pending),3,complete_month
+2023-01,Oberneuland,All reports (categories pending),1,complete_month
+2023-01,Obervieland,All reports (categories pending),2,complete_month
+2023-01,Osterholz,All reports (categories pending),1,complete_month
+2023-01,Schwachhausen,All reports (categories pending),2,complete_month
+2023-01,Seehausen,All reports (categories pending),0,complete_month
+2023-01,Strom,All reports (categories pending),1,complete_month
+2023-01,Unknown,All reports (categories pending),9,complete_month
+2023-01,Vahr,All reports (categories pending),2,complete_month
+2023-01,Vegesack,All reports (categories pending),1,complete_month
+2023-01,Walle,All reports (categories pending),3,complete_month
+2023-01,Woltmershausen,All reports (categories pending),2,complete_month
+2023-01,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2023-02,Blockland,All reports (categories pending),0,complete_month
+2023-02,Blumenthal,All reports (categories pending),0,complete_month
+2023-02,Borgfeld,All reports (categories pending),0,complete_month
+2023-02,Burglesum,All reports (categories pending),4,complete_month
+2023-02,Findorff,All reports (categories pending),1,complete_month
+2023-02,Gröpelingen,All reports (categories pending),1,complete_month
+2023-02,Hemelingen,All reports (categories pending),1,complete_month
+2023-02,Horn-Lehe,All reports (categories pending),3,complete_month
+2023-02,Huchting,All reports (categories pending),1,complete_month
+2023-02,Häfen,All reports (categories pending),0,complete_month
+2023-02,Mitte,All reports (categories pending),19,complete_month
+2023-02,Neustadt,All reports (categories pending),10,complete_month
+2023-02,Oberneuland,All reports (categories pending),0,complete_month
+2023-02,Obervieland,All reports (categories pending),0,complete_month
+2023-02,Osterholz,All reports (categories pending),3,complete_month
+2023-02,Schwachhausen,All reports (categories pending),2,complete_month
+2023-02,Seehausen,All reports (categories pending),0,complete_month
+2023-02,Strom,All reports (categories pending),0,complete_month
+2023-02,Unknown,All reports (categories pending),14,complete_month
+2023-02,Vahr,All reports (categories pending),4,complete_month
+2023-02,Vegesack,All reports (categories pending),1,complete_month
+2023-02,Walle,All reports (categories pending),2,complete_month
+2023-02,Woltmershausen,All reports (categories pending),1,complete_month
+2023-02,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2023-03,Blockland,All reports (categories pending),0,complete_month
+2023-03,Blumenthal,All reports (categories pending),3,complete_month
+2023-03,Borgfeld,All reports (categories pending),0,complete_month
+2023-03,Burglesum,All reports (categories pending),0,complete_month
+2023-03,Findorff,All reports (categories pending),3,complete_month
+2023-03,Gröpelingen,All reports (categories pending),2,complete_month
+2023-03,Hemelingen,All reports (categories pending),3,complete_month
+2023-03,Horn-Lehe,All reports (categories pending),3,complete_month
+2023-03,Huchting,All reports (categories pending),5,complete_month
+2023-03,Häfen,All reports (categories pending),4,complete_month
+2023-03,Mitte,All reports (categories pending),12,complete_month
+2023-03,Neustadt,All reports (categories pending),4,complete_month
+2023-03,Oberneuland,All reports (categories pending),0,complete_month
+2023-03,Obervieland,All reports (categories pending),2,complete_month
+2023-03,Osterholz,All reports (categories pending),6,complete_month
+2023-03,Schwachhausen,All reports (categories pending),0,complete_month
+2023-03,Seehausen,All reports (categories pending),0,complete_month
+2023-03,Strom,All reports (categories pending),0,complete_month
+2023-03,Unknown,All reports (categories pending),13,complete_month
+2023-03,Vahr,All reports (categories pending),4,complete_month
+2023-03,Vegesack,All reports (categories pending),4,complete_month
+2023-03,Walle,All reports (categories pending),3,complete_month
+2023-03,Woltmershausen,All reports (categories pending),0,complete_month
+2023-03,Östliche Vorstadt,All reports (categories pending),1,complete_month
+2023-04,Blockland,All reports (categories pending),1,complete_month
+2023-04,Blumenthal,All reports (categories pending),2,complete_month
+2023-04,Borgfeld,All reports (categories pending),0,complete_month
+2023-04,Burglesum,All reports (categories pending),0,complete_month
+2023-04,Findorff,All reports (categories pending),0,complete_month
+2023-04,Gröpelingen,All reports (categories pending),1,complete_month
+2023-04,Hemelingen,All reports (categories pending),2,complete_month
+2023-04,Horn-Lehe,All reports (categories pending),4,complete_month
+2023-04,Huchting,All reports (categories pending),3,complete_month
+2023-04,Häfen,All reports (categories pending),1,complete_month
+2023-04,Mitte,All reports (categories pending),12,complete_month
+2023-04,Neustadt,All reports (categories pending),4,complete_month
+2023-04,Oberneuland,All reports (categories pending),1,complete_month
+2023-04,Obervieland,All reports (categories pending),2,complete_month
+2023-04,Osterholz,All reports (categories pending),2,complete_month
+2023-04,Schwachhausen,All reports (categories pending),4,complete_month
+2023-04,Seehausen,All reports (categories pending),0,complete_month
+2023-04,Strom,All reports (categories pending),0,complete_month
+2023-04,Unknown,All reports (categories pending),9,complete_month
+2023-04,Vahr,All reports (categories pending),1,complete_month
+2023-04,Vegesack,All reports (categories pending),1,complete_month
+2023-04,Walle,All reports (categories pending),2,complete_month
+2023-04,Woltmershausen,All reports (categories pending),0,complete_month
+2023-04,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2023-05,Blockland,All reports (categories pending),0,complete_month
+2023-05,Blumenthal,All reports (categories pending),1,complete_month
+2023-05,Borgfeld,All reports (categories pending),0,complete_month
+2023-05,Burglesum,All reports (categories pending),2,complete_month
+2023-05,Findorff,All reports (categories pending),3,complete_month
+2023-05,Gröpelingen,All reports (categories pending),5,complete_month
+2023-05,Hemelingen,All reports (categories pending),6,complete_month
+2023-05,Horn-Lehe,All reports (categories pending),3,complete_month
+2023-05,Huchting,All reports (categories pending),0,complete_month
+2023-05,Häfen,All reports (categories pending),0,complete_month
+2023-05,Mitte,All reports (categories pending),14,complete_month
+2023-05,Neustadt,All reports (categories pending),2,complete_month
+2023-05,Oberneuland,All reports (categories pending),0,complete_month
+2023-05,Obervieland,All reports (categories pending),2,complete_month
+2023-05,Osterholz,All reports (categories pending),0,complete_month
+2023-05,Schwachhausen,All reports (categories pending),3,complete_month
+2023-05,Seehausen,All reports (categories pending),0,complete_month
+2023-05,Strom,All reports (categories pending),0,complete_month
+2023-05,Unknown,All reports (categories pending),12,complete_month
+2023-05,Vahr,All reports (categories pending),1,complete_month
+2023-05,Vegesack,All reports (categories pending),3,complete_month
+2023-05,Walle,All reports (categories pending),3,complete_month
+2023-05,Woltmershausen,All reports (categories pending),0,complete_month
+2023-05,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2023-06,Blockland,All reports (categories pending),0,complete_month
+2023-06,Blumenthal,All reports (categories pending),2,complete_month
+2023-06,Borgfeld,All reports (categories pending),0,complete_month
+2023-06,Burglesum,All reports (categories pending),1,complete_month
+2023-06,Findorff,All reports (categories pending),1,complete_month
+2023-06,Gröpelingen,All reports (categories pending),1,complete_month
+2023-06,Hemelingen,All reports (categories pending),2,complete_month
+2023-06,Horn-Lehe,All reports (categories pending),0,complete_month
+2023-06,Huchting,All reports (categories pending),4,complete_month
+2023-06,Häfen,All reports (categories pending),1,complete_month
+2023-06,Mitte,All reports (categories pending),13,complete_month
+2023-06,Neustadt,All reports (categories pending),5,complete_month
+2023-06,Oberneuland,All reports (categories pending),0,complete_month
+2023-06,Obervieland,All reports (categories pending),0,complete_month
+2023-06,Osterholz,All reports (categories pending),5,complete_month
+2023-06,Schwachhausen,All reports (categories pending),3,complete_month
+2023-06,Seehausen,All reports (categories pending),0,complete_month
+2023-06,Strom,All reports (categories pending),0,complete_month
+2023-06,Unknown,All reports (categories pending),15,complete_month
+2023-06,Vahr,All reports (categories pending),0,complete_month
+2023-06,Vegesack,All reports (categories pending),4,complete_month
+2023-06,Walle,All reports (categories pending),2,complete_month
+2023-06,Woltmershausen,All reports (categories pending),0,complete_month
+2023-06,Östliche Vorstadt,All reports (categories pending),7,complete_month
+2023-07,Blockland,All reports (categories pending),0,complete_month
+2023-07,Blumenthal,All reports (categories pending),1,complete_month
+2023-07,Borgfeld,All reports (categories pending),0,complete_month
+2023-07,Burglesum,All reports (categories pending),3,complete_month
+2023-07,Findorff,All reports (categories pending),2,complete_month
+2023-07,Gröpelingen,All reports (categories pending),2,complete_month
+2023-07,Hemelingen,All reports (categories pending),4,complete_month
+2023-07,Horn-Lehe,All reports (categories pending),2,complete_month
+2023-07,Huchting,All reports (categories pending),1,complete_month
+2023-07,Häfen,All reports (categories pending),1,complete_month
+2023-07,Mitte,All reports (categories pending),8,complete_month
+2023-07,Neustadt,All reports (categories pending),3,complete_month
+2023-07,Oberneuland,All reports (categories pending),0,complete_month
+2023-07,Obervieland,All reports (categories pending),2,complete_month
+2023-07,Osterholz,All reports (categories pending),1,complete_month
+2023-07,Schwachhausen,All reports (categories pending),2,complete_month
+2023-07,Seehausen,All reports (categories pending),0,complete_month
+2023-07,Strom,All reports (categories pending),0,complete_month
+2023-07,Unknown,All reports (categories pending),14,complete_month
+2023-07,Vahr,All reports (categories pending),2,complete_month
+2023-07,Vegesack,All reports (categories pending),1,complete_month
+2023-07,Walle,All reports (categories pending),1,complete_month
+2023-07,Woltmershausen,All reports (categories pending),1,complete_month
+2023-07,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2023-08,Blockland,All reports (categories pending),1,complete_month
+2023-08,Blumenthal,All reports (categories pending),3,complete_month
+2023-08,Borgfeld,All reports (categories pending),0,complete_month
+2023-08,Burglesum,All reports (categories pending),4,complete_month
+2023-08,Findorff,All reports (categories pending),1,complete_month
+2023-08,Gröpelingen,All reports (categories pending),4,complete_month
+2023-08,Hemelingen,All reports (categories pending),5,complete_month
+2023-08,Horn-Lehe,All reports (categories pending),1,complete_month
+2023-08,Huchting,All reports (categories pending),2,complete_month
+2023-08,Häfen,All reports (categories pending),0,complete_month
+2023-08,Mitte,All reports (categories pending),6,complete_month
+2023-08,Neustadt,All reports (categories pending),3,complete_month
+2023-08,Oberneuland,All reports (categories pending),0,complete_month
+2023-08,Obervieland,All reports (categories pending),2,complete_month
+2023-08,Osterholz,All reports (categories pending),0,complete_month
+2023-08,Schwachhausen,All reports (categories pending),3,complete_month
+2023-08,Seehausen,All reports (categories pending),1,complete_month
+2023-08,Strom,All reports (categories pending),0,complete_month
+2023-08,Unknown,All reports (categories pending),11,complete_month
+2023-08,Vahr,All reports (categories pending),2,complete_month
+2023-08,Vegesack,All reports (categories pending),4,complete_month
+2023-08,Walle,All reports (categories pending),0,complete_month
+2023-08,Woltmershausen,All reports (categories pending),1,complete_month
+2023-08,Östliche Vorstadt,All reports (categories pending),5,complete_month
+2023-09,Blockland,All reports (categories pending),0,complete_month
+2023-09,Blumenthal,All reports (categories pending),1,complete_month
+2023-09,Borgfeld,All reports (categories pending),0,complete_month
+2023-09,Burglesum,All reports (categories pending),2,complete_month
+2023-09,Findorff,All reports (categories pending),1,complete_month
+2023-09,Gröpelingen,All reports (categories pending),2,complete_month
+2023-09,Hemelingen,All reports (categories pending),2,complete_month
+2023-09,Horn-Lehe,All reports (categories pending),5,complete_month
+2023-09,Huchting,All reports (categories pending),2,complete_month
+2023-09,Häfen,All reports (categories pending),0,complete_month
+2023-09,Mitte,All reports (categories pending),15,complete_month
+2023-09,Neustadt,All reports (categories pending),4,complete_month
+2023-09,Oberneuland,All reports (categories pending),0,complete_month
+2023-09,Obervieland,All reports (categories pending),0,complete_month
+2023-09,Osterholz,All reports (categories pending),3,complete_month
+2023-09,Schwachhausen,All reports (categories pending),2,complete_month
+2023-09,Seehausen,All reports (categories pending),1,complete_month
+2023-09,Strom,All reports (categories pending),0,complete_month
+2023-09,Unknown,All reports (categories pending),8,complete_month
+2023-09,Vahr,All reports (categories pending),3,complete_month
+2023-09,Vegesack,All reports (categories pending),3,complete_month
+2023-09,Walle,All reports (categories pending),4,complete_month
+2023-09,Woltmershausen,All reports (categories pending),0,complete_month
+2023-09,Östliche Vorstadt,All reports (categories pending),5,complete_month
+2023-10,Blockland,All reports (categories pending),0,complete_month
+2023-10,Blumenthal,All reports (categories pending),1,complete_month
+2023-10,Borgfeld,All reports (categories pending),0,complete_month
+2023-10,Burglesum,All reports (categories pending),3,complete_month
+2023-10,Findorff,All reports (categories pending),1,complete_month
+2023-10,Gröpelingen,All reports (categories pending),2,complete_month
+2023-10,Hemelingen,All reports (categories pending),4,complete_month
+2023-10,Horn-Lehe,All reports (categories pending),1,complete_month
+2023-10,Huchting,All reports (categories pending),2,complete_month
+2023-10,Häfen,All reports (categories pending),1,complete_month
+2023-10,Mitte,All reports (categories pending),14,complete_month
+2023-10,Neustadt,All reports (categories pending),2,complete_month
+2023-10,Oberneuland,All reports (categories pending),0,complete_month
+2023-10,Obervieland,All reports (categories pending),2,complete_month
+2023-10,Osterholz,All reports (categories pending),1,complete_month
+2023-10,Schwachhausen,All reports (categories pending),2,complete_month
+2023-10,Seehausen,All reports (categories pending),0,complete_month
+2023-10,Strom,All reports (categories pending),0,complete_month
+2023-10,Unknown,All reports (categories pending),17,complete_month
+2023-10,Vahr,All reports (categories pending),2,complete_month
+2023-10,Vegesack,All reports (categories pending),1,complete_month
+2023-10,Walle,All reports (categories pending),1,complete_month
+2023-10,Woltmershausen,All reports (categories pending),0,complete_month
+2023-10,Östliche Vorstadt,All reports (categories pending),0,complete_month
+2023-11,Blockland,All reports (categories pending),0,complete_month
+2023-11,Blumenthal,All reports (categories pending),2,complete_month
+2023-11,Borgfeld,All reports (categories pending),0,complete_month
+2023-11,Burglesum,All reports (categories pending),1,complete_month
+2023-11,Findorff,All reports (categories pending),5,complete_month
+2023-11,Gröpelingen,All reports (categories pending),3,complete_month
+2023-11,Hemelingen,All reports (categories pending),2,complete_month
+2023-11,Horn-Lehe,All reports (categories pending),3,complete_month
+2023-11,Huchting,All reports (categories pending),4,complete_month
+2023-11,Häfen,All reports (categories pending),0,complete_month
+2023-11,Mitte,All reports (categories pending),11,complete_month
+2023-11,Neustadt,All reports (categories pending),4,complete_month
+2023-11,Oberneuland,All reports (categories pending),0,complete_month
+2023-11,Obervieland,All reports (categories pending),2,complete_month
+2023-11,Osterholz,All reports (categories pending),3,complete_month
+2023-11,Schwachhausen,All reports (categories pending),1,complete_month
+2023-11,Seehausen,All reports (categories pending),0,complete_month
+2023-11,Strom,All reports (categories pending),0,complete_month
+2023-11,Unknown,All reports (categories pending),7,complete_month
+2023-11,Vahr,All reports (categories pending),0,complete_month
+2023-11,Vegesack,All reports (categories pending),5,complete_month
+2023-11,Walle,All reports (categories pending),6,complete_month
+2023-11,Woltmershausen,All reports (categories pending),1,complete_month
+2023-11,Östliche Vorstadt,All reports (categories pending),5,complete_month
+2023-12,Blockland,All reports (categories pending),0,complete_month
+2023-12,Blumenthal,All reports (categories pending),2,complete_month
+2023-12,Borgfeld,All reports (categories pending),0,complete_month
+2023-12,Burglesum,All reports (categories pending),0,complete_month
+2023-12,Findorff,All reports (categories pending),0,complete_month
+2023-12,Gröpelingen,All reports (categories pending),2,complete_month
+2023-12,Hemelingen,All reports (categories pending),1,complete_month
+2023-12,Horn-Lehe,All reports (categories pending),1,complete_month
+2023-12,Huchting,All reports (categories pending),2,complete_month
+2023-12,Häfen,All reports (categories pending),0,complete_month
+2023-12,Mitte,All reports (categories pending),12,complete_month
+2023-12,Neustadt,All reports (categories pending),5,complete_month
+2023-12,Oberneuland,All reports (categories pending),1,complete_month
+2023-12,Obervieland,All reports (categories pending),4,complete_month
+2023-12,Osterholz,All reports (categories pending),2,complete_month
+2023-12,Schwachhausen,All reports (categories pending),0,complete_month
+2023-12,Seehausen,All reports (categories pending),0,complete_month
+2023-12,Strom,All reports (categories pending),0,complete_month
+2023-12,Unknown,All reports (categories pending),12,complete_month
+2023-12,Vahr,All reports (categories pending),1,complete_month
+2023-12,Vegesack,All reports (categories pending),5,complete_month
+2023-12,Walle,All reports (categories pending),1,complete_month
+2023-12,Woltmershausen,All reports (categories pending),0,complete_month
+2023-12,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2024-01,Blockland,All reports (categories pending),0,complete_month
+2024-01,Blumenthal,All reports (categories pending),4,complete_month
+2024-01,Borgfeld,All reports (categories pending),0,complete_month
+2024-01,Burglesum,All reports (categories pending),8,complete_month
+2024-01,Findorff,All reports (categories pending),0,complete_month
+2024-01,Gröpelingen,All reports (categories pending),2,complete_month
+2024-01,Hemelingen,All reports (categories pending),4,complete_month
+2024-01,Horn-Lehe,All reports (categories pending),0,complete_month
+2024-01,Huchting,All reports (categories pending),2,complete_month
+2024-01,Häfen,All reports (categories pending),0,complete_month
+2024-01,Mitte,All reports (categories pending),9,complete_month
+2024-01,Neustadt,All reports (categories pending),4,complete_month
+2024-01,Oberneuland,All reports (categories pending),0,complete_month
+2024-01,Obervieland,All reports (categories pending),0,complete_month
+2024-01,Osterholz,All reports (categories pending),2,complete_month
+2024-01,Schwachhausen,All reports (categories pending),2,complete_month
+2024-01,Seehausen,All reports (categories pending),0,complete_month
+2024-01,Strom,All reports (categories pending),0,complete_month
+2024-01,Unknown,All reports (categories pending),8,complete_month
+2024-01,Vahr,All reports (categories pending),1,complete_month
+2024-01,Vegesack,All reports (categories pending),3,complete_month
+2024-01,Walle,All reports (categories pending),2,complete_month
+2024-01,Woltmershausen,All reports (categories pending),0,complete_month
+2024-01,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2024-02,Blockland,All reports (categories pending),0,complete_month
+2024-02,Blumenthal,All reports (categories pending),1,complete_month
+2024-02,Borgfeld,All reports (categories pending),0,complete_month
+2024-02,Burglesum,All reports (categories pending),0,complete_month
+2024-02,Findorff,All reports (categories pending),3,complete_month
+2024-02,Gröpelingen,All reports (categories pending),3,complete_month
+2024-02,Hemelingen,All reports (categories pending),3,complete_month
+2024-02,Horn-Lehe,All reports (categories pending),3,complete_month
+2024-02,Huchting,All reports (categories pending),0,complete_month
+2024-02,Häfen,All reports (categories pending),0,complete_month
+2024-02,Mitte,All reports (categories pending),7,complete_month
+2024-02,Neustadt,All reports (categories pending),7,complete_month
+2024-02,Oberneuland,All reports (categories pending),0,complete_month
+2024-02,Obervieland,All reports (categories pending),1,complete_month
+2024-02,Osterholz,All reports (categories pending),3,complete_month
+2024-02,Schwachhausen,All reports (categories pending),1,complete_month
+2024-02,Seehausen,All reports (categories pending),1,complete_month
+2024-02,Strom,All reports (categories pending),0,complete_month
+2024-02,Unknown,All reports (categories pending),12,complete_month
+2024-02,Vahr,All reports (categories pending),3,complete_month
+2024-02,Vegesack,All reports (categories pending),6,complete_month
+2024-02,Walle,All reports (categories pending),8,complete_month
+2024-02,Woltmershausen,All reports (categories pending),4,complete_month
+2024-02,Östliche Vorstadt,All reports (categories pending),1,complete_month
+2024-03,Blockland,All reports (categories pending),0,complete_month
+2024-03,Blumenthal,All reports (categories pending),0,complete_month
+2024-03,Borgfeld,All reports (categories pending),0,complete_month
+2024-03,Burglesum,All reports (categories pending),0,complete_month
+2024-03,Findorff,All reports (categories pending),3,complete_month
+2024-03,Gröpelingen,All reports (categories pending),3,complete_month
+2024-03,Hemelingen,All reports (categories pending),2,complete_month
+2024-03,Horn-Lehe,All reports (categories pending),1,complete_month
+2024-03,Huchting,All reports (categories pending),1,complete_month
+2024-03,Häfen,All reports (categories pending),0,complete_month
+2024-03,Mitte,All reports (categories pending),10,complete_month
+2024-03,Neustadt,All reports (categories pending),4,complete_month
+2024-03,Oberneuland,All reports (categories pending),2,complete_month
+2024-03,Obervieland,All reports (categories pending),1,complete_month
+2024-03,Osterholz,All reports (categories pending),0,complete_month
+2024-03,Schwachhausen,All reports (categories pending),2,complete_month
+2024-03,Seehausen,All reports (categories pending),0,complete_month
+2024-03,Strom,All reports (categories pending),0,complete_month
+2024-03,Unknown,All reports (categories pending),17,complete_month
+2024-03,Vahr,All reports (categories pending),0,complete_month
+2024-03,Vegesack,All reports (categories pending),1,complete_month
+2024-03,Walle,All reports (categories pending),4,complete_month
+2024-03,Woltmershausen,All reports (categories pending),1,complete_month
+2024-03,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2024-04,Blockland,All reports (categories pending),0,complete_month
+2024-04,Blumenthal,All reports (categories pending),2,complete_month
+2024-04,Borgfeld,All reports (categories pending),1,complete_month
+2024-04,Burglesum,All reports (categories pending),0,complete_month
+2024-04,Findorff,All reports (categories pending),1,complete_month
+2024-04,Gröpelingen,All reports (categories pending),4,complete_month
+2024-04,Hemelingen,All reports (categories pending),4,complete_month
+2024-04,Horn-Lehe,All reports (categories pending),5,complete_month
+2024-04,Huchting,All reports (categories pending),1,complete_month
+2024-04,Häfen,All reports (categories pending),0,complete_month
+2024-04,Mitte,All reports (categories pending),15,complete_month
+2024-04,Neustadt,All reports (categories pending),2,complete_month
+2024-04,Oberneuland,All reports (categories pending),1,complete_month
+2024-04,Obervieland,All reports (categories pending),1,complete_month
+2024-04,Osterholz,All reports (categories pending),1,complete_month
+2024-04,Schwachhausen,All reports (categories pending),2,complete_month
+2024-04,Seehausen,All reports (categories pending),0,complete_month
+2024-04,Strom,All reports (categories pending),0,complete_month
+2024-04,Unknown,All reports (categories pending),9,complete_month
+2024-04,Vahr,All reports (categories pending),3,complete_month
+2024-04,Vegesack,All reports (categories pending),2,complete_month
+2024-04,Walle,All reports (categories pending),4,complete_month
+2024-04,Woltmershausen,All reports (categories pending),0,complete_month
+2024-04,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2024-05,Blockland,All reports (categories pending),0,complete_month
+2024-05,Blumenthal,All reports (categories pending),0,complete_month
+2024-05,Borgfeld,All reports (categories pending),1,complete_month
+2024-05,Burglesum,All reports (categories pending),1,complete_month
+2024-05,Findorff,All reports (categories pending),1,complete_month
+2024-05,Gröpelingen,All reports (categories pending),2,complete_month
+2024-05,Hemelingen,All reports (categories pending),4,complete_month
+2024-05,Horn-Lehe,All reports (categories pending),3,complete_month
+2024-05,Huchting,All reports (categories pending),4,complete_month
+2024-05,Häfen,All reports (categories pending),2,complete_month
+2024-05,Mitte,All reports (categories pending),16,complete_month
+2024-05,Neustadt,All reports (categories pending),5,complete_month
+2024-05,Oberneuland,All reports (categories pending),0,complete_month
+2024-05,Obervieland,All reports (categories pending),1,complete_month
+2024-05,Osterholz,All reports (categories pending),4,complete_month
+2024-05,Schwachhausen,All reports (categories pending),4,complete_month
+2024-05,Seehausen,All reports (categories pending),0,complete_month
+2024-05,Strom,All reports (categories pending),0,complete_month
+2024-05,Unknown,All reports (categories pending),10,complete_month
+2024-05,Vahr,All reports (categories pending),3,complete_month
+2024-05,Vegesack,All reports (categories pending),1,complete_month
+2024-05,Walle,All reports (categories pending),5,complete_month
+2024-05,Woltmershausen,All reports (categories pending),0,complete_month
+2024-05,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2024-06,Blockland,All reports (categories pending),0,complete_month
+2024-06,Blumenthal,All reports (categories pending),3,complete_month
+2024-06,Borgfeld,All reports (categories pending),0,complete_month
+2024-06,Burglesum,All reports (categories pending),1,complete_month
+2024-06,Findorff,All reports (categories pending),1,complete_month
+2024-06,Gröpelingen,All reports (categories pending),7,complete_month
+2024-06,Hemelingen,All reports (categories pending),1,complete_month
+2024-06,Horn-Lehe,All reports (categories pending),0,complete_month
+2024-06,Huchting,All reports (categories pending),2,complete_month
+2024-06,Häfen,All reports (categories pending),0,complete_month
+2024-06,Mitte,All reports (categories pending),21,complete_month
+2024-06,Neustadt,All reports (categories pending),5,complete_month
+2024-06,Oberneuland,All reports (categories pending),0,complete_month
+2024-06,Obervieland,All reports (categories pending),1,complete_month
+2024-06,Osterholz,All reports (categories pending),4,complete_month
+2024-06,Schwachhausen,All reports (categories pending),3,complete_month
+2024-06,Seehausen,All reports (categories pending),0,complete_month
+2024-06,Strom,All reports (categories pending),1,complete_month
+2024-06,Unknown,All reports (categories pending),13,complete_month
+2024-06,Vahr,All reports (categories pending),4,complete_month
+2024-06,Vegesack,All reports (categories pending),0,complete_month
+2024-06,Walle,All reports (categories pending),6,complete_month
+2024-06,Woltmershausen,All reports (categories pending),0,complete_month
+2024-06,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2024-07,Blockland,All reports (categories pending),0,complete_month
+2024-07,Blumenthal,All reports (categories pending),1,complete_month
+2024-07,Borgfeld,All reports (categories pending),0,complete_month
+2024-07,Burglesum,All reports (categories pending),0,complete_month
+2024-07,Findorff,All reports (categories pending),0,complete_month
+2024-07,Gröpelingen,All reports (categories pending),4,complete_month
+2024-07,Hemelingen,All reports (categories pending),4,complete_month
+2024-07,Horn-Lehe,All reports (categories pending),0,complete_month
+2024-07,Huchting,All reports (categories pending),1,complete_month
+2024-07,Häfen,All reports (categories pending),0,complete_month
+2024-07,Mitte,All reports (categories pending),16,complete_month
+2024-07,Neustadt,All reports (categories pending),11,complete_month
+2024-07,Oberneuland,All reports (categories pending),2,complete_month
+2024-07,Obervieland,All reports (categories pending),3,complete_month
+2024-07,Osterholz,All reports (categories pending),0,complete_month
+2024-07,Schwachhausen,All reports (categories pending),1,complete_month
+2024-07,Seehausen,All reports (categories pending),0,complete_month
+2024-07,Strom,All reports (categories pending),0,complete_month
+2024-07,Unknown,All reports (categories pending),10,complete_month
+2024-07,Vahr,All reports (categories pending),3,complete_month
+2024-07,Vegesack,All reports (categories pending),3,complete_month
+2024-07,Walle,All reports (categories pending),4,complete_month
+2024-07,Woltmershausen,All reports (categories pending),0,complete_month
+2024-07,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2024-08,Blockland,All reports (categories pending),0,complete_month
+2024-08,Blumenthal,All reports (categories pending),0,complete_month
+2024-08,Borgfeld,All reports (categories pending),0,complete_month
+2024-08,Burglesum,All reports (categories pending),1,complete_month
+2024-08,Findorff,All reports (categories pending),3,complete_month
+2024-08,Gröpelingen,All reports (categories pending),5,complete_month
+2024-08,Hemelingen,All reports (categories pending),4,complete_month
+2024-08,Horn-Lehe,All reports (categories pending),0,complete_month
+2024-08,Huchting,All reports (categories pending),6,complete_month
+2024-08,Häfen,All reports (categories pending),1,complete_month
+2024-08,Mitte,All reports (categories pending),17,complete_month
+2024-08,Neustadt,All reports (categories pending),4,complete_month
+2024-08,Oberneuland,All reports (categories pending),2,complete_month
+2024-08,Obervieland,All reports (categories pending),4,complete_month
+2024-08,Osterholz,All reports (categories pending),3,complete_month
+2024-08,Schwachhausen,All reports (categories pending),1,complete_month
+2024-08,Seehausen,All reports (categories pending),1,complete_month
+2024-08,Strom,All reports (categories pending),0,complete_month
+2024-08,Unknown,All reports (categories pending),12,complete_month
+2024-08,Vahr,All reports (categories pending),1,complete_month
+2024-08,Vegesack,All reports (categories pending),3,complete_month
+2024-08,Walle,All reports (categories pending),7,complete_month
+2024-08,Woltmershausen,All reports (categories pending),2,complete_month
+2024-08,Östliche Vorstadt,All reports (categories pending),1,complete_month
+2024-09,Blockland,All reports (categories pending),0,complete_month
+2024-09,Blumenthal,All reports (categories pending),1,complete_month
+2024-09,Borgfeld,All reports (categories pending),0,complete_month
+2024-09,Burglesum,All reports (categories pending),4,complete_month
+2024-09,Findorff,All reports (categories pending),3,complete_month
+2024-09,Gröpelingen,All reports (categories pending),4,complete_month
+2024-09,Hemelingen,All reports (categories pending),5,complete_month
+2024-09,Horn-Lehe,All reports (categories pending),0,complete_month
+2024-09,Huchting,All reports (categories pending),3,complete_month
+2024-09,Häfen,All reports (categories pending),0,complete_month
+2024-09,Mitte,All reports (categories pending),15,complete_month
+2024-09,Neustadt,All reports (categories pending),6,complete_month
+2024-09,Oberneuland,All reports (categories pending),0,complete_month
+2024-09,Obervieland,All reports (categories pending),4,complete_month
+2024-09,Osterholz,All reports (categories pending),3,complete_month
+2024-09,Schwachhausen,All reports (categories pending),2,complete_month
+2024-09,Seehausen,All reports (categories pending),0,complete_month
+2024-09,Strom,All reports (categories pending),0,complete_month
+2024-09,Unknown,All reports (categories pending),14,complete_month
+2024-09,Vahr,All reports (categories pending),2,complete_month
+2024-09,Vegesack,All reports (categories pending),1,complete_month
+2024-09,Walle,All reports (categories pending),6,complete_month
+2024-09,Woltmershausen,All reports (categories pending),0,complete_month
+2024-09,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2024-10,Blockland,All reports (categories pending),1,complete_month
+2024-10,Blumenthal,All reports (categories pending),0,complete_month
+2024-10,Borgfeld,All reports (categories pending),1,complete_month
+2024-10,Burglesum,All reports (categories pending),2,complete_month
+2024-10,Findorff,All reports (categories pending),0,complete_month
+2024-10,Gröpelingen,All reports (categories pending),4,complete_month
+2024-10,Hemelingen,All reports (categories pending),0,complete_month
+2024-10,Horn-Lehe,All reports (categories pending),0,complete_month
+2024-10,Huchting,All reports (categories pending),3,complete_month
+2024-10,Häfen,All reports (categories pending),1,complete_month
+2024-10,Mitte,All reports (categories pending),13,complete_month
+2024-10,Neustadt,All reports (categories pending),3,complete_month
+2024-10,Oberneuland,All reports (categories pending),0,complete_month
+2024-10,Obervieland,All reports (categories pending),5,complete_month
+2024-10,Osterholz,All reports (categories pending),0,complete_month
+2024-10,Schwachhausen,All reports (categories pending),0,complete_month
+2024-10,Seehausen,All reports (categories pending),0,complete_month
+2024-10,Strom,All reports (categories pending),0,complete_month
+2024-10,Unknown,All reports (categories pending),20,complete_month
+2024-10,Vahr,All reports (categories pending),0,complete_month
+2024-10,Vegesack,All reports (categories pending),1,complete_month
+2024-10,Walle,All reports (categories pending),7,complete_month
+2024-10,Woltmershausen,All reports (categories pending),0,complete_month
+2024-10,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2024-11,Blockland,All reports (categories pending),0,complete_month
+2024-11,Blumenthal,All reports (categories pending),2,complete_month
+2024-11,Borgfeld,All reports (categories pending),0,complete_month
+2024-11,Burglesum,All reports (categories pending),1,complete_month
+2024-11,Findorff,All reports (categories pending),0,complete_month
+2024-11,Gröpelingen,All reports (categories pending),3,complete_month
+2024-11,Hemelingen,All reports (categories pending),0,complete_month
+2024-11,Horn-Lehe,All reports (categories pending),3,complete_month
+2024-11,Huchting,All reports (categories pending),7,complete_month
+2024-11,Häfen,All reports (categories pending),0,complete_month
+2024-11,Mitte,All reports (categories pending),5,complete_month
+2024-11,Neustadt,All reports (categories pending),5,complete_month
+2024-11,Oberneuland,All reports (categories pending),0,complete_month
+2024-11,Obervieland,All reports (categories pending),4,complete_month
+2024-11,Osterholz,All reports (categories pending),3,complete_month
+2024-11,Schwachhausen,All reports (categories pending),3,complete_month
+2024-11,Seehausen,All reports (categories pending),0,complete_month
+2024-11,Strom,All reports (categories pending),0,complete_month
+2024-11,Unknown,All reports (categories pending),14,complete_month
+2024-11,Vahr,All reports (categories pending),1,complete_month
+2024-11,Vegesack,All reports (categories pending),1,complete_month
+2024-11,Walle,All reports (categories pending),8,complete_month
+2024-11,Woltmershausen,All reports (categories pending),2,complete_month
+2024-11,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2024-12,Blockland,All reports (categories pending),0,complete_month
+2024-12,Blumenthal,All reports (categories pending),1,complete_month
+2024-12,Borgfeld,All reports (categories pending),0,complete_month
+2024-12,Burglesum,All reports (categories pending),2,complete_month
+2024-12,Findorff,All reports (categories pending),0,complete_month
+2024-12,Gröpelingen,All reports (categories pending),2,complete_month
+2024-12,Hemelingen,All reports (categories pending),1,complete_month
+2024-12,Horn-Lehe,All reports (categories pending),1,complete_month
+2024-12,Huchting,All reports (categories pending),0,complete_month
+2024-12,Häfen,All reports (categories pending),1,complete_month
+2024-12,Mitte,All reports (categories pending),10,complete_month
+2024-12,Neustadt,All reports (categories pending),7,complete_month
+2024-12,Oberneuland,All reports (categories pending),1,complete_month
+2024-12,Obervieland,All reports (categories pending),2,complete_month
+2024-12,Osterholz,All reports (categories pending),2,complete_month
+2024-12,Schwachhausen,All reports (categories pending),1,complete_month
+2024-12,Seehausen,All reports (categories pending),0,complete_month
+2024-12,Strom,All reports (categories pending),0,complete_month
+2024-12,Unknown,All reports (categories pending),13,complete_month
+2024-12,Vahr,All reports (categories pending),1,complete_month
+2024-12,Vegesack,All reports (categories pending),3,complete_month
+2024-12,Walle,All reports (categories pending),3,complete_month
+2024-12,Woltmershausen,All reports (categories pending),1,complete_month
+2024-12,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2025-01,Blockland,All reports (categories pending),0,complete_month
+2025-01,Blumenthal,All reports (categories pending),3,complete_month
+2025-01,Borgfeld,All reports (categories pending),0,complete_month
+2025-01,Burglesum,All reports (categories pending),2,complete_month
+2025-01,Findorff,All reports (categories pending),0,complete_month
+2025-01,Gröpelingen,All reports (categories pending),5,complete_month
+2025-01,Hemelingen,All reports (categories pending),7,complete_month
+2025-01,Horn-Lehe,All reports (categories pending),2,complete_month
+2025-01,Huchting,All reports (categories pending),1,complete_month
+2025-01,Häfen,All reports (categories pending),1,complete_month
+2025-01,Mitte,All reports (categories pending),12,complete_month
+2025-01,Neustadt,All reports (categories pending),6,complete_month
+2025-01,Oberneuland,All reports (categories pending),0,complete_month
+2025-01,Obervieland,All reports (categories pending),1,complete_month
+2025-01,Osterholz,All reports (categories pending),0,complete_month
+2025-01,Schwachhausen,All reports (categories pending),2,complete_month
+2025-01,Seehausen,All reports (categories pending),0,complete_month
+2025-01,Strom,All reports (categories pending),0,complete_month
+2025-01,Unknown,All reports (categories pending),14,complete_month
+2025-01,Vahr,All reports (categories pending),2,complete_month
+2025-01,Vegesack,All reports (categories pending),1,complete_month
+2025-01,Walle,All reports (categories pending),3,complete_month
+2025-01,Woltmershausen,All reports (categories pending),0,complete_month
+2025-01,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2025-02,Blockland,All reports (categories pending),0,complete_month
+2025-02,Blumenthal,All reports (categories pending),2,complete_month
+2025-02,Borgfeld,All reports (categories pending),0,complete_month
+2025-02,Burglesum,All reports (categories pending),0,complete_month
+2025-02,Findorff,All reports (categories pending),0,complete_month
+2025-02,Gröpelingen,All reports (categories pending),2,complete_month
+2025-02,Hemelingen,All reports (categories pending),9,complete_month
+2025-02,Horn-Lehe,All reports (categories pending),2,complete_month
+2025-02,Huchting,All reports (categories pending),3,complete_month
+2025-02,Häfen,All reports (categories pending),0,complete_month
+2025-02,Mitte,All reports (categories pending),9,complete_month
+2025-02,Neustadt,All reports (categories pending),2,complete_month
+2025-02,Oberneuland,All reports (categories pending),0,complete_month
+2025-02,Obervieland,All reports (categories pending),1,complete_month
+2025-02,Osterholz,All reports (categories pending),4,complete_month
+2025-02,Schwachhausen,All reports (categories pending),0,complete_month
+2025-02,Seehausen,All reports (categories pending),0,complete_month
+2025-02,Strom,All reports (categories pending),0,complete_month
+2025-02,Unknown,All reports (categories pending),15,complete_month
+2025-02,Vahr,All reports (categories pending),2,complete_month
+2025-02,Vegesack,All reports (categories pending),6,complete_month
+2025-02,Walle,All reports (categories pending),2,complete_month
+2025-02,Woltmershausen,All reports (categories pending),0,complete_month
+2025-02,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2025-03,Blockland,All reports (categories pending),0,complete_month
+2025-03,Blumenthal,All reports (categories pending),3,complete_month
+2025-03,Borgfeld,All reports (categories pending),0,complete_month
+2025-03,Burglesum,All reports (categories pending),3,complete_month
+2025-03,Findorff,All reports (categories pending),2,complete_month
+2025-03,Gröpelingen,All reports (categories pending),4,complete_month
+2025-03,Hemelingen,All reports (categories pending),4,complete_month
+2025-03,Horn-Lehe,All reports (categories pending),1,complete_month
+2025-03,Huchting,All reports (categories pending),6,complete_month
+2025-03,Häfen,All reports (categories pending),0,complete_month
+2025-03,Mitte,All reports (categories pending),11,complete_month
+2025-03,Neustadt,All reports (categories pending),7,complete_month
+2025-03,Oberneuland,All reports (categories pending),1,complete_month
+2025-03,Obervieland,All reports (categories pending),0,complete_month
+2025-03,Osterholz,All reports (categories pending),2,complete_month
+2025-03,Schwachhausen,All reports (categories pending),2,complete_month
+2025-03,Seehausen,All reports (categories pending),0,complete_month
+2025-03,Strom,All reports (categories pending),1,complete_month
+2025-03,Unknown,All reports (categories pending),18,complete_month
+2025-03,Vahr,All reports (categories pending),0,complete_month
+2025-03,Vegesack,All reports (categories pending),4,complete_month
+2025-03,Walle,All reports (categories pending),4,complete_month
+2025-03,Woltmershausen,All reports (categories pending),2,complete_month
+2025-03,Östliche Vorstadt,All reports (categories pending),6,complete_month
+2025-04,Blockland,All reports (categories pending),0,complete_month
+2025-04,Blumenthal,All reports (categories pending),1,complete_month
+2025-04,Borgfeld,All reports (categories pending),1,complete_month
+2025-04,Burglesum,All reports (categories pending),1,complete_month
+2025-04,Findorff,All reports (categories pending),3,complete_month
+2025-04,Gröpelingen,All reports (categories pending),3,complete_month
+2025-04,Hemelingen,All reports (categories pending),6,complete_month
+2025-04,Horn-Lehe,All reports (categories pending),1,complete_month
+2025-04,Huchting,All reports (categories pending),2,complete_month
+2025-04,Häfen,All reports (categories pending),0,complete_month
+2025-04,Mitte,All reports (categories pending),9,complete_month
+2025-04,Neustadt,All reports (categories pending),6,complete_month
+2025-04,Oberneuland,All reports (categories pending),0,complete_month
+2025-04,Obervieland,All reports (categories pending),1,complete_month
+2025-04,Osterholz,All reports (categories pending),2,complete_month
+2025-04,Schwachhausen,All reports (categories pending),1,complete_month
+2025-04,Seehausen,All reports (categories pending),0,complete_month
+2025-04,Strom,All reports (categories pending),0,complete_month
+2025-04,Unknown,All reports (categories pending),18,complete_month
+2025-04,Vahr,All reports (categories pending),4,complete_month
+2025-04,Vegesack,All reports (categories pending),4,complete_month
+2025-04,Walle,All reports (categories pending),8,complete_month
+2025-04,Woltmershausen,All reports (categories pending),5,complete_month
+2025-04,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2025-05,Blockland,All reports (categories pending),0,complete_month
+2025-05,Blumenthal,All reports (categories pending),2,complete_month
+2025-05,Borgfeld,All reports (categories pending),1,complete_month
+2025-05,Burglesum,All reports (categories pending),1,complete_month
+2025-05,Findorff,All reports (categories pending),1,complete_month
+2025-05,Gröpelingen,All reports (categories pending),5,complete_month
+2025-05,Hemelingen,All reports (categories pending),0,complete_month
+2025-05,Horn-Lehe,All reports (categories pending),0,complete_month
+2025-05,Huchting,All reports (categories pending),1,complete_month
+2025-05,Häfen,All reports (categories pending),0,complete_month
+2025-05,Mitte,All reports (categories pending),11,complete_month
+2025-05,Neustadt,All reports (categories pending),6,complete_month
+2025-05,Oberneuland,All reports (categories pending),1,complete_month
+2025-05,Obervieland,All reports (categories pending),3,complete_month
+2025-05,Osterholz,All reports (categories pending),3,complete_month
+2025-05,Schwachhausen,All reports (categories pending),2,complete_month
+2025-05,Seehausen,All reports (categories pending),0,complete_month
+2025-05,Strom,All reports (categories pending),0,complete_month
+2025-05,Unknown,All reports (categories pending),16,complete_month
+2025-05,Vahr,All reports (categories pending),2,complete_month
+2025-05,Vegesack,All reports (categories pending),4,complete_month
+2025-05,Walle,All reports (categories pending),4,complete_month
+2025-05,Woltmershausen,All reports (categories pending),1,complete_month
+2025-05,Östliche Vorstadt,All reports (categories pending),1,complete_month
+2025-06,Blockland,All reports (categories pending),0,complete_month
+2025-06,Blumenthal,All reports (categories pending),1,complete_month
+2025-06,Borgfeld,All reports (categories pending),0,complete_month
+2025-06,Burglesum,All reports (categories pending),5,complete_month
+2025-06,Findorff,All reports (categories pending),1,complete_month
+2025-06,Gröpelingen,All reports (categories pending),6,complete_month
+2025-06,Hemelingen,All reports (categories pending),3,complete_month
+2025-06,Horn-Lehe,All reports (categories pending),1,complete_month
+2025-06,Huchting,All reports (categories pending),1,complete_month
+2025-06,Häfen,All reports (categories pending),1,complete_month
+2025-06,Mitte,All reports (categories pending),7,complete_month
+2025-06,Neustadt,All reports (categories pending),2,complete_month
+2025-06,Oberneuland,All reports (categories pending),2,complete_month
+2025-06,Obervieland,All reports (categories pending),0,complete_month
+2025-06,Osterholz,All reports (categories pending),2,complete_month
+2025-06,Schwachhausen,All reports (categories pending),1,complete_month
+2025-06,Seehausen,All reports (categories pending),0,complete_month
+2025-06,Strom,All reports (categories pending),0,complete_month
+2025-06,Unknown,All reports (categories pending),14,complete_month
+2025-06,Vahr,All reports (categories pending),1,complete_month
+2025-06,Vegesack,All reports (categories pending),1,complete_month
+2025-06,Walle,All reports (categories pending),4,complete_month
+2025-06,Woltmershausen,All reports (categories pending),1,complete_month
+2025-06,Östliche Vorstadt,All reports (categories pending),1,complete_month
+2025-07,Blockland,All reports (categories pending),0,complete_month
+2025-07,Blumenthal,All reports (categories pending),0,complete_month
+2025-07,Borgfeld,All reports (categories pending),0,complete_month
+2025-07,Burglesum,All reports (categories pending),2,complete_month
+2025-07,Findorff,All reports (categories pending),1,complete_month
+2025-07,Gröpelingen,All reports (categories pending),7,complete_month
+2025-07,Hemelingen,All reports (categories pending),10,complete_month
+2025-07,Horn-Lehe,All reports (categories pending),4,complete_month
+2025-07,Huchting,All reports (categories pending),1,complete_month
+2025-07,Häfen,All reports (categories pending),2,complete_month
+2025-07,Mitte,All reports (categories pending),16,complete_month
+2025-07,Neustadt,All reports (categories pending),6,complete_month
+2025-07,Oberneuland,All reports (categories pending),0,complete_month
+2025-07,Obervieland,All reports (categories pending),2,complete_month
+2025-07,Osterholz,All reports (categories pending),1,complete_month
+2025-07,Schwachhausen,All reports (categories pending),1,complete_month
+2025-07,Seehausen,All reports (categories pending),0,complete_month
+2025-07,Strom,All reports (categories pending),1,complete_month
+2025-07,Unknown,All reports (categories pending),10,complete_month
+2025-07,Vahr,All reports (categories pending),1,complete_month
+2025-07,Vegesack,All reports (categories pending),4,complete_month
+2025-07,Walle,All reports (categories pending),4,complete_month
+2025-07,Woltmershausen,All reports (categories pending),1,complete_month
+2025-07,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2025-08,Blockland,All reports (categories pending),0,complete_month
+2025-08,Blumenthal,All reports (categories pending),0,complete_month
+2025-08,Borgfeld,All reports (categories pending),0,complete_month
+2025-08,Burglesum,All reports (categories pending),4,complete_month
+2025-08,Findorff,All reports (categories pending),1,complete_month
+2025-08,Gröpelingen,All reports (categories pending),7,complete_month
+2025-08,Hemelingen,All reports (categories pending),6,complete_month
+2025-08,Horn-Lehe,All reports (categories pending),2,complete_month
+2025-08,Huchting,All reports (categories pending),1,complete_month
+2025-08,Häfen,All reports (categories pending),1,complete_month
+2025-08,Mitte,All reports (categories pending),10,complete_month
+2025-08,Neustadt,All reports (categories pending),8,complete_month
+2025-08,Oberneuland,All reports (categories pending),2,complete_month
+2025-08,Obervieland,All reports (categories pending),1,complete_month
+2025-08,Osterholz,All reports (categories pending),1,complete_month
+2025-08,Schwachhausen,All reports (categories pending),4,complete_month
+2025-08,Seehausen,All reports (categories pending),0,complete_month
+2025-08,Strom,All reports (categories pending),0,complete_month
+2025-08,Unknown,All reports (categories pending),15,complete_month
+2025-08,Vahr,All reports (categories pending),4,complete_month
+2025-08,Vegesack,All reports (categories pending),1,complete_month
+2025-08,Walle,All reports (categories pending),6,complete_month
+2025-08,Woltmershausen,All reports (categories pending),3,complete_month
+2025-08,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2025-09,Blockland,All reports (categories pending),0,complete_month
+2025-09,Blumenthal,All reports (categories pending),0,complete_month
+2025-09,Borgfeld,All reports (categories pending),0,complete_month
+2025-09,Burglesum,All reports (categories pending),1,complete_month
+2025-09,Findorff,All reports (categories pending),1,complete_month
+2025-09,Gröpelingen,All reports (categories pending),4,complete_month
+2025-09,Hemelingen,All reports (categories pending),3,complete_month
+2025-09,Horn-Lehe,All reports (categories pending),2,complete_month
+2025-09,Huchting,All reports (categories pending),0,complete_month
+2025-09,Häfen,All reports (categories pending),1,complete_month
+2025-09,Mitte,All reports (categories pending),11,complete_month
+2025-09,Neustadt,All reports (categories pending),9,complete_month
+2025-09,Oberneuland,All reports (categories pending),0,complete_month
+2025-09,Obervieland,All reports (categories pending),2,complete_month
+2025-09,Osterholz,All reports (categories pending),5,complete_month
+2025-09,Schwachhausen,All reports (categories pending),0,complete_month
+2025-09,Seehausen,All reports (categories pending),0,complete_month
+2025-09,Strom,All reports (categories pending),0,complete_month
+2025-09,Unknown,All reports (categories pending),12,complete_month
+2025-09,Vahr,All reports (categories pending),4,complete_month
+2025-09,Vegesack,All reports (categories pending),2,complete_month
+2025-09,Walle,All reports (categories pending),5,complete_month
+2025-09,Woltmershausen,All reports (categories pending),2,complete_month
+2025-09,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2025-10,Blockland,All reports (categories pending),0,complete_month
+2025-10,Blumenthal,All reports (categories pending),4,complete_month
+2025-10,Borgfeld,All reports (categories pending),0,complete_month
+2025-10,Burglesum,All reports (categories pending),0,complete_month
+2025-10,Findorff,All reports (categories pending),0,complete_month
+2025-10,Gröpelingen,All reports (categories pending),3,complete_month
+2025-10,Hemelingen,All reports (categories pending),3,complete_month
+2025-10,Horn-Lehe,All reports (categories pending),4,complete_month
+2025-10,Huchting,All reports (categories pending),2,complete_month
+2025-10,Häfen,All reports (categories pending),0,complete_month
+2025-10,Mitte,All reports (categories pending),15,complete_month
+2025-10,Neustadt,All reports (categories pending),6,complete_month
+2025-10,Oberneuland,All reports (categories pending),0,complete_month
+2025-10,Obervieland,All reports (categories pending),2,complete_month
+2025-10,Osterholz,All reports (categories pending),4,complete_month
+2025-10,Schwachhausen,All reports (categories pending),2,complete_month
+2025-10,Seehausen,All reports (categories pending),0,complete_month
+2025-10,Strom,All reports (categories pending),1,complete_month
+2025-10,Unknown,All reports (categories pending),12,complete_month
+2025-10,Vahr,All reports (categories pending),4,complete_month
+2025-10,Vegesack,All reports (categories pending),1,complete_month
+2025-10,Walle,All reports (categories pending),7,complete_month
+2025-10,Woltmershausen,All reports (categories pending),1,complete_month
+2025-10,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2025-11,Blockland,All reports (categories pending),0,complete_month
+2025-11,Blumenthal,All reports (categories pending),3,complete_month
+2025-11,Borgfeld,All reports (categories pending),0,complete_month
+2025-11,Burglesum,All reports (categories pending),3,complete_month
+2025-11,Findorff,All reports (categories pending),1,complete_month
+2025-11,Gröpelingen,All reports (categories pending),2,complete_month
+2025-11,Hemelingen,All reports (categories pending),5,complete_month
+2025-11,Horn-Lehe,All reports (categories pending),3,complete_month
+2025-11,Huchting,All reports (categories pending),4,complete_month
+2025-11,Häfen,All reports (categories pending),3,complete_month
+2025-11,Mitte,All reports (categories pending),6,complete_month
+2025-11,Neustadt,All reports (categories pending),2,complete_month
+2025-11,Oberneuland,All reports (categories pending),0,complete_month
+2025-11,Obervieland,All reports (categories pending),3,complete_month
+2025-11,Osterholz,All reports (categories pending),3,complete_month
+2025-11,Schwachhausen,All reports (categories pending),1,complete_month
+2025-11,Seehausen,All reports (categories pending),0,complete_month
+2025-11,Strom,All reports (categories pending),0,complete_month
+2025-11,Unknown,All reports (categories pending),17,complete_month
+2025-11,Vahr,All reports (categories pending),7,complete_month
+2025-11,Vegesack,All reports (categories pending),2,complete_month
+2025-11,Walle,All reports (categories pending),3,complete_month
+2025-11,Woltmershausen,All reports (categories pending),1,complete_month
+2025-11,Östliche Vorstadt,All reports (categories pending),5,complete_month
+2025-12,Blockland,All reports (categories pending),0,complete_month
+2025-12,Blumenthal,All reports (categories pending),3,complete_month
+2025-12,Borgfeld,All reports (categories pending),0,complete_month
+2025-12,Burglesum,All reports (categories pending),3,complete_month
+2025-12,Findorff,All reports (categories pending),0,complete_month
+2025-12,Gröpelingen,All reports (categories pending),11,complete_month
+2025-12,Hemelingen,All reports (categories pending),2,complete_month
+2025-12,Horn-Lehe,All reports (categories pending),0,complete_month
+2025-12,Huchting,All reports (categories pending),1,complete_month
+2025-12,Häfen,All reports (categories pending),0,complete_month
+2025-12,Mitte,All reports (categories pending),8,complete_month
+2025-12,Neustadt,All reports (categories pending),3,complete_month
+2025-12,Oberneuland,All reports (categories pending),0,complete_month
+2025-12,Obervieland,All reports (categories pending),2,complete_month
+2025-12,Osterholz,All reports (categories pending),1,complete_month
+2025-12,Schwachhausen,All reports (categories pending),1,complete_month
+2025-12,Seehausen,All reports (categories pending),0,complete_month
+2025-12,Strom,All reports (categories pending),0,complete_month
+2025-12,Unknown,All reports (categories pending),12,complete_month
+2025-12,Vahr,All reports (categories pending),2,complete_month
+2025-12,Vegesack,All reports (categories pending),0,complete_month
+2025-12,Walle,All reports (categories pending),1,complete_month
+2025-12,Woltmershausen,All reports (categories pending),1,complete_month
+2025-12,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2026-01,Blockland,All reports (categories pending),0,complete_month
+2026-01,Blumenthal,All reports (categories pending),2,complete_month
+2026-01,Borgfeld,All reports (categories pending),0,complete_month
+2026-01,Burglesum,All reports (categories pending),1,complete_month
+2026-01,Findorff,All reports (categories pending),3,complete_month
+2026-01,Gröpelingen,All reports (categories pending),10,complete_month
+2026-01,Hemelingen,All reports (categories pending),1,complete_month
+2026-01,Horn-Lehe,All reports (categories pending),2,complete_month
+2026-01,Huchting,All reports (categories pending),4,complete_month
+2026-01,Häfen,All reports (categories pending),0,complete_month
+2026-01,Mitte,All reports (categories pending),10,complete_month
+2026-01,Neustadt,All reports (categories pending),17,complete_month
+2026-01,Oberneuland,All reports (categories pending),1,complete_month
+2026-01,Obervieland,All reports (categories pending),0,complete_month
+2026-01,Osterholz,All reports (categories pending),0,complete_month
+2026-01,Schwachhausen,All reports (categories pending),2,complete_month
+2026-01,Seehausen,All reports (categories pending),0,complete_month
+2026-01,Strom,All reports (categories pending),1,complete_month
+2026-01,Unknown,All reports (categories pending),21,complete_month
+2026-01,Vahr,All reports (categories pending),0,complete_month
+2026-01,Vegesack,All reports (categories pending),0,complete_month
+2026-01,Walle,All reports (categories pending),5,complete_month
+2026-01,Woltmershausen,All reports (categories pending),1,complete_month
+2026-01,Östliche Vorstadt,All reports (categories pending),5,complete_month
+2026-02,Blockland,All reports (categories pending),0,complete_month
+2026-02,Blumenthal,All reports (categories pending),0,complete_month
+2026-02,Borgfeld,All reports (categories pending),0,complete_month
+2026-02,Burglesum,All reports (categories pending),3,complete_month
+2026-02,Findorff,All reports (categories pending),0,complete_month
+2026-02,Gröpelingen,All reports (categories pending),6,complete_month
+2026-02,Hemelingen,All reports (categories pending),3,complete_month
+2026-02,Horn-Lehe,All reports (categories pending),0,complete_month
+2026-02,Huchting,All reports (categories pending),2,complete_month
+2026-02,Häfen,All reports (categories pending),0,complete_month
+2026-02,Mitte,All reports (categories pending),7,complete_month
+2026-02,Neustadt,All reports (categories pending),4,complete_month
+2026-02,Oberneuland,All reports (categories pending),0,complete_month
+2026-02,Obervieland,All reports (categories pending),2,complete_month
+2026-02,Osterholz,All reports (categories pending),3,complete_month
+2026-02,Schwachhausen,All reports (categories pending),1,complete_month
+2026-02,Seehausen,All reports (categories pending),0,complete_month
+2026-02,Strom,All reports (categories pending),0,complete_month
+2026-02,Unknown,All reports (categories pending),18,complete_month
+2026-02,Vahr,All reports (categories pending),2,complete_month
+2026-02,Vegesack,All reports (categories pending),2,complete_month
+2026-02,Walle,All reports (categories pending),5,complete_month
+2026-02,Woltmershausen,All reports (categories pending),1,complete_month
+2026-02,Östliche Vorstadt,All reports (categories pending),4,complete_month
+2026-03,Blockland,All reports (categories pending),0,complete_month
+2026-03,Blumenthal,All reports (categories pending),4,complete_month
+2026-03,Borgfeld,All reports (categories pending),1,complete_month
+2026-03,Burglesum,All reports (categories pending),1,complete_month
+2026-03,Findorff,All reports (categories pending),3,complete_month
+2026-03,Gröpelingen,All reports (categories pending),2,complete_month
+2026-03,Hemelingen,All reports (categories pending),3,complete_month
+2026-03,Horn-Lehe,All reports (categories pending),1,complete_month
+2026-03,Huchting,All reports (categories pending),1,complete_month
+2026-03,Häfen,All reports (categories pending),0,complete_month
+2026-03,Mitte,All reports (categories pending),14,complete_month
+2026-03,Neustadt,All reports (categories pending),6,complete_month
+2026-03,Oberneuland,All reports (categories pending),0,complete_month
+2026-03,Obervieland,All reports (categories pending),4,complete_month
+2026-03,Osterholz,All reports (categories pending),2,complete_month
+2026-03,Schwachhausen,All reports (categories pending),1,complete_month
+2026-03,Seehausen,All reports (categories pending),0,complete_month
+2026-03,Strom,All reports (categories pending),0,complete_month
+2026-03,Unknown,All reports (categories pending),17,complete_month
+2026-03,Vahr,All reports (categories pending),0,complete_month
+2026-03,Vegesack,All reports (categories pending),2,complete_month
+2026-03,Walle,All reports (categories pending),7,complete_month
+2026-03,Woltmershausen,All reports (categories pending),2,complete_month
+2026-03,Östliche Vorstadt,All reports (categories pending),2,complete_month
+2026-04,Blockland,All reports (categories pending),0,complete_month
+2026-04,Blumenthal,All reports (categories pending),3,complete_month
+2026-04,Borgfeld,All reports (categories pending),0,complete_month
+2026-04,Burglesum,All reports (categories pending),3,complete_month
+2026-04,Findorff,All reports (categories pending),1,complete_month
+2026-04,Gröpelingen,All reports (categories pending),3,complete_month
+2026-04,Hemelingen,All reports (categories pending),1,complete_month
+2026-04,Horn-Lehe,All reports (categories pending),1,complete_month
+2026-04,Huchting,All reports (categories pending),2,complete_month
+2026-04,Häfen,All reports (categories pending),0,complete_month
+2026-04,Mitte,All reports (categories pending),10,complete_month
+2026-04,Neustadt,All reports (categories pending),8,complete_month
+2026-04,Oberneuland,All reports (categories pending),0,complete_month
+2026-04,Obervieland,All reports (categories pending),1,complete_month
+2026-04,Osterholz,All reports (categories pending),4,complete_month
+2026-04,Schwachhausen,All reports (categories pending),1,complete_month
+2026-04,Seehausen,All reports (categories pending),0,complete_month
+2026-04,Strom,All reports (categories pending),0,complete_month
+2026-04,Unknown,All reports (categories pending),24,complete_month
+2026-04,Vahr,All reports (categories pending),3,complete_month
+2026-04,Vegesack,All reports (categories pending),4,complete_month
+2026-04,Walle,All reports (categories pending),4,complete_month
+2026-04,Woltmershausen,All reports (categories pending),0,complete_month
+2026-04,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2026-05,Blockland,All reports (categories pending),0,complete_month
+2026-05,Blumenthal,All reports (categories pending),0,complete_month
+2026-05,Borgfeld,All reports (categories pending),0,complete_month
+2026-05,Burglesum,All reports (categories pending),4,complete_month
+2026-05,Findorff,All reports (categories pending),1,complete_month
+2026-05,Gröpelingen,All reports (categories pending),2,complete_month
+2026-05,Hemelingen,All reports (categories pending),4,complete_month
+2026-05,Horn-Lehe,All reports (categories pending),0,complete_month
+2026-05,Huchting,All reports (categories pending),0,complete_month
+2026-05,Häfen,All reports (categories pending),2,complete_month
+2026-05,Mitte,All reports (categories pending),9,complete_month
+2026-05,Neustadt,All reports (categories pending),6,complete_month
+2026-05,Oberneuland,All reports (categories pending),0,complete_month
+2026-05,Obervieland,All reports (categories pending),1,complete_month
+2026-05,Osterholz,All reports (categories pending),2,complete_month
+2026-05,Schwachhausen,All reports (categories pending),4,complete_month
+2026-05,Seehausen,All reports (categories pending),0,complete_month
+2026-05,Strom,All reports (categories pending),0,complete_month
+2026-05,Unknown,All reports (categories pending),9,complete_month
+2026-05,Vahr,All reports (categories pending),3,complete_month
+2026-05,Vegesack,All reports (categories pending),1,complete_month
+2026-05,Walle,All reports (categories pending),8,complete_month
+2026-05,Woltmershausen,All reports (categories pending),0,complete_month
+2026-05,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2026-06,Blockland,All reports (categories pending),0,complete_month
+2026-06,Blumenthal,All reports (categories pending),3,complete_month
+2026-06,Borgfeld,All reports (categories pending),0,complete_month
+2026-06,Burglesum,All reports (categories pending),1,complete_month
+2026-06,Findorff,All reports (categories pending),2,complete_month
+2026-06,Gröpelingen,All reports (categories pending),6,complete_month
+2026-06,Hemelingen,All reports (categories pending),4,complete_month
+2026-06,Horn-Lehe,All reports (categories pending),0,complete_month
+2026-06,Huchting,All reports (categories pending),1,complete_month
+2026-06,Häfen,All reports (categories pending),0,complete_month
+2026-06,Mitte,All reports (categories pending),17,complete_month
+2026-06,Neustadt,All reports (categories pending),2,complete_month
+2026-06,Oberneuland,All reports (categories pending),0,complete_month
+2026-06,Obervieland,All reports (categories pending),2,complete_month
+2026-06,Osterholz,All reports (categories pending),0,complete_month
+2026-06,Schwachhausen,All reports (categories pending),1,complete_month
+2026-06,Seehausen,All reports (categories pending),0,complete_month
+2026-06,Strom,All reports (categories pending),1,complete_month
+2026-06,Unknown,All reports (categories pending),13,complete_month
+2026-06,Vahr,All reports (categories pending),4,complete_month
+2026-06,Vegesack,All reports (categories pending),6,complete_month
+2026-06,Walle,All reports (categories pending),10,complete_month
+2026-06,Woltmershausen,All reports (categories pending),2,complete_month
+2026-06,Östliche Vorstadt,All reports (categories pending),3,complete_month
+2026-07,Blockland,All reports (categories pending),0,complete_month
+2026-07,Blumenthal,All reports (categories pending),1,complete_month
+2026-07,Borgfeld,All reports (categories pending),0,complete_month
+2026-07,Burglesum,All reports (categories pending),2,complete_month
+2026-07,Findorff,All reports (categories pending),2,complete_month
+2026-07,Gröpelingen,All reports (categories pending),3,complete_month
+2026-07,Hemelingen,All reports (categories pending),1,complete_month
+2026-07,Horn-Lehe,All reports (categories pending),3,complete_month
+2026-07,Huchting,All reports (categories pending),2,complete_month
+2026-07,Häfen,All reports (categories pending),0,complete_month
+2026-07,Mitte,All reports (categories pending),8,complete_month
+2026-07,Neustadt,All reports (categories pending),11,complete_month
+2026-07,Oberneuland,All reports (categories pending),0,complete_month
+2026-07,Obervieland,All reports (categories pending),4,complete_month
+2026-07,Osterholz,All reports (categories pending),0,complete_month
+2026-07,Schwachhausen,All reports (categories pending),0,complete_month
+2026-07,Seehausen,All reports (categories pending),0,complete_month
+2026-07,Strom,All reports (categories pending),1,complete_month
+2026-07,Unknown,All reports (categories pending),5,complete_month
+2026-07,Vahr,All reports (categories pending),2,complete_month
+2026-07,Vegesack,All reports (categories pending),5,complete_month
+2026-07,Walle,All reports (categories pending),4,complete_month
+2026-07,Woltmershausen,All reports (categories pending),2,complete_month
+2026-07,Östliche Vorstadt,All reports (categories pending),6,complete_month
+2026-08,Blockland,All reports (categories pending),0,complete_month
+2026-08,Blumenthal,All reports (categories pending),1,complete_month
+2026-08,Borgfeld,All reports (categories pending),0,complete_month
+2026-08,Burglesum,All reports (categories pending),1,complete_month
+2026-08,Findorff,All reports (categories pending),1,complete_month
+2026-08,Gröpelingen,All reports (categories pending),5,complete_month
+2026-08,Hemelingen,All reports (categories pending),3,complete_month
+2026-08,Horn-Lehe,All reports (categories pending),1,complete_month
+2026-08,Huchting,All reports (categories pending),2,complete_month
+2026-08,Häfen,All reports (categories pending),1,complete_month
+2026-08,Mitte,All reports (categories pending),14,complete_month
+2026-08,Neustadt,All reports (categories pending),13,complete_month
+2026-08,Oberneuland,All reports (categories pending),0,complete_month
+2026-08,Obervieland,All reports (categories pending),0,complete_month
+2026-08,Osterholz,All reports (categories pending),2,complete_month
+2026-08,Schwachhausen,All reports (categories pending),1,complete_month
+2026-08,Seehausen,All reports (categories pending),0,complete_month
+2026-08,Strom,All reports (categories pending),0,complete_month
+2026-08,Unknown,All reports (categories pending),9,complete_month
+2026-08,Vahr,All reports (categories pending),1,complete_month
+2026-08,Vegesack,All reports (categories pending),1,complete_month
+2026-08,Walle,All reports (categories pending),7,complete_month
+2026-08,Woltmershausen,All reports (categories pending),3,complete_month
+2026-08,Östliche Vorstadt,All reports (categories pending),6,complete_month
+2026-09,Blockland,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Blumenthal,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Borgfeld,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Burglesum,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Findorff,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Gröpelingen,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Hemelingen,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Horn-Lehe,All reports (categories pending),2,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Huchting,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Häfen,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Mitte,All reports (categories pending),1,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Neustadt,All reports (categories pending),1,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Oberneuland,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Obervieland,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Osterholz,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Schwachhausen,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Seehausen,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Strom,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Unknown,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Vahr,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Vegesack,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Walle,All reports (categories pending),2,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Woltmershausen,All reports (categories pending),1,partial_month: reports 2026-09-01 to 2026-09-03
+2026-09,Östliche Vorstadt,All reports (categories pending),0,partial_month: reports 2026-09-01 to 2026-09-03

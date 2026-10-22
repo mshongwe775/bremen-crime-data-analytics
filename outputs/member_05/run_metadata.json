@@ -1,0 +1,93 @@
+{
+  "member_id": "member_05",
+  "author": "Ghofran Mahmoud",
+  "reviewer": "",
+  "status": "in_progress_categories_pending",
+  "source_sha256": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
+  "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "report_categories_sha256": null,
+  "run_date": "2026-10-22T21:28:11.730069+00:00",
+  "python_version": "3.11.9",
+  "package_versions": {
+    "pandas": "3.1.0",
+    "numpy": "2.4.6",
+    "pyarrow": "26.0.0",
+    "scipy": "1.17.1",
+    "matplotlib": "3.11.2"
+  },
+  "methods": [
+    "Coverage audit and partial-month flags",
+    "Monthly counts zero-filled within observed months",
+    "Kendall tau district trends with Holm correction",
+    "Seasonality over complete years (Kruskal-Wallis on reports per day)",
+    "Holiday-week comparison (Mann-Whitney)",
+    "Rolling-baseline Poisson spike rule with Bonferroni tier",
+    "Manual reading of reports behind each candidate"
+  ],
+  "parameters": {
+    "citywide_window": [
+      "2020-08",
+      "2026-08"
+    ],
+    "district_window": [
+      "2021-01",
+      "2026-08"
+    ],
+    "seasonality_years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "alpha": 0.001,
+    "category_mode": false,
+    "category_check": "report_categories.csv or selected_model.json not published yet",
+    "selected_model_id": null,
+    "spike_runs": [
+      {
+        "run": "district-month",
+        "tests": 1426,
+        "candidates": 4,
+        "expected_by_chance": 1.4,
+        "strong": 0
+      },
+      {
+        "run": "district-week",
+        "tests": 6486,
+        "candidates": 6,
+        "expected_by_chance": 6.5,
+        "strong": 0
+      }
+    ]
+  },
+  "counts": {
+    "base_reports": 5126,
+    "included_reports": 5124,
+    "excluded_reports": 2,
+    "monthly_counts_rows": 1824,
+    "seasonal_summary_rows": 12,
+    "anomaly_rows": 10,
+    "reviewed_anomalies": 10
+  },
+  "notes": [
+    "Counts are published police reports by publication date, not incidents or crime rates.",
+    "No reports between 2019-08 and 2020-06; partial months flagged in coverage_note.",
+    "District analysis starts 2021-01: earlier source labels are broad districts and plain 'Mitte' maps to Unknown.",
+    "Category-level results require Member 6 approval; rerun this notebook when report_categories.csv is approved."
+  ],
+  "figures": [
+    "fig1_monthly_coverage.png",
+    "fig2_district_label_change.png",
+    "fig3_citywide_monthly.png",
+    "fig4_district_monthly.png",
+    "fig5_seasonality.png",
+    "fig6_spike_candidates.png"
+  ],
+  "output_sha256": {
+    "monthly_counts.csv": "9d4a7b6404a5ff20adb4113c05d8472755cf8da69f6ba04e75d0c5bb218736c2",
+    "seasonal_summary.csv": "ac90fd855554b9b3f97204596002551b637451ed4001efa4a18689b1d93ef9bb",
+    "anomalies.csv": "cf44f6017a7779c6ca9416aad348434b000c8efc0f3d020dd17fb0422e4fa70c"
+  }
+}
