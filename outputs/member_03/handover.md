@@ -36,7 +36,7 @@ with 8, 10 and 12 topics.
 | Topic ID | Proposed category | Reports |
 |---|---|---:|
 | 1 | Police Arrests and Apprehension | 1022 |
-| 2 | Robberies and Suspect Descriptions | 814 |
+| 2 | Robberies and Suspect Descriptions | 812 |
 | 3 | Road Traffic Accidents | 649 |
 | 4 | Football Matches and Public Safety | 98 |
 | 5 | Graffiti and Property Damage | 742 |
@@ -114,9 +114,17 @@ with HDBSCAN assignment strengths.
 
 ## 10. Reproducibility
 
-The notebook contains the Python code used to prepare
-the text, fit the NMF model, evaluate its topics,
-and export the candidate results.
+The notebook contains the Python code used to prepare the text, fit the NMF model, evaluate its topics, and export the candidate results.
 
-Software versions and model settings are recorded
-in `run_metadata.json`.
+Software versions and model settings are recorded in `run_metadata.json`.
+
+A clean-run reproducibility test was completed on 23 October 2026 by restarting the Python kernel and executing the notebook from beginning to end.
+
+The regenerated outputs confirmed that:
+
+- The NMF model retained its 10 topics and the topic assignments for the 5,124 modelled reports.
+- Of the 5,126 original reports, 5,124 were assigned to topics and two duplicate reports were excluded.
+- The assignment file and run summary consistently report 5,124 assigned, zero unassigned, and two excluded reports.
+- The topic counts sum to 5,124.
+
+The model uses `random_state=42` to support reproducibility. Independent human validation and cross-model comparison remain pending.

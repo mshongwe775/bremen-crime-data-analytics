@@ -1,2 +1,2 @@
 model_id,n_topics,assigned_reports,unassigned_reports,excluded_reports,missing_text_reports,invalid_embedding_reports,elapsed_seconds,parameters
-nmf_descriptions,10,5126,0,0,0,0,,"{""alpha_H"": ""same"", ""alpha_W"": 0.0, ""beta_loss"": ""frobenius"", ""init"": ""nndsvda"", ""l1_ratio"": 0.0, ""max_iter"": 500, ""n_components"": 10, ""random_state"": 42, ""shuffle"": false, ""solver"": ""cd"", ""tol"": 0.0001, ""verbose"": 0}"
+nmf_descriptions,10,5124,0,2,0,0,,"{""alpha_H"": ""same"", ""alpha_W"": 0.0, ""beta_loss"": ""frobenius"", ""init"": ""nndsvda"", ""l1_ratio"": 0.0, ""max_iter"": 500, ""n_components"": 10, ""random_state"": 42, ""shuffle"": false, ""solver"": ""cd"", ""tol"": 0.0001, ""verbose"": 0}"
