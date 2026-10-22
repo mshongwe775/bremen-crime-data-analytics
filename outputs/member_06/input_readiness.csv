@@ -1,0 +1,6 @@
+input,available
+outputs/member_01/reports_prepared.parquet,False
+outputs/member_02/nmf_titles_assignments.csv,False
+outputs/member_03/nmf_descriptions_assignments.csv,False
+outputs/member_04/bertopic_titles_assignments.csv,False
+outputs/member_04/bertopic_descriptions_assignments.csv,False

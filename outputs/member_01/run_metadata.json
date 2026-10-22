@@ -1,0 +1,73 @@
+{
+  "member_id": "member_01",
+  "author": "Meriam El Askri",
+  "reviewer": "",
+  "status": "in_progress",
+  "source_sha256": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
+  "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "report_categories_sha256": null,
+  "run_date": "2026-10-22T09:50:55.483243+00:00",
+  "python_version": "3.12.2",
+  "package_versions": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "pyarrow": "26.0.0",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1",
+    "umap-learn": "0.5.12",
+    "hdbscan": "0.8.44",
+    "bertopic": "0.17.4",
+    "ipykernel": "7.4.0",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "methods": [
+    "Strict publication-date parsing",
+    "Conservative reviewed geography",
+    "Two approved duplicate flags"
+  ],
+  "parameters": {
+    "representation": "Stadtteile plus standalone Ortsteile",
+    "unknown": "Unknown",
+    "duplicate_retained": {
+      "BR001569": "BR001568",
+      "BR002114": "BR002113"
+    },
+    "geographic_exceptions": [
+      "BR001277",
+      "BR001797",
+      "BR003479",
+      "BR003518"
+    ],
+    "date_format": "%Y-%m-%d",
+    "execution": "Project .venv Python; local preparation cells"
+  },
+  "counts": {
+    "source_rows": 5126,
+    "included": 5124,
+    "excluded": 2,
+    "geographic_coverage": [
+      {
+        "level": "Ortsteile",
+        "all_rows": 5126,
+        "included": 5124,
+        "mapped_included": 2977,
+        "unknown_included": 2147
+      },
+      {
+        "level": "Stadtteile plus standalone Ortsteile",
+        "all_rows": 5126,
+        "included": 5124,
+        "mapped_included": 4149,
+        "unknown_included": 975
+      }
+    ]
+  },
+  "notes": [
+    "Local review artifacts; not published or peer approved.",
+    "Reviewer not assigned. Final category analyses await Member 06.",
+    "Package versions describe installed distributions; no models were executed.",
+    "Latest official reference version and future boundary compatibility remain unverified."
+  ]
+}

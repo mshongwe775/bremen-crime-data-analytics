@@ -1,0 +1,5 @@
+report_id,url,decision,reason
+BR001568,https://www.presseportal.de/blaulicht/pm/35235/5888850,retain,Retained matching report; BR001569 remains in the dataset but is excluded.
+BR001569,https://www.presseportal.de/blaulicht/pm/35235/5888850,exclude,"Duplicate of retained BR001568; date, title, description, URL and district match."
+BR002113,https://www.presseportal.de/blaulicht/pm/35235/5714928,retain,Retained matching report; BR002114 remains in the dataset but is excluded.
+BR002114,https://www.presseportal.de/blaulicht/pm/35235/5714928,exclude,"Duplicate of retained BR002113; date, title, description, URL and district match."

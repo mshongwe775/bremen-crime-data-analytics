@@ -1,0 +1,5 @@
+check,passed
+Expected report count,True
+Unique report IDs,True
+No missing report IDs,True
+Base checksum matches,True

@@ -28,6 +28,38 @@ On GitHub, open a pull request into main. Describe your methods, input checksum,
 
 The repository is public. You can fork it into your GitHub account, clone your fork, make a role branch, and open a pull request from your fork to this repository's main branch. Public visibility does not grant direct push permission. Send the coordinator your GitHub username if you want a collaborator invitation.
 
+## See teammates' changes
+
+Fetch and pull have different jobs. Fetch updates the origin/... branch references; pull updates your current branch from its tracked branch. A teammate's branch does not become part of main until its pull request is reviewed and merged.
+
+To see all pushed branches, open a terminal in this repository and run:
+
+```bash
+git fetch origin --prune
+git branch -a
+```
+
+Save and commit your own edits before switching branches. To inspect Member 5's branch for the first time:
+
+```bash
+git switch --track origin/member-05/time-anomalies
+```
+
+If that local branch already exists, use git switch member-05/time-anomalies instead. For another member, substitute their actual pushed branch name. Branches under remotes/origin/ are fetched GitHub branches, even if they do not yet have a local branch.
+
+After the coordinator merges a pull request, get the accepted changes with:
+
+```bash
+git switch main
+git pull --ff-only
+```
+
+Keep main tracking origin/main. Fast-forward-only pulls stop when local commits diverge; resolve the difference deliberately rather than force-resetting your work. VS Code's branch selector can show local branches and remote origin/... branches. Enable Git: Autofetch and Git: Fetch On Pull in this folder's settings if you want its remote references to refresh in the background. Fetching does not merge or apply changes to your open notebook.
+
+For each new contribution: accept your collaborator invitation, commit and push your role branch, open a pull request targeting main, mark it Ready for review when it can be accepted, and tell the WhatsApp group. Draft pull requests cannot be merged. An early name/role claim can be merged while the notebook's analysis status remains In progress. After a merge, later commits on the same branch need another pull request.
+
+Only the coordinator integrates accepted results into the main workstation. Discuss changes that affect shared inputs, schemas, project structure or other members in the WhatsApp group before making them. A commit saved only on your computer will not appear on GitHub or anyone else's computer.
+
 ## Shared-data rules
 
 - Keep raw data, source_manifest and reports_base unchanged.
