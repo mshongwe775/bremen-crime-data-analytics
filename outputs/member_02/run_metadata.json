@@ -1,0 +1,110 @@
+{
+  "member_id": "member_02",
+  "author": "Zanele",
+  "reviewer": "",
+  "status": "in_progress",
+  "source_sha256": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
+  "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "report_categories_sha256": "27734ab5622e39a2de2b057e9a9756bbe3493de3d0d20f35d346a852a3aad9f1",
+  "run_date": "2026-10-25T22:10:40+01:00",
+  "python_version": "3.11.13",
+  "package_versions": {
+    "pandas": "3.1.0",
+    "numpy": "2.4.6",
+    "scikit-learn": "1.9.1",
+    "pyarrow": "26.0.0"
+  },
+  "methods": [
+    "TF-IDF vectorization of prepared English report titles",
+    "Non-negative Matrix Factorization (NMF)",
+    "Candidate topic counts compared: 6, 8, and 10",
+    "Selected candidate: 8 topics",
+    "Reports with zero TF-IDF features remain unassigned"
+  ],
+  "parameters": {
+    "vectorizer": "TfidfVectorizer",
+    "stop_words": "english",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_df": 0.9,
+    "min_df": 2,
+    "nmf_init": "nndsvda",
+    "random_state": 42,
+    "max_iter": 400,
+    "topic_candidates": [
+      6,
+      8,
+      10
+    ],
+    "selected_n_topics": 8,
+    "assignment_rule": "Highest NMF topic score for reports with nonzero TF-IDF features",
+    "zero_feature_rule": "Do not assign a topic; mark as unassigned"
+  },
+  "counts": {
+    "prepared_reports": 5126,
+    "eligible_reports": 5124,
+    "usable_tfidf_reports": 5100,
+    "unique_assignment_report_ids": 5126,
+    "assigned": 5100,
+    "unassigned": 24,
+    "excluded": 2,
+    "missing_text": 0,
+    "invalid_embedding": 0,
+    "topics": 8,
+    "representative_samples": 40
+  },
+  "notes": [
+    "Topic labels are proposed interpretations, not verified crime categories.",
+    "NMF topic scores are not calibrated probabilities.",
+    "The two excluded reports are retained in the assignment output.",
+    "Peer review and comparison with the description-based model remain pending."
+  ],
+  "name": "Assignment 02: Topic modeling using titles",
+  "model_id": "nmf_titles",
+  "input_files": {
+    "prepared_reports": "outputs/member_01/reports_prepared.parquet",
+    "sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139"
+  },
+  "method": "TF-IDF + Non-negative Matrix Factorization (NMF)",
+  "method_settings": {
+    "vectorizer": "TfidfVectorizer",
+    "stop_words": "english",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_df": 0.9,
+    "min_df": 2,
+    "nmf_init": "nndsvda",
+    "random_state": 42,
+    "max_iter": 400,
+    "topic_candidates": [
+      6,
+      8,
+      10
+    ],
+    "selected_n_topics": 8,
+    "assignment_rule": "Highest NMF topic score for reports with nonzero TF-IDF features",
+    "zero_feature_rule": "Do not assign a topic; mark as unassigned"
+  },
+  "candidate_model_results": {
+    "6": {
+      "iterations": 34,
+      "reconstruction_error": 69.58594204451344,
+      "elapsed_seconds": 0.03
+    },
+    "8": {
+      "iterations": 32,
+      "reconstruction_error": 69.1508513700437,
+      "elapsed_seconds": 0.03
+    },
+    "10": {
+      "iterations": 41,
+      "reconstruction_error": 68.76118632289646,
+      "elapsed_seconds": 0.04
+    }
+  }
+}
