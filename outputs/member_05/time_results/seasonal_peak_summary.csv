@@ -1,0 +1,15 @@
+analysis_category,mean_peak_month,peak_mean_reports,mean_trough_month,trough_mean_reports,annual_peaks_in_mean_peak_month,comparable_years,ties,analysis_status
+Assault / threats,5,9.6,2,5.0,2,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Burglary,3,3.0,6,0.8,3,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Drug-related,3,5.0,1,2.8,2,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Environmental / regulatory,4,1.4,3,0.4,2,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Fire / explosion / ordnance,1,6.8,6,3.2,2,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Fraud / deception,3,4.4,10,2.2,2,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Hate / discrimination,5,2.8,3,0.6,1,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Non-traffic accidents / death investigations,6,1.6,2,0.2,2,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Property damage,3,5.6,10,2.6,1,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Public events / police information,10,8.4,6,2.8,3,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Robbery,11,6.6,4,1.8,2,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Traffic-related,3,11.6,12,6.0,1,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Unassigned (model noise),7,6.0,4,2.8,2,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory
+Unknown/Unclear,6,23.0,3,15.6,1,5,lowest month for tied mean; all tied annual maxima counted,computational_exploratory

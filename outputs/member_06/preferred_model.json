@@ -1,0 +1,9 @@
+{
+  "model_id": "bertopic_descriptions",
+  "status": "preferred_computational_candidate",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "selection_reason": "Retain the existing description BERTopic candidate: interpretable incident themes, 36 topics and 335 noise reports; descriptive agreement does not establish independent accuracy.",
+  "independent_human_validation": false,
+  "category_mapping_sha256": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+  "computational_categories_sha256": "5f2eca0648c664751d7d4addb913dd72ffca130f6f8c56f31c74584acbcc8d31"
+}

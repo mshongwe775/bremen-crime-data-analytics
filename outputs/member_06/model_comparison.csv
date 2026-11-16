@@ -1,0 +1,5 @@
+model_id,model,topics,assigned,unassigned,coverage,smallest_topic,largest_topic
+nmf_titles,Title NMF,8,5069,55,0.9892661982825918,336,1093
+nmf_descriptions,Description NMF,10,5124,0,1.0,91,1022
+bertopic_titles,Title embeddings,59,4583,541,0.8944184231069477,31,355
+bertopic_descriptions,Description embeddings,36,4789,335,0.9346213895394223,33,563

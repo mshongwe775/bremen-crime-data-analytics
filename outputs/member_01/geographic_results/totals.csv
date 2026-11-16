@@ -1,0 +1,103 @@
+district_clean,report_count,share_citywide,geography_level,analysis_status
+Unknown,2147,0.41900858704137395,Ortsteile,computational_exploratory
+Bahnhofsvorstadt,387,0.07552693208430913,Ortsteile,computational_exploratory
+Altstadt,309,0.06030444964871194,Ortsteile,computational_exploratory
+Ostertor,114,0.02224824355971897,Ortsteile,computational_exploratory
+Steintor,112,0.02185792349726776,Ortsteile,computational_exploratory
+Alte Neustadt,101,0.019711163153786106,Ortsteile,computational_exploratory
+Überseestadt,78,0.01522248243559719,Ortsteile,computational_exploratory
+Hastedt,76,0.01483216237314598,Ortsteile,computational_exploratory
+Kattenturm,68,0.01327088212334114,Ortsteile,computational_exploratory
+Kirchhuchting,67,0.013075722092115535,Ortsteile,computational_exploratory
+Huckelriede,62,0.01209992193598751,Ortsteile,computational_exploratory
+Oslebshausen,57,0.011124121779859485,Ortsteile,computational_exploratory
+Lindenhof,56,0.01092896174863388,Ortsteile,computational_exploratory
+Ohlenhof,51,0.009953161592505855,Ortsteile,computational_exploratory
+Sebaldsbrück,49,0.009562841530054645,Ortsteile,computational_exploratory
+Burgdamm,47,0.009172521467603435,Ortsteile,computational_exploratory
+Ellenerbrok-Schevemoor,46,0.00897736143637783,Ortsteile,computational_exploratory
+Lehe,45,0.008782201405152224,Ortsteile,computational_exploratory
+Mittelshuchting,43,0.008391881342701015,Ortsteile,computational_exploratory
+Tenever,41,0.008001561280249805,Ortsteile,computational_exploratory
+Peterswerder,40,0.0078064012490242,Ortsteile,computational_exploratory
+Neuenland,39,0.007611241217798595,Ortsteile,computational_exploratory
+Buntentor,39,0.007611241217798595,Ortsteile,computational_exploratory
+Findorff-Bürgerweide,38,0.00741608118657299,Ortsteile,computational_exploratory
+Arsten,37,0.007220921155347385,Ortsteile,computational_exploratory
+Lehesterdeich,36,0.00702576112412178,Ortsteile,computational_exploratory
+Industriehäfen,36,0.00702576112412178,Ortsteile,computational_exploratory
+Burg-Grambke,36,0.00702576112412178,Ortsteile,computational_exploratory
+Mahndorf,33,0.006440281030444965,Ortsteile,computational_exploratory
+Westend,33,0.006440281030444965,Ortsteile,computational_exploratory
+Grohn,32,0.00624512099921936,Ortsteile,computational_exploratory
+Lüssum-Bockhorn,32,0.00624512099921936,Ortsteile,computational_exploratory
+Fähr-Lobbendorf,31,0.006049960967993755,Ortsteile,computational_exploratory
+Neue Vahr Südwest,31,0.006049960967993755,Ortsteile,computational_exploratory
+Aumund-Hammersbeck,31,0.006049960967993755,Ortsteile,computational_exploratory
+Lesum,30,0.00585480093676815,Ortsteile,computational_exploratory
+Utbremen,28,0.00546448087431694,Ortsteile,computational_exploratory
+Blockdiek,28,0.00546448087431694,Ortsteile,computational_exploratory
+Neue Vahr Nord,27,0.005269320843091335,Ortsteile,computational_exploratory
+Gartenstadt Vahr,27,0.005269320843091335,Ortsteile,computational_exploratory
+Neue Vahr Südost,27,0.005269320843091335,Ortsteile,computational_exploratory
+Habenhausen,26,0.00507416081186573,Ortsteile,computational_exploratory
+Südervorstadt,25,0.004879000780640125,Ortsteile,computational_exploratory
+Osterfeuerberg,25,0.004879000780640125,Ortsteile,computational_exploratory
+Farge,23,0.004488680718188915,Ortsteile,computational_exploratory
+Barkhof,22,0.00429352068696331,Ortsteile,computational_exploratory
+Horn,22,0.00429352068696331,Ortsteile,computational_exploratory
+Weidedamm,22,0.00429352068696331,Ortsteile,computational_exploratory
+Sodenmatt,19,0.003708040593286495,Ortsteile,computational_exploratory
+Hohentor,18,0.00351288056206089,Ortsteile,computational_exploratory
+Neu-Schwachhausen,17,0.003317720530835285,Ortsteile,computational_exploratory
+Arbergen,17,0.003317720530835285,Ortsteile,computational_exploratory
+St. Magnus,16,0.00312256049960968,Ortsteile,computational_exploratory
+Grolland,15,0.002927400468384075,Ortsteile,computational_exploratory
+Hulsberg,15,0.002927400468384075,Ortsteile,computational_exploratory
+Gete,14,0.00273224043715847,Ortsteile,computational_exploratory
+Fesenfeld,14,0.00273224043715847,Ortsteile,computational_exploratory
+Gartenstadt Süd,14,0.00273224043715847,Ortsteile,computational_exploratory
+Steffensweg,13,0.002537080405932865,Ortsteile,computational_exploratory
+Kattenesch,13,0.002537080405932865,Ortsteile,computational_exploratory
+Borgfeld,13,0.002537080405932865,Ortsteile,computational_exploratory
+Radio Bremen,11,0.002146760343481655,Ortsteile,computational_exploratory
+Riensberg,11,0.002146760343481655,Ortsteile,computational_exploratory
+Hohweg,10,0.00195160031225605,Ortsteile,computational_exploratory
+Strom,10,0.00195160031225605,Ortsteile,computational_exploratory
+Schönebeck,9,0.001756440281030445,Ortsteile,computational_exploratory
+Rekum,8,0.00156128024980484,Ortsteile,computational_exploratory
+Rönnebeck,8,0.00156128024980484,Ortsteile,computational_exploratory
+In den Wischen,8,0.00156128024980484,Ortsteile,computational_exploratory
+Bürgerpark,7,0.001366120218579235,Ortsteile,computational_exploratory
+Seehausen,7,0.001366120218579235,Ortsteile,computational_exploratory
+Rablinghausen,7,0.001366120218579235,Ortsteile,computational_exploratory
+Ellener Feld,6,0.00117096018735363,Ortsteile,computational_exploratory
+Neustädter Hafen,4,0.00078064012490242,Ortsteile,computational_exploratory
+Blockland,3,0.000585480093676815,Ortsteile,computational_exploratory
+In den Hufen,2,0.00039032006245121,Ortsteile,computational_exploratory
+Regensburger Straße,2,0.00039032006245121,Ortsteile,computational_exploratory
+Werderland,1,0.000195160031225605,Ortsteile,computational_exploratory
+Unknown,975,0.19028103044496486,Stadtteile plus standalone Ortsteile,computational_exploratory
+Mitte,810,0.15807962529274006,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neustadt,430,0.08391881342701014,Stadtteile plus standalone Ortsteile,computational_exploratory
+Walle,361,0.0704527712724434,Stadtteile plus standalone Ortsteile,computational_exploratory
+Hemelingen,296,0.05776736924277908,Stadtteile plus standalone Ortsteile,computational_exploratory
+Gröpelingen,286,0.05581576893052303,Stadtteile plus standalone Ortsteile,computational_exploratory
+Östliche Vorstadt,235,0.045862607338017176,Stadtteile plus standalone Ortsteile,computational_exploratory
+Vegesack,205,0.04000780640124903,Stadtteile plus standalone Ortsteile,computational_exploratory
+Huchting,172,0.03356752537080406,Stadtteile plus standalone Ortsteile,computational_exploratory
+Burglesum,164,0.03200624512099922,Stadtteile plus standalone Ortsteile,computational_exploratory
+Osterholz,161,0.031420765027322405,Stadtteile plus standalone Ortsteile,computational_exploratory
+Obervieland,161,0.031420765027322405,Stadtteile plus standalone Ortsteile,computational_exploratory
+Blumenthal,151,0.029469164715066356,Stadtteile plus standalone Ortsteile,computational_exploratory
+Vahr,150,0.02927400468384075,Stadtteile plus standalone Ortsteile,computational_exploratory
+Schwachhausen,140,0.0273224043715847,Stadtteile plus standalone Ortsteile,computational_exploratory
+Findorff,123,0.024004683840749413,Stadtteile plus standalone Ortsteile,computational_exploratory
+Horn-Lehe,114,0.02224824355971897,Stadtteile plus standalone Ortsteile,computational_exploratory
+Woltmershausen,69,0.013466042154566744,Stadtteile plus standalone Ortsteile,computational_exploratory
+Oberneuland,44,0.00858704137392662,Stadtteile plus standalone Ortsteile,computational_exploratory
+Häfen,44,0.00858704137392662,Stadtteile plus standalone Ortsteile,computational_exploratory
+Borgfeld,13,0.002537080405932865,Stadtteile plus standalone Ortsteile,computational_exploratory
+Strom,10,0.00195160031225605,Stadtteile plus standalone Ortsteile,computational_exploratory
+Seehausen,7,0.001366120218579235,Stadtteile plus standalone Ortsteile,computational_exploratory
+Blockland,3,0.000585480093676815,Stadtteile plus standalone Ortsteile,computational_exploratory

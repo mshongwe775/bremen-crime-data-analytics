@@ -28,3 +28,6 @@ backups/
 # Large local model caches
 .cache/
 models/
+
+# Local recovery archives
+_backups/

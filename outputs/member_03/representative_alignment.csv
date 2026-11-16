@@ -1,0 +1,51 @@
+topic_id,matrix_position,saved_report_id,corrected_report_id,title_en,saved_rounded_topic_weight
+1,1461,BR001461,BR001461,Police catch street robber,0.0816
+1,1789,BR001789,BR001790,Police apprehends two robbers,0.0809
+1,4542,BR004542,BR004544,Repeat offender apprehended,0.0807
+1,2368,BR002368,BR002370,Police apprehend street robber,0.0798
+1,939,BR000939,BR000939,Police arrest armed robbers,0.0794
+2,2397,BR002397,BR002399,Armed robberies on discounters and kiosks,0.1875
+2,2294,BR002294,BR002296,Gas station robbed,0.1827
+2,3583,BR003583,BR003585,Police seeks witnesses after robbery at gas station,0.1792
+2,2057,BR002057,BR002058,Gas station robbed,0.1725
+2,3042,BR003042,BR003044,Armed perpetrators rob gas station,0.1724
+3,3057,BR003057,BR003059,Traffic jam after traffic accident on the A 27,0.1421
+3,4637,BR004637,BR004639,Traffic accidents on the A27,0.1413
+3,2980,BR002980,BR002982,Traffic jam after traffic accidents on the motorway,0.141
+3,2775,BR002775,BR002777,Traffic accidents in Bremen,0.1388
+3,273,BR000273,BR000273,Serious rear-end collision on the A 27,0.1378
+4,1187,BR001187,BR001187,Police provide information regarding the Werder Bremen vs Eintracht Frankfurt home game.,0.318
+4,1384,BR001384,BR001384,Home game SV Werder Bremen against 1. FC Heidenheim,0.3164
+4,1286,BR001286,BR001286,Werder versus VfL Wolfsburg,0.315
+4,1353,BR001353,BR001353,Friday match of the Bundesliga: SV Werder Bremen hosts 1. FSV Mainz,0.3117
+4,542,BR000542,BR000542,Bundesliga match Werder Bremen against Eintracht Frankfurt,0.3114
+5,4370,BR004370,BR004372,Witness search after graffiti,0.173
+5,5100,BR005100,BR005102,Police station vandalized,0.1727
+5,3431,BR003431,BR003433,Graffiti on church building,0.1722
+5,4575,BR004575,BR004577,Witness search after graffiti,0.1709
+5,878,BR000878,BR000878,Graffiti at school,0.168
+6,736,BR000736,BR000736,Success after public appeal,0.2608
+6,2213,BR002213,BR002215,Investigative Success: Female money launderer turns herself in to the police,0.2505
+6,1835,BR001835,BR001836,Success after public appeal,0.2463
+6,2173,BR002173,BR002175,Success after public appeal for information,0.2433
+6,505,BR000505,BR000505,Public search for account fraudster,0.2386
+7,400,BR000400,BR000400,Dealer offers police drugs,0.2443
+7,1144,BR001144,BR001144,Drug finds and serious shortcomings,0.2368
+7,1069,BR001069,BR001069,Drug finds and commercial inspections,0.232
+7,464,BR000464,BR000464,Inspections in Mitte and in the Quarter,0.2302
+7,1235,BR001235,BR001235,Police seize drugs during checks,0.2281
+8,4306,BR004306,BR004308,Scammers on the loose,0.2097
+8,4693,BR004693,BR004695,Fake water workers and police active,0.207
+8,2553,BR002553,BR002555,Trick thieves operating in the city,0.196
+8,3677,BR003677,BR003679,Fake water utility workers and fake construction workers,0.1918
+8,2259,BR002259,BR002261,Fake water workers rob senior.,0.1897
+9,3361,BR003361,BR003363,Police accompanies demo,0.1973
+9,1436,BR001436,BR001436,Reports after demo in the neighborhood,0.193
+9,3476,BR003476,BR003478,Police escort demonstrations and dance into May,0.1887
+9,4326,BR004326,BR004328,Meeting on the Domshof,0.186
+9,3683,BR003683,BR003685,Police accompanies assembly,0.1781
+10,1472,BR001472,BR001472,Bomb successfully defused,0.3344
+10,2774,BR002774,BR002776,World War bomb found,0.332
+10,638,BR000638,BR000638,Bomb successfully defused,0.3166
+10,2389,BR002389,BR002391,500-Kilogram Bomb Successfully Detonated,0.3117
+10,3225,BR003225,BR003227,World War bomb in Seehausen,0.3116

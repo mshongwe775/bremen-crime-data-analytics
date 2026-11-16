@@ -1,0 +1,257 @@
+{
+  "status": "technical_proposals_not_human_reviews",
+  "model_id": "bertopic_descriptions",
+  "seed": 42,
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "model_assignments_sha256": "e449560d59918596f2b87dffdd23b40f162164302623cdd6d784d4e9aea22851",
+  "codebook_sha256": "c8cf2abe125104e0242f5b84aa3dc6d36a6200c4573f1e3ca2fb41abe1d14e92",
+  "baseline_provisional_counts": {
+    "mapped_topic": 3505,
+    "unclear": 1284,
+    "unassigned": 335,
+    "excluded": 2
+  },
+  "baseline_mapping_sha256": "d4042967e9e94398f9bf6a3fd4a43950f7966028671e7ec908b9950ba56991aa",
+  "expected_before_changes": [
+    {
+      "model_id": "bertopic_descriptions",
+      "topic_id": 17,
+      "crime_category": "Weapons-related",
+      "decision": "proposed",
+      "reason": "Provisional keywords + reports BR002295, BR004918, BR004979; mixed/generic cues retained as unclear; human review pending."
+    },
+    {
+      "model_id": "bertopic_descriptions",
+      "topic_id": 21,
+      "crime_category": "Public events / police information",
+      "decision": "proposed",
+      "reason": "Provisional keywords + reports BR002387, BR002467, BR002668; mixed/generic cues retained as unclear; human review pending."
+    }
+  ],
+  "targeted_counterexamples": [
+    "BR000317",
+    "BR001250",
+    "BR003296",
+    "BR003278",
+    "BR000336",
+    "BR000541"
+  ],
+  "assessments": [
+    {
+      "topic_id": 0,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Collision and traffic-enforcement reports share a broad traffic theme.",
+      "evidence_explanation": "BR003469 and BR004767 describe collisions; random BR001395 concerns impaired/unlicensed driving. The broad traffic definition covers these, but the topic is not a collision-only category."
+    },
+    {
+      "topic_id": 1,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Theft and burglary are merged by apprehension wording.",
+      "evidence_explanation": "BR004812 includes pickpocketing and shoplifting; BR001684 and random BR000599 describe break-ins. Neither Theft nor Burglary fits the entire cluster."
+    },
+    {
+      "topic_id": 2,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Multiple victims/episodes and overlapping weapons cues.",
+      "evidence_explanation": "BR003466, BR004331 and random BR000283 all describe attacks or knife injuries. Assault/threats is supported in these examples; weapon mentions do not make the primary incident a weapons-only report."
+    },
+    {
+      "topic_id": 3,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Theft, robbery and multi-incident arrest summaries coexist.",
+      "evidence_explanation": "BR002259 combines distraction theft and street robberies; BR003559 involves a struggle over property; random BR002374 is an armed pharmacy robbery. A single primary offense is not defensible cluster-wide."
+    },
+    {
+      "topic_id": 4,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Political wording can coexist with property damage.",
+      "evidence_explanation": "BR001514, BR003163 and random BR000319 describe graffiti or painted facades. Damage is explicit; political slogans alone do not establish a hate motivation."
+    },
+    {
+      "topic_id": 5,
+      "recommended_action": "retain_provisional_with_caution",
+      "possible_mapping_problems": "Joint inspections also discuss gambling, weapons and hygiene.",
+      "evidence_explanation": "BR001069 and BR001235 lead with anti-drug operations but cover other violations; random BR001574 describes a cocaine seizure. Retain the drug theme provisionally and review multi-offense reports individually."
+    },
+    {
+      "topic_id": 6,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Attempted robbery must remain included; suspect descriptions are incidental.",
+      "evidence_explanation": "BR004307, BR002399 and random BR003657 describe demands for money using firearms, knives or blows. The last attempt failed but still fits the robbery/attempt definition."
+    },
+    {
+      "topic_id": 7,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Fire reports are not automatically proven arson.",
+      "evidence_explanation": "BR005087, BR003845 and random BR001704 concern vehicle fires or an arson investigation/update. The descriptive fire category fits without asserting confirmed criminal intent for every report."
+    },
+    {
+      "topic_id": 8,
+      "recommended_action": "retain_provisional_with_caution",
+      "possible_mapping_problems": "Assembly reports can contain separate graffiti or regulatory offenses.",
+      "evidence_explanation": "BR004321 mixes assembly reporting with other incidents; BR004326 is a deployment notice; random BR001329 describes a peaceful rally. Retain event information provisionally, but review substantive incident-led exceptions."
+    },
+    {
+      "topic_id": 9,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Prevention text mentions crimes without reporting a new victim incident.",
+      "evidence_explanation": "BR004058 announces school-route banners, BR000983 gives festival safety information, and random BR003488 describes bicycle registration. These are public-information/prevention reports, not theft incident counts."
+    },
+    {
+      "topic_id": 10,
+      "recommended_action": "retain_provisional_with_caution",
+      "possible_mapping_problems": "Deception and theft overlap at the doorstep.",
+      "evidence_explanation": "BR002877, BR002081 and random BR003724 describe impersonated utility workers obtaining entry and stealing. The existing fraud/deception codebook explicitly includes fake workers; report-level theft overlap should remain documented."
+    },
+    {
+      "topic_id": 11,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Generic witness appeals and suspect details accompany actual violence.",
+      "evidence_explanation": "BR004417, BR000749 and random BR001481 describe physical attacks and injuries. The assault/threats proposal follows the incident, not the appeal wording."
+    },
+    {
+      "topic_id": 12,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Theft of jewelry is downstream of unlawful entry.",
+      "evidence_explanation": "BR005000, BR002845 and random BR001809 describe entering houses or a mosque by breaking/opening entry points and taking property. Burglary is supported by the entry context."
+    },
+    {
+      "topic_id": 13,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Jewelry/watch wording groups robbery with nonviolent taking and display damage.",
+      "evidence_explanation": "The first three examples show force or injury, but counterexamples BR000317 and BR001250 concern distraction taking and a smashed shop display. Keep unclear; do not infer robbery from a watch/chain keyword."
+    },
+    {
+      "topic_id": 14,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Many counts are violations inside one police report.",
+      "evidence_explanation": "BR004431, BR004300 and random BR002389 concern speed/vehicle enforcement. Retain the broad traffic category; do not treat the number of violations as the report count."
+    },
+    {
+      "topic_id": 15,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Football boilerplate includes prevention warnings rather than new crimes.",
+      "evidence_explanation": "BR002898, BR003042 and random BR000460 describe match logistics, road closures and preventive advice. Public information is better supported than a traffic-incident or burglary assignment."
+    },
+    {
+      "topic_id": 16,
+      "recommended_action": "retain_provisional_with_caution",
+      "possible_mapping_problems": "Warnings summarize multiple actual or attempted fraud cases.",
+      "evidence_explanation": "BR002228 and BR002908 describe deceptive investment platforms; random BR003654 describes impersonation/shock calls and loss. The fraud theme is supported, without equating each report with a single victim or completed offense."
+    },
+    {
+      "topic_id": 17,
+      "recommended_action": "propose_unclear",
+      "possible_mapping_problems": "The weapons label hides attacks explicitly excluded by its codebook rule.",
+      "evidence_explanation": "BR002295 and BR004918 concern weapons/replicas, but random BR000915 describes shooting irritant gas at neighbors and dangerous assault. The existing Weapons-related definition excludes confirmed attacks as primary; keep the mixed cluster unclear."
+    },
+    {
+      "topic_id": 18,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Handbag/senior wording mixes robbery, theft warnings and burglary-related violence.",
+      "evidence_explanation": "BR001300 and BR001971 describe force or injury; random BR001315 combines impersonation/confinement and knife robbery. Counterexamples BR003296 and BR003278 add nonviolent bicycle-basket theft/prevention and a break-in with assault. No cluster-wide Theft or Robbery label."
+    },
+    {
+      "topic_id": 19,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "War-ordnance disposal is not evidence of a contemporary crime.",
+      "evidence_explanation": "BR001474, BR000303 and random BR001278 describe evacuation and disposal of suspected war bombs. The existing descriptive ordnance category fits; do not call all such reports arson or explosive offenses."
+    },
+    {
+      "topic_id": 20,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Shipping locations do not define the offense; some incidents occur outside Bremen city.",
+      "evidence_explanation": "BR001475, BR001380 and random BR001787 describe ballast-water or water-pollution violations. Retain environmental/regulatory provisionally; retain original geography and avoid geographic crime-rate claims."
+    },
+    {
+      "topic_id": 21,
+      "recommended_action": "propose_unclear",
+      "possible_mapping_problems": "Event-based clustering hides multiple substantive offense types.",
+      "evidence_explanation": "BR002387 contains robbery, assault and pyrotechnics; BR002467 includes injuries, explosives and theft; random BR002622 concerns traffic offenses and weapons during election celebrations. This exceeds prevention/logistics, so the public-information label is misleading."
+    },
+    {
+      "topic_id": 22,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "General police warnings and other seized objects are secondary.",
+      "evidence_explanation": "BR003370 and BR001880 concern hate postings/prohibited symbols; random BR004028 describes a prohibited salute. Hate/discrimination is supported as a reporting theme, not a legal finding of guilt."
+    },
+    {
+      "topic_id": 23,
+      "recommended_action": "retain_provisional_with_caution",
+      "possible_mapping_problems": "Explosion, damage and theft can appear in the same report.",
+      "evidence_explanation": "BR002955, BR004761 and random BR002184 describe vending-machine detonations. The existing explosion category fits the incident mechanism; theft/damage overlap requires a consistent primary-category rule."
+    },
+    {
+      "topic_id": 24,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Corona/nightlife boilerplate merges notices, violence, drugs and road enforcement.",
+      "evidence_explanation": "BR004204 and BR004257 summarize heterogeneous operations; random BR004243 announces curfew rules. The shared setting/regulation wording is not a coherent incident category."
+    },
+    {
+      "topic_id": 25,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "A response/disposition cluster is not a crime or medical diagnosis category.",
+      "evidence_explanation": "BR001202 concerns threats, BR001269 includes knife violence, and random BR003369 concerns a fire and resistance. Psychiatric-response wording does not justify assigning one crime type."
+    },
+    {
+      "topic_id": 26,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Road/goods checks are mixed with animal welfare and animal rescue reports.",
+      "evidence_explanation": "BR003183, BR002673 and random BR003153 concern vehicle/goods inspections, but counterexamples BR000336 and BR000541 describe abandoned cats and a killed swan. Neither Traffic-related nor Environmental/regulatory covers all without a new team rule."
+    },
+    {
+      "topic_id": 27,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Suspicious-mail wording is not proof of an explosion or hazardous substance.",
+      "evidence_explanation": "BR004313 and random BR003812 explicitly report harmless substances; BR005105 combines powder letters and knives on playgrounds. Do not force a fire/explosion label; inspect threat/hoax incidents individually."
+    },
+    {
+      "topic_id": 28,
+      "recommended_action": "retain_provisional_with_caution",
+      "possible_mapping_problems": "Violence overlaps with alleged hate motivation.",
+      "evidence_explanation": "BR003180 and random BR000620 describe discriminatory abuse and attacks; BR003270 contains multiple incidents with different identity/motivation evidence. Retain the hate theme provisionally, but reviewers must verify motivation report by report."
+    },
+    {
+      "topic_id": 29,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Money laundering is not automatically the same as victim-facing fraud.",
+      "evidence_explanation": "BR000624, BR000371 and random BR001535 describe false identities, accounts and proceeds. Ask the team whether the codebook should cover financial offenses more broadly; do not silently stretch Fraud/deception."
+    },
+    {
+      "topic_id": 30,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Missing-person notices and unconfirmed events do not establish a crime.",
+      "evidence_explanation": "BR002174 explicitly lacks confirmation; BR004391 is a missing-person search; random BR001194 cancels a search with no criminal indications. Preserve unknown/non-crime uncertainty instead of inventing a victim/crime category."
+    },
+    {
+      "topic_id": 31,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Death investigations are not necessarily homicide.",
+      "evidence_explanation": "BR004232, BR001814 and random BR000111 concern drowning or a body linked to a swimming disappearance. The non-traffic accident/death-inquiry category fits without assuming foul play."
+    },
+    {
+      "topic_id": 32,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "A firearm keyword must be interpreted through the injury/attack context.",
+      "evidence_explanation": "BR000360, BR000009 and random BR000000 describe people shot and investigations of attacks. Assault/threats is better supported than the possession/replica-weapons category."
+    },
+    {
+      "topic_id": 33,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Search-success/deletion boilerplate combines laundering and fraud updates.",
+      "evidence_explanation": "BR002354 and BR002215 concern laundering/false accounts; random BR002688 concerns a bank-impersonation fraud investigation. Resolve the financial-offense/codebook boundary before a cluster-level label."
+    },
+    {
+      "topic_id": 34,
+      "recommended_action": "retain_provisional",
+      "possible_mapping_problems": "Repeated head-kick warnings are boilerplate but the source incidents are assaults.",
+      "evidence_explanation": "BR004092, BR005104 and random BR002488 all describe attacks and injury. The substantive incident supports Assault/threats; the shared warning alone would not establish it."
+    },
+    {
+      "topic_id": 35,
+      "recommended_action": "retain_unclear",
+      "possible_mapping_problems": "Resistance/apprehension is shared reporting language across different incidents.",
+      "evidence_explanation": "BR004424 and BR001335 combine violence, damage and resistance; random BR001005 is rescue of a fleeing person with drugs found later. A single violence, drug or damage label would hide unrelated subjects."
+    }
+  ]
+}

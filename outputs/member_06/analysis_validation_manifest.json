@@ -1,0 +1,81 @@
+{
+  "status": "ai_assisted_unapproved",
+  "assessor": "Codex AI assistant in this session; not a human reviewer",
+  "completed_at": "2026-11-14T21:24:15.867279+00:00",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "codebook_sha256": "c8cf2abe125104e0242f5b84aa3dc6d36a6200c4573f1e3ca2fb41abe1d14e92",
+  "mapping_sha256": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+  "mapping_frozen_at": "2026-11-13T16:45:08.688082+00:00",
+  "current_mapping_sha256": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+  "files": {
+    "development_category_assessments.csv": "8aded8ebba1bbfbcd2139a6154bb866fdfa599626982659674850fb8afbf3de6",
+    "development_category_comparison.csv": "c15c9117040c0465b652d0561710b399181b565a13960fe24862e497ecc0525a",
+    "development_category_changes.csv": "ba80819183d0a1a751cc1aa962ab3631e024242cfb06bd8f61ae5c6cf04ceac8",
+    "topic_mapping_assessment.csv": "745529afe9f4602291ea9880fb1459061809a4bd23e6ed0f38a61846b139a18a",
+    "category_mapping.csv": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+    "category_mapping_snapshot.json": "e606b857da63f89669a4f5d643fc37a1c9b0d5d47ce868cad56b8cf808e764a3",
+    "held_out_category_assessments.csv": "6ea75f0ed8963977ec810bf61456f0df3ec50729d009eefcc841a5988d59cd29",
+    "held_out_category_comparison.csv": "a7cb1e32e4154582a1bb99d38a64d1274dbb44ad252d553e2a9b453154ae2af2",
+    "held_out_category_disagreements.csv": "df99fd223d16fbddca60d02a508e6d27b10104c3c4bca89a82dca36a534a2b61",
+    "model_assessment.csv": "111f1a5b5f005559d7b01ee4667ceec629a88b1ed15f5f26190a4ed92ecff6a2",
+    "age50plus_assessments.csv": "f3dc2e9559a9f230c58c9e868d38da59eb8026a6a2600997ec3b5b563fea2d87",
+    "age50plus_context_assessments.csv": "c4d7d316f76550538de1306f6b97efcf8e735c2cee9d43f243cf34adb4d91596",
+    "age50plus_assessment_method.py": "99ec46610a30215e66e54dff312d6ee07b02641ab9a9baf5243f23e8cfa128ad",
+    "age50plus_screening_summary.csv": "fee8b68ad303fb067ed33eb0f776e6d01032895a5f0dfc22f12ae66b512760f1"
+  },
+  "development_reports": 60,
+  "changed_development_suggestions": 9,
+  "topics_assessed": 36,
+  "new_topic_category_changes": 0,
+  "held_out_reports": 60,
+  "held_out_matching_labels": 25,
+  "unique_classified_reports": 1407,
+  "elderly_context_reviews": 941,
+  "elderly_reports": 1307,
+  "elderly_group_counts": {
+    "explicit_text_older_victim": 767,
+    "older_person_other_role": 252,
+    "possible_older_victim_insufficient_evidence": 234,
+    "no_evidence_of_older_victim": 46,
+    "unclear": 8
+  },
+  "human_reference_labels_imported": false,
+  "human_approval": false,
+  "historical_held_out_replacements": [
+    {
+      "previous_report_id": "BR003433",
+      "replacement_report_id": "BR002363",
+      "stratum": "common",
+      "seed": 42,
+      "reason": "Potential published-example exposure; unannotated matched-stratum replacement"
+    }
+  ],
+  "limitations": [
+    "Same assistant read development and held-out reports; no independent human-reference accuracy/F1.",
+    "Balanced strata are not a population-representative performance sample; codebook boundaries can be ambiguous.",
+    "Topic evidence is sampled; no cluster-wide homogeneity claim. Existing conservative mappings retained.",
+    "Elderly assessment combines full-text rules and AI context review, not a full manual semantic reading of every description.",
+    "Attempted offenses and traffic casualties are source-text victims/targets, not verified crime occurrences.",
+    "All AI victim classifications need confirmation; forty controls do not establish screening sensitivity.",
+    "Held-out sources are now exposed through AI review files. Do not retune this frozen mapping on these results."
+  ],
+  "independent_human_validation": false,
+  "evaluation_sample_sha256": "54dfc8b4c5c52885d80aa3d42a333b73e8ef4d276d020fc1f551101cf6513bd4",
+  "maintenance_note": "Descriptive filenames and current file hashes updated during repository simplification. Original manifest and file hashes are in the verified recovery backup. Original assessment time, findings and assessor are retained.",
+  "files_before_simplification": {
+    "development_category_assessments.csv": "8aded8ebba1bbfbcd2139a6154bb866fdfa599626982659674850fb8afbf3de6",
+    "development_category_comparison.csv": "c15c9117040c0465b652d0561710b399181b565a13960fe24862e497ecc0525a",
+    "development_category_changes.csv": "ba80819183d0a1a751cc1aa962ab3631e024242cfb06bd8f61ae5c6cf04ceac8",
+    "topic_mapping_assessment.csv": "745529afe9f4602291ea9880fb1459061809a4bd23e6ed0f38a61846b139a18a",
+    "category_mapping.csv": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+    "category_mapping_snapshot.json": "6ce01dec2945e685b95d9fb57bb2205c97c81e7bc305e8c17cf72cc7712bc52e",
+    "held_out_category_assessments.csv": "6ea75f0ed8963977ec810bf61456f0df3ec50729d009eefcc841a5988d59cd29",
+    "held_out_category_comparison.csv": "a7cb1e32e4154582a1bb99d38a64d1274dbb44ad252d553e2a9b453154ae2af2",
+    "held_out_category_disagreements.csv": "df99fd223d16fbddca60d02a508e6d27b10104c3c4bca89a82dca36a534a2b61",
+    "model_assessment.csv": "111f1a5b5f005559d7b01ee4667ceec629a88b1ed15f5f26190a4ed92ecff6a2",
+    "age50plus_assessments.csv": "f3dc2e9559a9f230c58c9e868d38da59eb8026a6a2600997ec3b5b563fea2d87",
+    "age50plus_context_assessments.csv": "c4d7d316f76550538de1306f6b97efcf8e735c2cee9d43f243cf34adb4d91596",
+    "age50plus_assessment_method.py": "814fca933482968d4c1b1eda98d88364a389ce9c67dcad61a649dc9430fcb5ed",
+    "age50plus_screening_summary.csv": "fee8b68ad303fb067ed33eb0f776e6d01032895a5f0dfc22f12ae66b512760f1"
+  }
+}

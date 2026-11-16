@@ -3,7 +3,6 @@
 Status: NOT STARTED — this is a template, not a submitted result.
 
 Name:
-Reviewer:
 Source/base SHA-256:
 Prepared dataset SHA-256:
 Final categories SHA-256 (if used):
@@ -19,7 +18,7 @@ Python/package versions:
 
 ## Findings supported by saved outputs
 
-## Validation and reviewer comments
+## Computational checks and limitations
 
 ## Limitations and unresolved questions
 

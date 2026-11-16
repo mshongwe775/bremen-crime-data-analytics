@@ -1,13 +1,12 @@
 {
   "member_id": "member_04",
   "author": "Aya Abdine",
-  "reviewer": "Pending - not assigned",
-  "status": "executed_candidates_ready_for_peer_review_not_accepted",
+  "status": "computational_candidates_complete",
   "source_sha256": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
   "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
   "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
   "report_categories_sha256": null,
-  "run_date": "2026-10-22T17:23:01.585706+02:00",
+  "run_date": "2026-11-13T11:23:48.135438+01:00",
   "python_version": "3.13.7",
   "package_versions": {
     "pandas": "2.3.2",
@@ -20,6 +19,8 @@
     "hdbscan": "0.8.44",
     "bertopic": "0.17.4",
     "numba": "0.68.0",
+    "llvmlite": "0.50.0",
+    "pynndescent": "0.6.0",
     "sentence-transformers": "3.4.1",
     "transformers": "4.48.3",
     "torch": "2.11.0",
@@ -773,58 +774,72 @@
     "models": [
       {
         "model_id": "bertopic_titles",
+        "candidate": "balanced",
         "modeling_cohort": 5124,
         "n_topics": 59,
         "assigned_reports": 4583,
         "unassigned_reports": 541,
         "noise_rate": 0.10558157689305231,
-        "elapsed_seconds": 21.191895300056785,
-        "median_assigned_topic_size": 57.0,
-        "largest_topic_share": 0.06928181108508977
+        "smallest_topic": 31,
+        "median_topic": 57.0,
+        "largest_topic_share": 0.06928181108508977,
+        "elapsed_seconds": 33.84627139987424,
+        "ARI_vs_baseline_including_noise": 0.2718588844549454,
+        "common_assigned_share": 0.7800546448087432,
+        "ARI_common_assigned_vs_baseline": 0.5820213696325797
       },
       {
         "model_id": "bertopic_descriptions",
+        "candidate": "balanced",
         "modeling_cohort": 5124,
         "n_topics": 36,
         "assigned_reports": 4789,
         "unassigned_reports": 335,
         "noise_rate": 0.06537861046057768,
-        "elapsed_seconds": 25.42131070001051,
-        "median_assigned_topic_size": 74.5,
-        "largest_topic_share": 0.10987509758001561
+        "smallest_topic": 33,
+        "median_topic": 74.5,
+        "largest_topic_share": 0.10987509758001561,
+        "elapsed_seconds": 31.549438700079918,
+        "ARI_vs_baseline_including_noise": 0.41245091540261425,
+        "common_assigned_share": 0.8083528493364559,
+        "ARI_common_assigned_vs_baseline": 0.6881744206102332
       }
     ]
   },
   "notes": [
-    "Prepared-data acceptance, peer review and final category selection pending.",
-    "Agree a common environment: this interpreter differs from Member 1 Python 3.12.2.",
-    "Development examples are not independent validation; no category accuracy claimed.",
-    "UMAP density distortion and parameter sensitivity limit interpretation.",
-    "Member 2 exports pending; Member 3 used base rows including duplicates."
+    "All four current handovers verified on the same prepared cohort; no outdated NMF invalidity claim.",
+    "Aya Abdine's two BERTopic candidates, sensitivity settings and sample rules preserved.",
+    "Reports are not confirmed crimes; geometry, parameter sensitivity and mixed themes limit interpretation.",
+    "Peer review, common team environment and independent category validation remain pending; Member 6 selects final categories.",
+    "Temporary dependency directories used; global packages and shared requirements unchanged."
   ],
-  "interpreter": "C:\\Users\\pc\\AppData\\Local\\Temp\\bremen-member04-env\\Scripts\\python.exe",
+  "interpreter": "C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
   "input_checksums": {
     "bremen_crime_data_2026.parquet": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
     "shared/reports_base.parquet": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
     "outputs/member_01/reports_prepared.parquet": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139"
   },
   "peer_input_versions": {
-    "nmf_descriptions": {
-      "input_file": "shared/reports_base.parquet",
-      "input_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
-      "prepared_sha256": null,
-      "record_counts": {
-        "input_reports": 5126,
-        "assigned_reports": 5126,
-        "unassigned_reports": 0,
-        "missing_text_reports": 0
-      },
+    "nmf_titles": {
+      "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+      "status": "executed_candidate_pending_owner_and_peer_review",
       "checksums": {
-        "nmf_descriptions_assignments.csv": "a66ce262f44f5e5ba7f746c1b7731f5a0b0613d17cd8409d8076a5acd29e386f",
-        "nmf_descriptions_topics.csv": "3ae95a613f9c97abb9ce1f016eb84ff7b541266b4b9d4eb8e38553a7dd055991",
-        "nmf_descriptions_samples.csv": "e9afa0ec93d15510f8b9b864212df04c5e09270bfe7553856ae3b9d4d20e60a7",
-        "nmf_descriptions_run.csv": "5fe88a5c46bc6d2068c46e53c5766c0c6f726498a2fd9ebaa678414d3d9fbcad",
-        "run_metadata.json": "053b0139d5cd7bb9b96d3230576e482c69dd1193ebeb3357f1b0038f4494072a"
+        "nmf_titles_assignments.csv": "63bac25df59d762b85da86d44f7152ceef300ae8e7787eb4df645a365797ec63",
+        "nmf_titles_topics.csv": "d894b52047091f28819b0cd2d5533b274bccb76ed9807f1d78c33fae801cd72e",
+        "nmf_titles_samples.csv": "1c5eacc5abc23320a614a51fb89a1a8b9a421781fc30112daa9df306201d76bf",
+        "nmf_titles_run.csv": "ce22db8f8946c6a21569080ecfd3141cd9795636f1b1c25c9918b988f743f635",
+        "run_metadata.json": "8fec5343b300fa77c32450895940899cd77603952ff48fb8db03d013c65d4631"
+      }
+    },
+    "nmf_descriptions": {
+      "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+      "status": "reproduced_candidate_pending_peer_review",
+      "checksums": {
+        "nmf_descriptions_assignments.csv": "acbac2185e71a7541bbd9b5ef63d743f9c33b6a39924f187c896a65ab5b97b34",
+        "nmf_descriptions_topics.csv": "e374bebdd1b492a4add047fc99f7615166b72711721e2f295aaabae29de60468",
+        "nmf_descriptions_samples.csv": "1e239761d4e48c40cd6ab3cc8814d36eb77ffc183f6fa0f8595be7751377d1b4",
+        "nmf_descriptions_run.csv": "af570e1aae7360214252646a5ad20ae23934b923f510dc270a108ab93d131158",
+        "run_metadata.json": "f760d3252b7aeca56ea67d03595f76426f67801cc64f1ba6c06b2441d7d017cd"
       }
     }
   },
@@ -840,7 +855,7 @@
       "smallest_topic": 15,
       "median_topic": 29.0,
       "largest_topic_share": 0.018540202966432474,
-      "elapsed_seconds": 82.98557460005395,
+      "elapsed_seconds": 178.83569109998643,
       "ARI_vs_baseline_including_noise": 1.0,
       "common_assigned_share": 0.8401639344262295,
       "ARI_common_assigned_vs_baseline": 1.0
@@ -856,7 +871,7 @@
       "smallest_topic": 31,
       "median_topic": 57.0,
       "largest_topic_share": 0.06928181108508977,
-      "elapsed_seconds": 21.191895300056785,
+      "elapsed_seconds": 33.84627139987424,
       "ARI_vs_baseline_including_noise": 0.2718588844549454,
       "common_assigned_share": 0.7800546448087432,
       "ARI_common_assigned_vs_baseline": 0.5820213696325797
@@ -872,7 +887,7 @@
       "smallest_topic": 50,
       "median_topic": 117.5,
       "largest_topic_share": 0.09836065573770492,
-      "elapsed_seconds": 26.676365899969824,
+      "elapsed_seconds": 37.731003700057045,
       "ARI_vs_baseline_including_noise": 0.14822977458022596,
       "common_assigned_share": 0.7660031225604996,
       "ARI_common_assigned_vs_baseline": 0.2760392706840084
@@ -888,7 +903,7 @@
       "smallest_topic": 16,
       "median_topic": 33.5,
       "largest_topic_share": 0.08060109289617487,
-      "elapsed_seconds": 26.620547900092788,
+      "elapsed_seconds": 34.88722140016034,
       "ARI_vs_baseline_including_noise": 1.0,
       "common_assigned_share": 0.8282591725214676,
       "ARI_common_assigned_vs_baseline": 1.0
@@ -904,7 +919,7 @@
       "smallest_topic": 33,
       "median_topic": 74.5,
       "largest_topic_share": 0.10987509758001561,
-      "elapsed_seconds": 25.42131070001051,
+      "elapsed_seconds": 31.549438700079918,
       "ARI_vs_baseline_including_noise": 0.41245091540261425,
       "common_assigned_share": 0.8083528493364559,
       "ARI_common_assigned_vs_baseline": 0.6881744206102332
@@ -920,13 +935,13 @@
       "smallest_topic": 50,
       "median_topic": 130.0,
       "largest_topic_share": 0.16549570647931303,
-      "elapsed_seconds": 33.56226080004126,
+      "elapsed_seconds": 34.367944799829274,
       "ARI_vs_baseline_including_noise": 0.33120324412640584,
       "common_assigned_share": 0.7823965651834505,
       "ARI_common_assigned_vs_baseline": 0.5600320951457528
     }
   ],
-  "sensitivity_total_seconds": 216.45795520022511,
+  "sensitivity_total_seconds": 351.21757109998725,
   "sample_selection": {
     "representative": "Up to three c-TF-IDF examples; first matching report_id resolves text ties.",
     "random": "Two other reports per topic, three noise reports; NumPy seed=42+topic_id+1. Development only."
@@ -1037,60 +1052,60 @@
     {
       "path": "outputs/member_04/bertopic_titles_assignments.csv",
       "rows": 5126,
-      "sha256": "83a189236547926417be4ed9347420bcfa71f62155a80c913ea406405f507118"
-    },
-    {
-      "path": "outputs/member_04/bertopic_titles_topics.csv",
-      "rows": 60,
-      "sha256": "45f75f008e5045ba362f0b640c362ba6a8a4ec1110622d4827d2620e677f3c64"
-    },
-    {
-      "path": "outputs/member_04/bertopic_titles_samples.csv",
-      "rows": 298,
-      "sha256": "51c4d6e6e712b06b90c887084ba7b9c61b2cf71b38af2550f37066455463f504"
-    },
-    {
-      "path": "outputs/member_04/bertopic_titles_run.csv",
-      "rows": 1,
-      "sha256": "23038336e1fb8d208e82ade7ea9e9d9f1e6ca2dd3b947543eac2db3b9c01063b"
+      "sha256": "2156e855cc1eac1354e1339dbfecfa0013f34db1d0a5698f7f811278468dbfd2"
     },
     {
       "path": "outputs/member_04/bertopic_descriptions_assignments.csv",
       "rows": 5126,
-      "sha256": "8d7159a8aa1ebebca9cfd77b1c7403133c325da9b354c0cca3ccef767b3ec024"
+      "sha256": "e449560d59918596f2b87dffdd23b40f162164302623cdd6d784d4e9aea22851"
+    },
+    {
+      "path": "outputs/member_04/bertopic_titles_topics.csv",
+      "rows": 60,
+      "sha256": "80636b1d66ce99a15d824f5d68e37f195abde273f312b0c9937aeeec12715c66"
+    },
+    {
+      "path": "outputs/member_04/bertopic_titles_samples.csv",
+      "rows": 298,
+      "sha256": "da4ef38e9d3a36a9c0f81919adbe53109c34c93d63e98cacc53bab075e9145ad"
     },
     {
       "path": "outputs/member_04/bertopic_descriptions_topics.csv",
       "rows": 37,
-      "sha256": "9258d92f6cd5fd1a0f027f28e8537f6eb3bfcee0ad67f997c6971c59fbd86e00"
+      "sha256": "828e0c0e7e11876193a6e7f74f518f72030ef394c8462010c1aa1a4d5fa183f3"
     },
     {
       "path": "outputs/member_04/bertopic_descriptions_samples.csv",
       "rows": 183,
-      "sha256": "9311e1b994cbe34317cc6d161a506c4348695944da46b667a29d8c53e90538db"
+      "sha256": "84e95cf1cd8ea9e352a98c6e4b7d03535818eb3bb00f020e74730f6865953690"
+    },
+    {
+      "path": "outputs/member_04/bertopic_titles_run.csv",
+      "rows": 1,
+      "sha256": "99f82bda34d201370b9ab64959f714f3bf86b2c3eabec92921029292603815ac"
     },
     {
       "path": "outputs/member_04/bertopic_descriptions_run.csv",
       "rows": 1,
-      "sha256": "3d9ed95edba5036deb9bbc12e8d4a51b53245b1dbc5c2b420f7145001757e109"
+      "sha256": "be9497e8e0e41d52ae74fbed03684b2b711903b2594648df04db90b235c92442"
     }
   ],
   "figure_inventory": [
     {
       "path": "figures/member_04/bertopic_titles_umap2d.png",
-      "sha256": "73eb30a27596175b77cf5f06a75d49618a292609b2238cd6a0127df1b85bcfd1"
+      "sha256": "ce59aefd996df8f96a2abb5678ef0e1365f771ec60f58e255e738098121cf837"
     },
     {
       "path": "figures/member_04/bertopic_descriptions_umap2d.png",
-      "sha256": "704df86eebb2a86725d0044f335717ae3dc0a7c43445bbd638b6cd9cb91400ef"
+      "sha256": "2d128e1e3d28bba34a065872081676b2f0c9e83127a13f97f43c7f82e440f574"
     },
     {
       "path": "figures/member_04/bertopic_titles_topic_sizes.png",
-      "sha256": "87d900139ff5f6e4ce604c80a9f524e255e920f3bd104bad5863b0287617d54b"
+      "sha256": "41f076ee427326454b5feb63825b6ec502cbec5eed020feab9d43de1f1221148"
     },
     {
       "path": "figures/member_04/bertopic_descriptions_topic_sizes.png",
-      "sha256": "3501ef5ee9bbe72168fd176a84e81b5a21272dbae06b1effb67ce85b5bb0327b"
+      "sha256": "12c76401188b85bf88b7c2a8480bdf69bc9fc0f782c281571f515d84af99b264"
     }
   ],
   "required_files": [
@@ -1106,5 +1121,277 @@
     "handover.md"
   ],
   "inventory_note": "Metadata and handover are named; self-checksums are omitted.",
-  "refactor_validation": "Assignments, topic tables, samples and parameters match the previous verified run."
+  "previous_execution": {
+    "run_date": "2026-10-22T17:23:01.585706+02:00",
+    "python_version": "3.13.7",
+    "package_versions": {
+      "pandas": "2.3.2",
+      "numpy": "2.3.3",
+      "pyarrow": "26.0.0",
+      "matplotlib": "3.10.6",
+      "scipy": "1.16.2",
+      "scikit-learn": "1.7.2",
+      "umap-learn": "0.5.12",
+      "hdbscan": "0.8.44",
+      "bertopic": "0.17.4",
+      "numba": "0.68.0",
+      "sentence-transformers": "3.4.1",
+      "transformers": "4.48.3",
+      "torch": "2.11.0",
+      "plotly": "7.1.0",
+      "ipykernel": "7.1.0",
+      "nbformat": "5.10.4",
+      "nbclient": "0.10.2"
+    },
+    "sensitivity_study": [
+      {
+        "model_id": "bertopic_titles",
+        "candidate": "baseline",
+        "modeling_cohort": 5124,
+        "n_topics": 130,
+        "assigned_reports": 4305,
+        "unassigned_reports": 819,
+        "noise_rate": 0.1598360655737705,
+        "smallest_topic": 15,
+        "median_topic": 29.0,
+        "largest_topic_share": 0.018540202966432474,
+        "elapsed_seconds": 82.98557460005395,
+        "ARI_vs_baseline_including_noise": 1.0,
+        "common_assigned_share": 0.8401639344262295,
+        "ARI_common_assigned_vs_baseline": 1.0
+      },
+      {
+        "model_id": "bertopic_titles",
+        "candidate": "balanced",
+        "modeling_cohort": 5124,
+        "n_topics": 59,
+        "assigned_reports": 4583,
+        "unassigned_reports": 541,
+        "noise_rate": 0.10558157689305231,
+        "smallest_topic": 31,
+        "median_topic": 57.0,
+        "largest_topic_share": 0.06928181108508977,
+        "elapsed_seconds": 21.191895300056785,
+        "ARI_vs_baseline_including_noise": 0.2718588844549454,
+        "common_assigned_share": 0.7800546448087432,
+        "ARI_common_assigned_vs_baseline": 0.5820213696325797
+      },
+      {
+        "model_id": "bertopic_titles",
+        "candidate": "broader",
+        "modeling_cohort": 5124,
+        "n_topics": 26,
+        "assigned_reports": 4614,
+        "unassigned_reports": 510,
+        "noise_rate": 0.09953161592505855,
+        "smallest_topic": 50,
+        "median_topic": 117.5,
+        "largest_topic_share": 0.09836065573770492,
+        "elapsed_seconds": 26.676365899969824,
+        "ARI_vs_baseline_including_noise": 0.14822977458022596,
+        "common_assigned_share": 0.7660031225604996,
+        "ARI_common_assigned_vs_baseline": 0.2760392706840084
+      },
+      {
+        "model_id": "bertopic_descriptions",
+        "candidate": "baseline",
+        "modeling_cohort": 5124,
+        "n_topics": 88,
+        "assigned_reports": 4244,
+        "unassigned_reports": 880,
+        "noise_rate": 0.1717408274785324,
+        "smallest_topic": 16,
+        "median_topic": 33.5,
+        "largest_topic_share": 0.08060109289617487,
+        "elapsed_seconds": 26.620547900092788,
+        "ARI_vs_baseline_including_noise": 1.0,
+        "common_assigned_share": 0.8282591725214676,
+        "ARI_common_assigned_vs_baseline": 1.0
+      },
+      {
+        "model_id": "bertopic_descriptions",
+        "candidate": "balanced",
+        "modeling_cohort": 5124,
+        "n_topics": 36,
+        "assigned_reports": 4789,
+        "unassigned_reports": 335,
+        "noise_rate": 0.06537861046057768,
+        "smallest_topic": 33,
+        "median_topic": 74.5,
+        "largest_topic_share": 0.10987509758001561,
+        "elapsed_seconds": 25.42131070001051,
+        "ARI_vs_baseline_including_noise": 0.41245091540261425,
+        "common_assigned_share": 0.8083528493364559,
+        "ARI_common_assigned_vs_baseline": 0.6881744206102332
+      },
+      {
+        "model_id": "bertopic_descriptions",
+        "candidate": "broader",
+        "modeling_cohort": 5124,
+        "n_topics": 27,
+        "assigned_reports": 4663,
+        "unassigned_reports": 461,
+        "noise_rate": 0.0899687743950039,
+        "smallest_topic": 50,
+        "median_topic": 130.0,
+        "largest_topic_share": 0.16549570647931303,
+        "elapsed_seconds": 33.56226080004126,
+        "ARI_vs_baseline_including_noise": 0.33120324412640584,
+        "common_assigned_share": 0.7823965651834505,
+        "ARI_common_assigned_vs_baseline": 0.5600320951457528
+      }
+    ]
+  },
+  "comparison": {
+    "denominator": 5124,
+    "models": [
+      {
+        "model": "nmf_titles",
+        "topics": 8,
+        "assigned": 5069,
+        "unassigned": 55,
+        "assignment_coverage": 0.9892661982825918,
+        "limitations": "Word-pattern topics; executed candidate pending owner and peer review; owner unclaimed"
+      },
+      {
+        "model": "nmf_descriptions",
+        "topics": 10,
+        "assigned": 5124,
+        "unassigned": 0,
+        "assignment_coverage": 1.0,
+        "limitations": "Word-pattern topics; reproduced candidate pending peer review"
+      },
+      {
+        "model": "bertopic_titles",
+        "topics": 59,
+        "assigned": 4583,
+        "unassigned": 541,
+        "assignment_coverage": 0.8944184231069477,
+        "limitations": "Parameter-sensitive clusters; executed candidates ready for peer review not accepted"
+      },
+      {
+        "model": "bertopic_descriptions",
+        "topics": 36,
+        "assigned": 4789,
+        "unassigned": 335,
+        "assignment_coverage": 0.9346213895394223,
+        "limitations": "Parameter-sensitive clusters; executed candidates ready for peer review not accepted"
+      }
+    ]
+  },
+  "reproducibility": {
+    "assignments_topics_samples_identical": true,
+    "pre_export_sha256": {
+      "bertopic_titles_assignments.csv": "2156e855cc1eac1354e1339dbfecfa0013f34db1d0a5698f7f811278468dbfd2",
+      "bertopic_titles_topics.csv": "80636b1d66ce99a15d824f5d68e37f195abde273f312b0c9937aeeec12715c66",
+      "bertopic_titles_samples.csv": "da4ef38e9d3a36a9c0f81919adbe53109c34c93d63e98cacc53bab075e9145ad",
+      "bertopic_titles_run.csv": "ef6978fae3668eda25ce6564033b0c7580a8edb56b54d0cb5310982476d9442f",
+      "bertopic_descriptions_assignments.csv": "e449560d59918596f2b87dffdd23b40f162164302623cdd6d784d4e9aea22851",
+      "bertopic_descriptions_topics.csv": "828e0c0e7e11876193a6e7f74f518f72030ef394c8462010c1aa1a4d5fa183f3",
+      "bertopic_descriptions_samples.csv": "84e95cf1cd8ea9e352a98c6e4b7d03535818eb3bb00f020e74730f6865953690",
+      "bertopic_descriptions_run.csv": "bec500f59d274ed79e8886e5d86a790b71dd00969b4b18d55b036329de3da6dd",
+      "run_metadata.json": "c230598fa7af21ed23794462b6c0e617d85ece4488bd74ddba3e4a6ec86079b0",
+      "handover.md": "5c14e78eeb1945dc9507bf5a6968d644de8e58cfbbe12f49da18fa7d39d67c7f"
+    },
+    "dependency_location": "C:\\Users\\pc\\AppData\\Local\\Temp\\bremen04-python-deps\\bertopic",
+    "new_embeddings_generated": false,
+    "initial_inventory_audit": [
+      {
+        "path": "outputs/member_04/bertopic_titles_assignments.csv",
+        "recorded_sha256": "83a189236547926417be4ed9347420bcfa71f62155a80c913ea406405f507118",
+        "actual_sha256": "2156e855cc1eac1354e1339dbfecfa0013f34db1d0a5698f7f811278468dbfd2",
+        "line_endings_only": true
+      },
+      {
+        "path": "outputs/member_04/bertopic_titles_topics.csv",
+        "recorded_sha256": "45f75f008e5045ba362f0b640c362ba6a8a4ec1110622d4827d2620e677f3c64",
+        "actual_sha256": "80636b1d66ce99a15d824f5d68e37f195abde273f312b0c9937aeeec12715c66",
+        "line_endings_only": true
+      },
+      {
+        "path": "outputs/member_04/bertopic_titles_samples.csv",
+        "recorded_sha256": "51c4d6e6e712b06b90c887084ba7b9c61b2cf71b38af2550f37066455463f504",
+        "actual_sha256": "da4ef38e9d3a36a9c0f81919adbe53109c34c93d63e98cacc53bab075e9145ad",
+        "line_endings_only": true
+      },
+      {
+        "path": "outputs/member_04/bertopic_titles_run.csv",
+        "recorded_sha256": "23038336e1fb8d208e82ade7ea9e9d9f1e6ca2dd3b947543eac2db3b9c01063b",
+        "actual_sha256": "ef6978fae3668eda25ce6564033b0c7580a8edb56b54d0cb5310982476d9442f",
+        "line_endings_only": true
+      },
+      {
+        "path": "outputs/member_04/bertopic_descriptions_assignments.csv",
+        "recorded_sha256": "8d7159a8aa1ebebca9cfd77b1c7403133c325da9b354c0cca3ccef767b3ec024",
+        "actual_sha256": "e449560d59918596f2b87dffdd23b40f162164302623cdd6d784d4e9aea22851",
+        "line_endings_only": true
+      },
+      {
+        "path": "outputs/member_04/bertopic_descriptions_topics.csv",
+        "recorded_sha256": "9258d92f6cd5fd1a0f027f28e8537f6eb3bfcee0ad67f997c6971c59fbd86e00",
+        "actual_sha256": "828e0c0e7e11876193a6e7f74f518f72030ef394c8462010c1aa1a4d5fa183f3",
+        "line_endings_only": true
+      },
+      {
+        "path": "outputs/member_04/bertopic_descriptions_samples.csv",
+        "recorded_sha256": "9311e1b994cbe34317cc6d161a506c4348695944da46b667a29d8c53e90538db",
+        "actual_sha256": "84e95cf1cd8ea9e352a98c6e4b7d03535818eb3bb00f020e74730f6865953690",
+        "line_endings_only": true
+      },
+      {
+        "path": "outputs/member_04/bertopic_descriptions_run.csv",
+        "recorded_sha256": "3d9ed95edba5036deb9bbc12e8d4a51b53245b1dbc5c2b420f7145001757e109",
+        "actual_sha256": "bec500f59d274ed79e8886e5d86a790b71dd00969b4b18d55b036329de3da6dd",
+        "line_endings_only": true
+      },
+      {
+        "path": "figures/member_04/bertopic_titles_umap2d.png",
+        "recorded_sha256": "73eb30a27596175b77cf5f06a75d49618a292609b2238cd6a0127df1b85bcfd1",
+        "actual_sha256": "73eb30a27596175b77cf5f06a75d49618a292609b2238cd6a0127df1b85bcfd1",
+        "line_endings_only": false
+      },
+      {
+        "path": "figures/member_04/bertopic_descriptions_umap2d.png",
+        "recorded_sha256": "704df86eebb2a86725d0044f335717ae3dc0a7c43445bbd638b6cd9cb91400ef",
+        "actual_sha256": "704df86eebb2a86725d0044f335717ae3dc0a7c43445bbd638b6cd9cb91400ef",
+        "line_endings_only": false
+      },
+      {
+        "path": "figures/member_04/bertopic_titles_topic_sizes.png",
+        "recorded_sha256": "87d900139ff5f6e4ce604c80a9f524e255e920f3bd104bad5863b0287617d54b",
+        "actual_sha256": "87d900139ff5f6e4ce604c80a9f524e255e920f3bd104bad5863b0287617d54b",
+        "line_endings_only": false
+      },
+      {
+        "path": "figures/member_04/bertopic_descriptions_topic_sizes.png",
+        "recorded_sha256": "3501ef5ee9bbe72168fd176a84e81b5a21272dbae06b1effb67ce85b5bb0327b",
+        "actual_sha256": "3501ef5ee9bbe72168fd176a84e81b5a21272dbae06b1effb67ce85b5bb0327b",
+        "line_endings_only": false
+      }
+    ],
+    "dependency_audit": {
+      "pynndescent_0.7.0_trial_topics": {
+        "titles": 58,
+        "descriptions": 47
+      },
+      "verified_pynndescent": "0.6.0",
+      "original_version_recorded": false,
+      "trial_artifacts_replaced": false
+    },
+    "separate_2d_umap": {
+      "n_components": 2,
+      "n_neighbors": 15,
+      "min_dist": 0.1,
+      "metric": "cosine",
+      "random_state": 42,
+      "n_jobs": 1
+    }
+  },
+  "analysis_scope": "Computational exploratory results; independent human validation not performed.",
+  "presentation_maintenance": {
+    "date": "2026-11-16",
+    "model_refitted": false,
+    "historical_run_dates_preserved": true
+  },
+  "historical_status_before_simplification": "reproduced_candidates_pending_peer_review"
 }

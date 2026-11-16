@@ -1,0 +1,19 @@
+{
+  "frozen_at": "2026-11-13T16:45:08.688082+00:00",
+  "stage": "development_completed_before_held_out_ai_reading",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "category_mapping_sha256": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+  "frozen_mapping_sha256": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+  "codebook_sha256": "c8cf2abe125104e0242f5b84aa3dc6d36a6200c4573f1e3ca2fb41abe1d14e92",
+  "development_ai_reviews_sha256": "8aded8ebba1bbfbcd2139a6154bb866fdfa599626982659674850fb8afbf3de6",
+  "topic_ai_reviews_sha256": "745529afe9f4602291ea9880fb1459061809a4bd23e6ed0f38a61846b139a18a",
+  "selected_model_id": "bertopic_descriptions",
+  "mapping_category_changes": 0,
+  "human_approval": false,
+  "rule": "The mapping was not retuned on the stored held-out assessment. Later tuning requires a new evaluation cohort for a defensible comparison.",
+  "limitations": [
+    "Same assistant and existing model-generated development evidence can share biases.",
+    "Only sampled topic evidence was inspected; cluster homogeneity is unproven."
+  ],
+  "evaluation_sample_sha256": "54dfc8b4c5c52885d80aa3d42a333b73e8ef4d276d020fc1f551101cf6513bd4"
+}

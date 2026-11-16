@@ -1,0 +1,37 @@
+{
+  "status": "passed_no_nmf_refit",
+  "audit_date": "2026-11-12T21:18:51.419218+01:00",
+  "model_id": "nmf_descriptions",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "modeling_rows": 5124,
+  "assignment_rows": 5126,
+  "prepared_tfidf_shape": [
+    5124,
+    31270
+  ],
+  "base_tfidf_shape": [
+    5126,
+    31288
+  ],
+  "original_notebook_sha256": "41c8214a2ca40ceafc7c78221753909481aafa34e001778cdb4866e87768aa0c",
+  "evidence": "Original cells 6/9/17/23/30/46/51/53: prepared hash/filter -> 5124-row TF-IDF -> 5124x10 weights -> report_id assignments; seeded review IDs and keyword lists agree.",
+  "original_execution_counts": "Sequential original counts 1-118; fitting outputs retained as historical evidence.",
+  "nmf_retrained": false,
+  "weights_independently_replayed": false,
+  "historical_fit_seconds": null,
+  "representative_rows_checked": 50,
+  "shifted_representative_IDs_corrected": 31,
+  "assignment_statuses": {
+    "assigned": 5124,
+    "excluded": 2
+  },
+  "review_log_scope": "Preserved development judgments, not independent reference labels",
+  "audit_package_versions": {
+    "pandas": "2.3.2",
+    "numpy": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "pyarrow": "26.0.1",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2"
+  }
+}

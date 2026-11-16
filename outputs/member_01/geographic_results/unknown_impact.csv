@@ -1,0 +1,33 @@
+analysis_category,report_count,share_citywide,unknown_geography_reports,known_geography_reports,unknown_geography_share,geography_level,analysis_status
+Traffic-related,658,0.1284153005464481,265,393,0.4027355623100304,Ortsteile,computational_exploratory
+Burglary,113,0.022053083528493365,43,70,0.3805309734513274,Ortsteile,computational_exploratory
+Theft,0,0.0,0,0,,Ortsteile,computational_exploratory
+Robbery,260,0.0507416081186573,89,171,0.3423076923076923,Ortsteile,computational_exploratory
+Assault / threats,526,0.10265417642466823,158,368,0.30038022813688214,Ortsteile,computational_exploratory
+Fraud / deception,232,0.04527712724434036,118,114,0.5086206896551724,Ortsteile,computational_exploratory
+Drug-related,279,0.05444964871194379,154,125,0.5519713261648745,Ortsteile,computational_exploratory
+Property damage,319,0.062256049960967993,117,202,0.3667711598746082,Ortsteile,computational_exploratory
+Fire / explosion / ordnance,357,0.06967213114754098,141,216,0.3949579831932773,Ortsteile,computational_exploratory
+Public events / police information,399,0.0778688524590164,279,120,0.6992481203007519,Ortsteile,computational_exploratory
+Weapons-related,0,0.0,0,0,,Ortsteile,computational_exploratory
+Hate / discrimination,108,0.02107728337236534,42,66,0.3888888888888889,Ortsteile,computational_exploratory
+Environmental / regulatory,70,0.01366120218579235,60,10,0.8571428571428571,Ortsteile,computational_exploratory
+Non-traffic accidents / death investigations,41,0.008001561280249805,18,23,0.43902439024390244,Ortsteile,computational_exploratory
+Unknown/Unclear,1427,0.2784933645589383,546,881,0.3826208829712684,Ortsteile,computational_exploratory
+Unassigned (model noise),335,0.06537861046057768,117,218,0.3492537313432836,Ortsteile,computational_exploratory
+Traffic-related,658,0.1284153005464481,111,547,0.16869300911854104,Stadtteile plus standalone Ortsteile,computational_exploratory
+Burglary,113,0.022053083528493365,10,103,0.08849557522123894,Stadtteile plus standalone Ortsteile,computational_exploratory
+Theft,0,0.0,0,0,,Stadtteile plus standalone Ortsteile,computational_exploratory
+Robbery,260,0.0507416081186573,8,252,0.03076923076923077,Stadtteile plus standalone Ortsteile,computational_exploratory
+Assault / threats,526,0.10265417642466823,29,497,0.055133079847908745,Stadtteile plus standalone Ortsteile,computational_exploratory
+Fraud / deception,232,0.04527712724434036,52,180,0.22413793103448276,Stadtteile plus standalone Ortsteile,computational_exploratory
+Drug-related,279,0.05444964871194379,93,186,0.3333333333333333,Stadtteile plus standalone Ortsteile,computational_exploratory
+Property damage,319,0.062256049960967993,22,297,0.06896551724137931,Stadtteile plus standalone Ortsteile,computational_exploratory
+Fire / explosion / ordnance,357,0.06967213114754098,22,335,0.06162464985994398,Stadtteile plus standalone Ortsteile,computational_exploratory
+Public events / police information,399,0.0778688524590164,235,164,0.5889724310776943,Stadtteile plus standalone Ortsteile,computational_exploratory
+Weapons-related,0,0.0,0,0,,Stadtteile plus standalone Ortsteile,computational_exploratory
+Hate / discrimination,108,0.02107728337236534,21,87,0.19444444444444445,Stadtteile plus standalone Ortsteile,computational_exploratory
+Environmental / regulatory,70,0.01366120218579235,51,19,0.7285714285714285,Stadtteile plus standalone Ortsteile,computational_exploratory
+Non-traffic accidents / death investigations,41,0.008001561280249805,7,34,0.17073170731707318,Stadtteile plus standalone Ortsteile,computational_exploratory
+Unknown/Unclear,1427,0.2784933645589383,271,1156,0.18990889978976874,Stadtteile plus standalone Ortsteile,computational_exploratory
+Unassigned (model noise),335,0.06537861046057768,43,292,0.12835820895522387,Stadtteile plus standalone Ortsteile,computational_exploratory

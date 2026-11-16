@@ -1,0 +1,16 @@
+suggested_primary_category,suggested_reports,user_agreed_chat_summaries,flagged_difficult_reports,differences_from_provisional,ai_only_recommendations
+Traffic-related,3,0,0,1,3
+Burglary,3,0,0,3,3
+Theft,2,1,1,2,1
+Robbery,9,0,0,8,9
+Assault / threats,13,3,6,9,10
+Fraud / deception,3,0,0,1,3
+Drug-related,2,0,0,0,2
+Property damage,4,0,2,2,4
+Fire / explosion / ordnance,6,0,0,0,6
+Public events / police information,6,2,2,3,4
+Weapons-related,1,0,0,1,1
+Hate / discrimination,1,0,1,0,1
+Environmental / regulatory,0,0,0,0,0
+Non-traffic accidents / death investigations,1,0,0,0,1
+Unknown/Unclear,6,3,6,2,3

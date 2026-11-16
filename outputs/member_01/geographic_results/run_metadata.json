@@ -1,0 +1,63 @@
+{
+  "author": "Meriam El Askri",
+  "status": "computational_exploratory",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "input_files": {
+    "prepared": "outputs\\member_01\\reports_prepared.parquet",
+    "categories": "outputs\\member_06\\computational_report_categories.csv",
+    "mapping": "outputs\\member_06\\category_mapping.csv",
+    "codebook": "outputs\\member_06\\category_codebook.csv"
+  },
+  "input_sha256": {
+    "prepared": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+    "categories": "5f2eca0648c664751d7d4addb913dd72ffca130f6f8c56f31c74584acbcc8d31",
+    "mapping": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+    "codebook": "c8cf2abe125104e0242f5b84aa3dc6d36a6200c4573f1e3ca2fb41abe1d14e92"
+  },
+  "included_reports_per_view": 5124,
+  "geographic_coverage": [
+    {
+      "geography_level": "Ortsteile",
+      "included_reports": 5124,
+      "mapped_reports": 2977,
+      "unknown_reports": 2147,
+      "unknown_share": 0.41900858704137395,
+      "named_areas": 77
+    },
+    {
+      "geography_level": "Stadtteile plus standalone Ortsteile",
+      "included_reports": 5124,
+      "mapped_reports": 4149,
+      "unknown_reports": 975,
+      "unknown_share": 0.19028103044496486,
+      "named_areas": 23
+    }
+  ],
+  "tables": {
+    "counts.csv": 1632,
+    "totals.csv": 102,
+    "dominant.csv": 120,
+    "leaders.csv": 34,
+    "unknown_impact.csv": 32,
+    "geographic_coverage.csv": 2,
+    "citywide_categories.csv": 16,
+    "geography_transitions.csv": 96,
+    "coarse_area_detail_coverage.csv": 24,
+    "unknown_geography_source_labels.csv": 378,
+    "protected_geographic_exceptions.csv": 4,
+    "report_geographies.csv": 5126
+  },
+  "figures": [
+    "district_category_composition.png",
+    "geographic_coverage_comparison.png",
+    "part_1_district_category_heatmap.png",
+    "part_2_district_category_heatmap.png",
+    "top_report_areas.png"
+  ],
+  "limitations": [
+    "Computational categories; no independent human validation",
+    "Unknown geography retained",
+    "Views overlap and cannot be added",
+    "Publication selection and population exposure unknown"
+  ]
+}

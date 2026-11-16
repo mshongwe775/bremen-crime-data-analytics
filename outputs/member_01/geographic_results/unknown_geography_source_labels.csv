@@ -1,0 +1,381 @@
+district,report_count,geography_level,analysis_status
+Achim,1,Ortsteile,computational_exploratory
+Achterdiek,1,Ortsteile,computational_exploratory
+"Alte Neustadt, Altstadt",1,Ortsteile,computational_exploratory
+"Alte Neustadt, Bahnhofsvorstadt",1,Ortsteile,computational_exploratory
+"Altstadt, Bahnhofsvorstadt",1,Ortsteile,computational_exploratory
+"Altstadt, Bahnhofsvorstadt, Neue Vahr Südost",1,Ortsteile,computational_exploratory
+"Altstadt, Oslebshausen",1,Ortsteile,computational_exploratory
+Altstadt/Bahnhofsvorstadt,1,Ortsteile,computational_exploratory
+Anschlussstelle Horn,1,Ortsteile,computational_exploratory
+Arsten/ Kattenesch,1,Ortsteile,computational_exploratory
+Aumund - Hammersbeck,1,Ortsteile,computational_exploratory
+Autobahn 1,3,Ortsteile,computational_exploratory
+Autobahn 1 (A1),1,Ortsteile,computational_exploratory
+Autobahn 27,3,Ortsteile,computational_exploratory
+Autobahn 270,1,Ortsteile,computational_exploratory
+"B
+rgerpark",2,Ortsteile,computational_exploratory
+Bahnhofsplatz,1,Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Altstadt",1,Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Neu Schwachhausen",1,Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Neu-Schwachhausen",1,Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Ostertor",1,Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Ostertor, Steintor",1,Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Steintor",3,Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Steintor, Ostertor, Lehe",1,Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Steintorviertel",1,Ortsteile,computational_exploratory
+Bahnhofsvorstadt/Altstadt,1,Ortsteile,computational_exploratory
+Bahnhofsvorstadt/Steintor,2,Ortsteile,computational_exploratory
+Bahnhofvorstadt,1,Ortsteile,computational_exploratory
+Berlin,1,Ortsteile,computational_exploratory
+Blexen Reede,1,Ortsteile,computational_exploratory
+Blexen-Reede,1,Ortsteile,computational_exploratory
+Blumenthal,80,Ortsteile,computational_exploratory
+Bremen,4,Ortsteile,computational_exploratory
+"Bremen Mitte, Östliche Vorstadt",1,Ortsteile,computational_exploratory
+Bremen Nord,1,Ortsteile,computational_exploratory
+Bremerhaven,15,Ortsteile,computational_exploratory
+Brinkum,2,Ortsteile,computational_exploratory
+Bundesautobahn 1,1,Ortsteile,computational_exploratory
+Bundesautobahn 27,1,Ortsteile,computational_exploratory
+Bundesautobahn A1,1,Ortsteile,computational_exploratory
+"Buntentor, Gartenstadt Süd, Gartenstadt Vahr",1,Ortsteile,computational_exploratory
+Burglesum,34,Ortsteile,computational_exploratory
+Bürgerpark,2,Ortsteile,computational_exploratory
+Bürgerweide,7,Ortsteile,computational_exploratory
+Container Terminal Bremerhaven,1,Ortsteile,computational_exploratory
+Ellener-Feld,1,Ortsteile,computational_exploratory
+Ellenerbrok-Schevermoor,1,Ortsteile,computational_exploratory
+Ellernerbrok-Schevemoor,1,Ortsteile,computational_exploratory
+Ellernerbrook-Schevemoor,1,Ortsteile,computational_exploratory
+"F-Lobbendorf",1,Ortsteile,computational_exploratory
+Findorf,1,Ortsteile,computational_exploratory
+Findorff,59,Ortsteile,computational_exploratory
+"Findorff, Walle",1,Ortsteile,computational_exploratory
+"Findorff, Walle, Gröpelingen",1,Ortsteile,computational_exploratory
+Findorff-Schwachhausen,1,Ortsteile,computational_exploratory
+Findorff-Weidedamm,1,Ortsteile,computational_exploratory
+Fischereihafen,1,Ortsteile,computational_exploratory
+Flughafen,1,Ortsteile,computational_exploratory
+Frankreich,1,Ortsteile,computational_exploratory
+Freimarkt,1,Ortsteile,computational_exploratory
+"Fähr-Lobbendorf, Riensberg",1,Ortsteile,computational_exploratory
+"Gartenstadt Vahr, Neue Vahr Südwest",1,Ortsteile,computational_exploratory
+"Gartenstadt Vahr, Rönnebeck",1,Ortsteile,computational_exploratory
+Gartenstadt-Süd,2,Ortsteile,computational_exploratory
+Geestemünde-Nord,1,Ortsteile,computational_exploratory
+"Gete, Burgdamm",1,Ortsteile,computational_exploratory
+Gröpelingen,114,Ortsteile,computational_exploratory
+"Gröpelingen, Walle",1,Ortsteile,computational_exploratory
+Gröpelingen-Mitte,1,Ortsteile,computational_exploratory
+Gröpelingen/Osterholz,1,Ortsteile,computational_exploratory
+Gröpelinger,1,Ortsteile,computational_exploratory
+Hamburg-Neustadt,1,Ortsteile,computational_exploratory
+Hasenbüren,1,Ortsteile,computational_exploratory
+Hauptbahnhof,2,Ortsteile,computational_exploratory
+Hemelingen,121,Ortsteile,computational_exploratory
+"Hemelingen, Osterholz",1,Ortsteile,computational_exploratory
+"Hemelingen, Walle",1,Ortsteile,computational_exploratory
+Hemelingen/Gröpelingen,1,Ortsteile,computational_exploratory
+Horn-Lehe,11,Ortsteile,computational_exploratory
+"Horn-Lehe, Oberneuland",1,Ortsteile,computational_exploratory
+Horn-Lehe/ Oberneuland,1,Ortsteile,computational_exploratory
+Huchting,28,Ortsteile,computational_exploratory
+"Huchting, Osterholz, Neustadt",1,Ortsteile,computational_exploratory
+"Huckelriede, Ohlenhof",1,Ortsteile,computational_exploratory
+Huckelriede/Kattenturm,1,Ortsteile,computational_exploratory
+Huckeriede,1,Ortsteile,computational_exploratory
+Häfen,4,Ortsteile,computational_exploratory
+Ihlpohl,1,Ortsteile,computational_exploratory
+Industriehafen,1,Ortsteile,computational_exploratory
+Ingolstadt,1,Ortsteile,computational_exploratory
+Innenstadt,5,Ortsteile,computational_exploratory
+Italien,1,Ortsteile,computational_exploratory
+Kaiserhafen III,1,Ortsteile,computational_exploratory
+Kirchhhuchting,2,Ortsteile,computational_exploratory
+Lehe,2,Ortsteile,computational_exploratory
+Lehersterdeich,1,Ortsteile,computational_exploratory
+Lesum und Vegesack,1,Ortsteile,computational_exploratory
+Lindenhofviertel,1,Ortsteile,computational_exploratory
+Lüssum,1,Ortsteile,computational_exploratory
+Marktplatz,1,Ortsteile,computational_exploratory
+Mitte,119,Ortsteile,computational_exploratory
+Mitte und Gröpelingen,1,Ortsteile,computational_exploratory
+"Mitte, Blumenthal",1,Ortsteile,computational_exploratory
+"Mitte, Neustadt",1,Ortsteile,computational_exploratory
+"Mitte, Schwachhausen",1,Ortsteile,computational_exploratory
+"Mitte, Östliche Vorstadt, Neustadt",2,Ortsteile,computational_exploratory
+Mitte-West,1,Ortsteile,computational_exploratory
+Mitte-Östliche Vorstadt,5,Ortsteile,computational_exploratory
+Mitte/ Östliche Vorstadt,1,Ortsteile,computational_exploratory
+"Mittelshuchting, Kirchhuchting",1,Ortsteile,computational_exploratory
+Neu Schwachausen,1,Ortsteile,computational_exploratory
+Neu Schwachhausen,1,Ortsteile,computational_exploratory
+"Neu Schwachhausen, Steffenweg",1,Ortsteile,computational_exploratory
+Neu Vahr Nord,1,Ortsteile,computational_exploratory
+"Neu-Schwachhausen, Ohlenhof",1,Ortsteile,computational_exploratory
+Neue Vahr,1,Ortsteile,computational_exploratory
+"Neue Vahr Nord, Neue Vahr Südost, Arbergen",1,Ortsteile,computational_exploratory
+"Neue Vahr Nord, Ohlenhof, Bahnhofsvorstadt",1,Ortsteile,computational_exploratory
+Neue Vahr-Südwest,1,Ortsteile,computational_exploratory
+Neuer Hafen,1,Ortsteile,computational_exploratory
+Neustadt,132,Ortsteile,computational_exploratory
+"Neustadt, Gröpelingen",1,Ortsteile,computational_exploratory
+"Neustadt, Schwachhausen",1,Ortsteile,computational_exploratory
+"Neustadt, Vahr",1,Ortsteile,computational_exploratory
+"Neustadt, Vegesack",1,Ortsteile,computational_exploratory
+"Neustadt, Walle",1,Ortsteile,computational_exploratory
+Neustadt-Mitte,2,Ortsteile,computational_exploratory
+Neustadt-Obervieland,2,Ortsteile,computational_exploratory
+Neustadt/Blockland,1,Ortsteile,computational_exploratory
+Neustadt/Kirchhuchting,1,Ortsteile,computational_exploratory
+Neustadt/Mitte,2,Ortsteile,computational_exploratory
+Neustädter Häfen,5,Ortsteile,computational_exploratory
+None,530,Ortsteile,computational_exploratory
+Nord,1,Ortsteile,computational_exploratory
+Nordschleuse,2,Ortsteile,computational_exploratory
+Oberneuland,44,Ortsteile,computational_exploratory
+"Oberneuland, Horn-Lehe",1,Ortsteile,computational_exploratory
+Obervieland,17,Ortsteile,computational_exploratory
+Obervieland-Industriehäfen,1,Ortsteile,computational_exploratory
+Oslebhausen,1,Ortsteile,computational_exploratory
+Ost,1,Ortsteile,computational_exploratory
+"Osterfeuerberg, Ohlenhof",1,Ortsteile,computational_exploratory
+Osterholz,40,Ortsteile,computational_exploratory
+Osterholz-Tenever,1,Ortsteile,computational_exploratory
+Ostertor/Steintor,2,Ortsteile,computational_exploratory
+"Ostertor/Steintorviertel, Bahnhofsvorstadt",1,Ortsteile,computational_exploratory
+Osthafen,1,Ortsteile,computational_exploratory
+Petersweder,1,Ortsteile,computational_exploratory
+"Rönnebeck, Altstadt",1,Ortsteile,computational_exploratory
+Schlachte,1,Ortsteile,computational_exploratory
+Schwachhausen,58,Ortsteile,computational_exploratory
+Seehafen,1,Ortsteile,computational_exploratory
+Sodematt,1,Ortsteile,computational_exploratory
+Sottrum,1,Ortsteile,computational_exploratory
+Stadtgebiet,2,Ortsteile,computational_exploratory
+"Steintor, Ostertor",1,Ortsteile,computational_exploratory
+"Steintor, Ostertor, Bahnhofsvorstadt",1,Ortsteile,computational_exploratory
+Steintorviertel,2,Ortsteile,computational_exploratory
+Stromkaje,1,Ortsteile,computational_exploratory
+"Südervorstadt, Hastedt",1,Ortsteile,computational_exploratory
+"Südervorstadt, Lüssum-Bockhorn",1,Ortsteile,computational_exploratory
+"Südervorstadt, Ohlenhof",1,Ortsteile,computational_exploratory
+Vahr,38,Ortsteile,computational_exploratory
+"Vahr, Gröpelingen",1,Ortsteile,computational_exploratory
+"Vahr, Osterholz",1,Ortsteile,computational_exploratory
+"Vahr, Schwachhausen",1,Ortsteile,computational_exploratory
+"Vahr-Lehe, Arsten",1,Ortsteile,computational_exploratory
+Varrel,1,Ortsteile,computational_exploratory
+Vegesack,102,Ortsteile,computational_exploratory
+"Vegesack, Gröpelingen, Schwachhausen",1,Ortsteile,computational_exploratory
+Verbindungshafen,1,Ortsteile,computational_exploratory
+Viertel,1,Ortsteile,computational_exploratory
+Vor dem Steintor,3,Ortsteile,computational_exploratory
+Walle,174,Ortsteile,computational_exploratory
+"Walle, Findorff",1,Ortsteile,computational_exploratory
+"Walle, Hemelingen",1,Ortsteile,computational_exploratory
+"Walle, Kattenesch",1,Ortsteile,computational_exploratory
+Walle-Gröpelingen,1,Ortsteile,computational_exploratory
+"Weidedamm, Hulsberg",1,Ortsteile,computational_exploratory
+"Weidedamm, Mittelshuchting, Habenhausen",1,Ortsteile,computational_exploratory
+Weser,7,Ortsteile,computational_exploratory
+Weserstadion,16,Ortsteile,computational_exploratory
+Wohninvest Weserstadion,1,Ortsteile,computational_exploratory
+Wohninvest-Weserstadion,1,Ortsteile,computational_exploratory
+Woltmershausen,62,Ortsteile,computational_exploratory
+Woltmershausen/Lesum,1,Ortsteile,computational_exploratory
+Wremen,1,Ortsteile,computational_exploratory
+null,65,Ortsteile,computational_exploratory
+wohninvest Weserstadion,5,Ortsteile,computational_exploratory
+Östliche Bahnhofsvorstadt,1,Ortsteile,computational_exploratory
+Östliche Vorstadt,54,Ortsteile,computational_exploratory
+"Östliche Vorstadt, Mitte, Steintor, Ostertor",1,Ortsteile,computational_exploratory
+"Östliche Vorstadt, Walle, Gröpelingen",1,Ortsteile,computational_exploratory
+Östliche Vorstadt/Findorff,1,Ortsteile,computational_exploratory
+"Östliche-Vorstadt, Findorff",1,Ortsteile,computational_exploratory
+Überseehafen,1,Ortsteile,computational_exploratory
+Überseehafengebiet,1,Ortsteile,computational_exploratory
+"Überseestadt, Hemelingen",1,Ortsteile,computational_exploratory
+Achim,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Achterdiek,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Alte Neustadt, Altstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Alte Neustadt, Bahnhofsvorstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Altstadt, Bahnhofsvorstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Altstadt, Bahnhofsvorstadt, Neue Vahr Südost",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Altstadt, Oslebshausen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Altstadt/Bahnhofsvorstadt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Anschlussstelle Horn,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Arsten/ Kattenesch,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Aumund - Hammersbeck,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Autobahn 1,3,Stadtteile plus standalone Ortsteile,computational_exploratory
+Autobahn 1 (A1),1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Autobahn 27,3,Stadtteile plus standalone Ortsteile,computational_exploratory
+Autobahn 270,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"B
+rgerpark",2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bahnhofsplatz,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Altstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Neu Schwachhausen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Neu-Schwachhausen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Ostertor",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Ostertor, Steintor",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Steintor",3,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Steintor, Ostertor, Lehe",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bahnhofsvorstadt, Steintorviertel",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bahnhofsvorstadt/Altstadt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bahnhofsvorstadt/Steintor,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bahnhofvorstadt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Berlin,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Blexen Reede,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Blexen-Reede,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bremen,4,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Bremen Mitte, Östliche Vorstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bremen Nord,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bremerhaven,15,Stadtteile plus standalone Ortsteile,computational_exploratory
+Brinkum,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bundesautobahn 1,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bundesautobahn 27,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bundesautobahn A1,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Buntentor, Gartenstadt Süd, Gartenstadt Vahr",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bürgerpark,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Bürgerweide,7,Stadtteile plus standalone Ortsteile,computational_exploratory
+Container Terminal Bremerhaven,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Ellener-Feld,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Ellenerbrok-Schevermoor,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Ellernerbrok-Schevemoor,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Ellernerbrook-Schevemoor,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"F-Lobbendorf",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Findorf,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Findorff, Walle",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Findorff, Walle, Gröpelingen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Findorff-Schwachhausen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Findorff-Weidedamm,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Fischereihafen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Flughafen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Frankreich,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Freimarkt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Fähr-Lobbendorf, Riensberg",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Gartenstadt Vahr, Neue Vahr Südwest",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Gartenstadt Vahr, Rönnebeck",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Gartenstadt-Süd,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Geestemünde-Nord,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Gete, Burgdamm",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Gröpelingen, Walle",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Gröpelingen-Mitte,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Gröpelingen/Osterholz,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Gröpelinger,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Hamburg-Neustadt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Hasenbüren,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Hauptbahnhof,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Hemelingen, Osterholz",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Hemelingen, Walle",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Hemelingen/Gröpelingen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Horn-Lehe, Oberneuland",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Horn-Lehe/ Oberneuland,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Huchting, Osterholz, Neustadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Huckelriede, Ohlenhof",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Huckelriede/Kattenturm,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Huckeriede,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Ihlpohl,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Industriehafen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Ingolstadt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Innenstadt,5,Stadtteile plus standalone Ortsteile,computational_exploratory
+Italien,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Kaiserhafen III,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Kirchhhuchting,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Lehe,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Lehersterdeich,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Lesum und Vegesack,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Lindenhofviertel,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Lüssum,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Marktplatz,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Mitte,119,Stadtteile plus standalone Ortsteile,computational_exploratory
+Mitte und Gröpelingen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Mitte, Blumenthal",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Mitte, Neustadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Mitte, Schwachhausen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Mitte, Östliche Vorstadt, Neustadt",2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Mitte-West,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Mitte-Östliche Vorstadt,5,Stadtteile plus standalone Ortsteile,computational_exploratory
+Mitte/ Östliche Vorstadt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Mittelshuchting, Kirchhuchting",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neu Schwachausen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neu Schwachhausen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neu Schwachhausen, Steffenweg",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neu Vahr Nord,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neu-Schwachhausen, Ohlenhof",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neue Vahr,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neue Vahr Nord, Neue Vahr Südost, Arbergen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neue Vahr Nord, Ohlenhof, Bahnhofsvorstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neue Vahr-Südwest,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neuer Hafen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neustadt, Gröpelingen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neustadt, Schwachhausen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neustadt, Vahr",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neustadt, Vegesack",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Neustadt, Walle",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neustadt-Mitte,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neustadt-Obervieland,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neustadt/Blockland,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neustadt/Kirchhuchting,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neustadt/Mitte,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Neustädter Häfen,5,Stadtteile plus standalone Ortsteile,computational_exploratory
+None,530,Stadtteile plus standalone Ortsteile,computational_exploratory
+Nord,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Nordschleuse,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Oberneuland, Horn-Lehe",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Obervieland-Industriehäfen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Oslebhausen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Ost,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Osterfeuerberg, Ohlenhof",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Osterholz-Tenever,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Ostertor/Steintor,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Ostertor/Steintorviertel, Bahnhofsvorstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Osthafen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Petersweder,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Rönnebeck, Altstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Schlachte,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Seehafen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Sodematt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Sottrum,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Stadtgebiet,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Steintor, Ostertor",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Steintor, Ostertor, Bahnhofsvorstadt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Steintorviertel,2,Stadtteile plus standalone Ortsteile,computational_exploratory
+Stromkaje,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Südervorstadt, Hastedt",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Südervorstadt, Lüssum-Bockhorn",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Südervorstadt, Ohlenhof",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Vahr, Gröpelingen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Vahr, Osterholz",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Vahr, Schwachhausen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Vahr-Lehe, Arsten",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Varrel,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Vegesack, Gröpelingen, Schwachhausen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Verbindungshafen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Viertel,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Vor dem Steintor,3,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Walle, Findorff",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Walle, Hemelingen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Walle, Kattenesch",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Walle-Gröpelingen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Weidedamm, Hulsberg",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Weidedamm, Mittelshuchting, Habenhausen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Weser,7,Stadtteile plus standalone Ortsteile,computational_exploratory
+Weserstadion,16,Stadtteile plus standalone Ortsteile,computational_exploratory
+Wohninvest Weserstadion,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Wohninvest-Weserstadion,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Woltmershausen/Lesum,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Wremen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+null,65,Stadtteile plus standalone Ortsteile,computational_exploratory
+wohninvest Weserstadion,5,Stadtteile plus standalone Ortsteile,computational_exploratory
+Östliche Bahnhofsvorstadt,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Östliche Vorstadt, Mitte, Steintor, Ostertor",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Östliche Vorstadt, Walle, Gröpelingen",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Östliche Vorstadt/Findorff,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Östliche-Vorstadt, Findorff",1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Überseehafen,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+Überseehafengebiet,1,Stadtteile plus standalone Ortsteile,computational_exploratory
+"Überseestadt, Hemelingen",1,Stadtteile plus standalone Ortsteile,computational_exploratory

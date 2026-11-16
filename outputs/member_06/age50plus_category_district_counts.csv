@@ -1,0 +1,376 @@
+category,district_clean,assessment_cohort,ai_victim_group,report_count
+Assault / threats,Blumenthal,candidate,explicit_text_older_victim,3
+Assault / threats,Blumenthal,candidate,possible_older_victim_insufficient_evidence,1
+Assault / threats,Burglesum,candidate,explicit_text_older_victim,1
+Assault / threats,Burglesum,candidate,older_person_other_role,1
+Assault / threats,Findorff,candidate,explicit_text_older_victim,1
+Assault / threats,Findorff,candidate,possible_older_victim_insufficient_evidence,1
+Assault / threats,Gröpelingen,candidate,explicit_text_older_victim,5
+Assault / threats,Gröpelingen,candidate,older_person_other_role,1
+Assault / threats,Gröpelingen,candidate,possible_older_victim_insufficient_evidence,1
+Assault / threats,Hemelingen,candidate,explicit_text_older_victim,2
+Assault / threats,Hemelingen,candidate,older_person_other_role,1
+Assault / threats,Hemelingen,candidate,possible_older_victim_insufficient_evidence,1
+Assault / threats,Hemelingen,noncandidate_control,no_evidence_of_older_victim,1
+Assault / threats,Huchting,candidate,explicit_text_older_victim,3
+Assault / threats,Huchting,candidate,older_person_other_role,1
+Assault / threats,Huchting,candidate,possible_older_victim_insufficient_evidence,3
+Assault / threats,Huchting,noncandidate_control,no_evidence_of_older_victim,1
+Assault / threats,Mitte,candidate,explicit_text_older_victim,9
+Assault / threats,Mitte,candidate,older_person_other_role,3
+Assault / threats,Mitte,candidate,possible_older_victim_insufficient_evidence,1
+Assault / threats,Neustadt,candidate,explicit_text_older_victim,6
+Assault / threats,Neustadt,candidate,older_person_other_role,1
+Assault / threats,Neustadt,candidate,possible_older_victim_insufficient_evidence,1
+Assault / threats,Obervieland,candidate,explicit_text_older_victim,3
+Assault / threats,Obervieland,candidate,older_person_other_role,2
+Assault / threats,Obervieland,candidate,possible_older_victim_insufficient_evidence,2
+Assault / threats,Osterholz,candidate,explicit_text_older_victim,5
+Assault / threats,Osterholz,candidate,older_person_other_role,2
+Assault / threats,Schwachhausen,candidate,older_person_other_role,3
+Assault / threats,Unknown,candidate,explicit_text_older_victim,4
+Assault / threats,Unknown,candidate,possible_older_victim_insufficient_evidence,1
+Assault / threats,Vahr,candidate,explicit_text_older_victim,1
+Assault / threats,Vegesack,candidate,explicit_text_older_victim,2
+Assault / threats,Vegesack,candidate,older_person_other_role,1
+Assault / threats,Walle,candidate,explicit_text_older_victim,2
+Assault / threats,Östliche Vorstadt,candidate,explicit_text_older_victim,4
+Assault / threats,Östliche Vorstadt,candidate,older_person_other_role,1
+Assault / threats,Östliche Vorstadt,noncandidate_control,no_evidence_of_older_victim,1
+Burglary,Gröpelingen,candidate,explicit_text_older_victim,1
+Burglary,Gröpelingen,noncandidate_control,no_evidence_of_older_victim,1
+Burglary,Hemelingen,candidate,explicit_text_older_victim,1
+Burglary,Horn-Lehe,candidate,explicit_text_older_victim,1
+Burglary,Oberneuland,candidate,possible_older_victim_insufficient_evidence,1
+Burglary,Unknown,candidate,explicit_text_older_victim,2
+Burglary,Unknown,noncandidate_control,no_evidence_of_older_victim,2
+Burglary,Walle,candidate,older_person_other_role,1
+Burglary,Östliche Vorstadt,candidate,explicit_text_older_victim,1
+Drug-related,Blumenthal,noncandidate_control,no_evidence_of_older_victim,1
+Drug-related,Burglesum,candidate,older_person_other_role,1
+Drug-related,Gröpelingen,candidate,older_person_other_role,1
+Drug-related,Hemelingen,candidate,older_person_other_role,2
+Drug-related,Mitte,candidate,older_person_other_role,2
+Drug-related,Mitte,candidate,possible_older_victim_insufficient_evidence,1
+Drug-related,Mitte,noncandidate_control,no_evidence_of_older_victim,2
+Drug-related,Neustadt,candidate,older_person_other_role,1
+Drug-related,Obervieland,candidate,older_person_other_role,1
+Drug-related,Unknown,candidate,older_person_other_role,7
+Drug-related,Walle,candidate,older_person_other_role,2
+Drug-related,Woltmershausen,candidate,older_person_other_role,1
+Drug-related,Östliche Vorstadt,candidate,older_person_other_role,1
+Environmental / regulatory,Hemelingen,candidate,older_person_other_role,2
+Environmental / regulatory,Häfen,candidate,older_person_other_role,2
+Environmental / regulatory,Mitte,candidate,possible_older_victim_insufficient_evidence,2
+Environmental / regulatory,Unknown,candidate,explicit_text_older_victim,2
+Environmental / regulatory,Unknown,candidate,older_person_other_role,7
+Environmental / regulatory,Unknown,noncandidate_control,no_evidence_of_older_victim,2
+Fire / explosion / ordnance,Blumenthal,candidate,explicit_text_older_victim,1
+Fire / explosion / ordnance,Borgfeld,candidate,possible_older_victim_insufficient_evidence,1
+Fire / explosion / ordnance,Horn-Lehe,candidate,explicit_text_older_victim,2
+Fire / explosion / ordnance,Huchting,candidate,possible_older_victim_insufficient_evidence,2
+Fire / explosion / ordnance,Mitte,candidate,possible_older_victim_insufficient_evidence,1
+Fire / explosion / ordnance,Neustadt,candidate,older_person_other_role,1
+Fire / explosion / ordnance,Neustadt,candidate,possible_older_victim_insufficient_evidence,1
+Fire / explosion / ordnance,Obervieland,candidate,explicit_text_older_victim,1
+Fire / explosion / ordnance,Osterholz,candidate,older_person_other_role,1
+Fire / explosion / ordnance,Unknown,candidate,older_person_other_role,1
+Fire / explosion / ordnance,Unknown,candidate,possible_older_victim_insufficient_evidence,1
+Fire / explosion / ordnance,Vahr,noncandidate_control,no_evidence_of_older_victim,1
+Fire / explosion / ordnance,Walle,candidate,older_person_other_role,2
+Fire / explosion / ordnance,Walle,candidate,possible_older_victim_insufficient_evidence,2
+Fire / explosion / ordnance,Östliche Vorstadt,candidate,explicit_text_older_victim,2
+Fraud / deception,Blumenthal,candidate,explicit_text_older_victim,5
+Fraud / deception,Blumenthal,candidate,possible_older_victim_insufficient_evidence,2
+Fraud / deception,Borgfeld,candidate,explicit_text_older_victim,2
+Fraud / deception,Burglesum,candidate,explicit_text_older_victim,9
+Fraud / deception,Burglesum,candidate,possible_older_victim_insufficient_evidence,2
+Fraud / deception,Findorff,candidate,explicit_text_older_victim,7
+Fraud / deception,Gröpelingen,candidate,explicit_text_older_victim,7
+Fraud / deception,Gröpelingen,candidate,possible_older_victim_insufficient_evidence,7
+Fraud / deception,Hemelingen,candidate,explicit_text_older_victim,9
+Fraud / deception,Hemelingen,candidate,possible_older_victim_insufficient_evidence,3
+Fraud / deception,Horn-Lehe,candidate,explicit_text_older_victim,8
+Fraud / deception,Horn-Lehe,candidate,possible_older_victim_insufficient_evidence,1
+Fraud / deception,Huchting,candidate,explicit_text_older_victim,6
+Fraud / deception,Huchting,candidate,possible_older_victim_insufficient_evidence,2
+Fraud / deception,Mitte,candidate,explicit_text_older_victim,6
+Fraud / deception,Mitte,candidate,possible_older_victim_insufficient_evidence,1
+Fraud / deception,Neustadt,candidate,explicit_text_older_victim,6
+Fraud / deception,Neustadt,candidate,older_person_other_role,1
+Fraud / deception,Neustadt,candidate,possible_older_victim_insufficient_evidence,5
+Fraud / deception,Oberneuland,candidate,explicit_text_older_victim,2
+Fraud / deception,Oberneuland,candidate,possible_older_victim_insufficient_evidence,1
+Fraud / deception,Obervieland,candidate,explicit_text_older_victim,9
+Fraud / deception,Obervieland,candidate,possible_older_victim_insufficient_evidence,2
+Fraud / deception,Osterholz,candidate,explicit_text_older_victim,5
+Fraud / deception,Osterholz,candidate,possible_older_victim_insufficient_evidence,4
+Fraud / deception,Schwachhausen,candidate,explicit_text_older_victim,13
+Fraud / deception,Schwachhausen,candidate,older_person_other_role,1
+Fraud / deception,Schwachhausen,candidate,possible_older_victim_insufficient_evidence,3
+Fraud / deception,Unknown,candidate,explicit_text_older_victim,23
+Fraud / deception,Unknown,candidate,no_evidence_of_older_victim,1
+Fraud / deception,Unknown,candidate,possible_older_victim_insufficient_evidence,16
+Fraud / deception,Vahr,candidate,explicit_text_older_victim,12
+Fraud / deception,Vahr,candidate,possible_older_victim_insufficient_evidence,3
+Fraud / deception,Vegesack,candidate,explicit_text_older_victim,10
+Fraud / deception,Vegesack,candidate,possible_older_victim_insufficient_evidence,1
+Fraud / deception,Walle,candidate,explicit_text_older_victim,9
+Fraud / deception,Walle,candidate,possible_older_victim_insufficient_evidence,3
+Fraud / deception,Woltmershausen,candidate,explicit_text_older_victim,2
+Fraud / deception,Östliche Vorstadt,candidate,explicit_text_older_victim,3
+Fraud / deception,Östliche Vorstadt,candidate,possible_older_victim_insufficient_evidence,1
+Hate / discrimination,Blumenthal,candidate,older_person_other_role,2
+Hate / discrimination,Burglesum,candidate,older_person_other_role,1
+Hate / discrimination,Findorff,candidate,older_person_other_role,2
+Hate / discrimination,Gröpelingen,candidate,older_person_other_role,1
+Hate / discrimination,Hemelingen,candidate,explicit_text_older_victim,1
+Hate / discrimination,Hemelingen,candidate,older_person_other_role,2
+Hate / discrimination,Horn-Lehe,candidate,older_person_other_role,1
+Hate / discrimination,Mitte,candidate,explicit_text_older_victim,2
+Hate / discrimination,Mitte,candidate,older_person_other_role,5
+Hate / discrimination,Mitte,candidate,possible_older_victim_insufficient_evidence,1
+Hate / discrimination,Neustadt,candidate,explicit_text_older_victim,2
+Hate / discrimination,Neustadt,candidate,older_person_other_role,2
+Hate / discrimination,Neustadt,noncandidate_control,no_evidence_of_older_victim,1
+Hate / discrimination,Osterholz,candidate,older_person_other_role,2
+Hate / discrimination,Schwachhausen,candidate,explicit_text_older_victim,1
+Hate / discrimination,Schwachhausen,candidate,older_person_other_role,1
+Hate / discrimination,Unknown,candidate,explicit_text_older_victim,1
+Hate / discrimination,Unknown,candidate,older_person_other_role,5
+Hate / discrimination,Vahr,candidate,older_person_other_role,1
+Hate / discrimination,Vegesack,candidate,older_person_other_role,2
+Hate / discrimination,Walle,candidate,explicit_text_older_victim,1
+Non-traffic accidents / death investigations,Hemelingen,candidate,possible_older_victim_insufficient_evidence,1
+Non-traffic accidents / death investigations,Horn-Lehe,candidate,possible_older_victim_insufficient_evidence,1
+Non-traffic accidents / death investigations,Huchting,candidate,possible_older_victim_insufficient_evidence,2
+Non-traffic accidents / death investigations,Mitte,candidate,possible_older_victim_insufficient_evidence,1
+Non-traffic accidents / death investigations,Neustadt,candidate,explicit_text_older_victim,1
+Non-traffic accidents / death investigations,Neustadt,candidate,older_person_other_role,1
+Non-traffic accidents / death investigations,Neustadt,candidate,possible_older_victim_insufficient_evidence,1
+Non-traffic accidents / death investigations,Oberneuland,candidate,possible_older_victim_insufficient_evidence,2
+Non-traffic accidents / death investigations,Unknown,candidate,possible_older_victim_insufficient_evidence,2
+Non-traffic accidents / death investigations,Vahr,candidate,possible_older_victim_insufficient_evidence,1
+Non-traffic accidents / death investigations,Vegesack,candidate,explicit_text_older_victim,1
+Non-traffic accidents / death investigations,Vegesack,candidate,possible_older_victim_insufficient_evidence,1
+Property damage,Blumenthal,candidate,possible_older_victim_insufficient_evidence,2
+Property damage,Gröpelingen,noncandidate_control,no_evidence_of_older_victim,1
+Property damage,Mitte,candidate,older_person_other_role,2
+Property damage,Mitte,candidate,possible_older_victim_insufficient_evidence,1
+Property damage,Mitte,noncandidate_control,no_evidence_of_older_victim,1
+Property damage,Neustadt,candidate,possible_older_victim_insufficient_evidence,1
+Property damage,Oberneuland,noncandidate_control,no_evidence_of_older_victim,1
+Property damage,Obervieland,candidate,explicit_text_older_victim,2
+Property damage,Osterholz,candidate,older_person_other_role,1
+Property damage,Strom,candidate,possible_older_victim_insufficient_evidence,1
+Property damage,Unknown,candidate,older_person_other_role,1
+Property damage,Unknown,candidate,possible_older_victim_insufficient_evidence,1
+Property damage,Vahr,candidate,explicit_text_older_victim,2
+Property damage,Vegesack,candidate,older_person_other_role,1
+Property damage,Vegesack,noncandidate_control,no_evidence_of_older_victim,1
+Property damage,Walle,candidate,explicit_text_older_victim,1
+Property damage,Walle,candidate,older_person_other_role,3
+Property damage,Walle,candidate,possible_older_victim_insufficient_evidence,2
+Public events / police information,Burglesum,candidate,older_person_other_role,1
+Public events / police information,Findorff,candidate,older_person_other_role,1
+Public events / police information,Horn-Lehe,noncandidate_control,no_evidence_of_older_victim,1
+Public events / police information,Häfen,noncandidate_control,no_evidence_of_older_victim,1
+Public events / police information,Mitte,candidate,no_evidence_of_older_victim,1
+Public events / police information,Mitte,candidate,older_person_other_role,2
+Public events / police information,Mitte,noncandidate_control,no_evidence_of_older_victim,1
+Public events / police information,Unknown,candidate,no_evidence_of_older_victim,3
+Public events / police information,Unknown,candidate,older_person_other_role,3
+Public events / police information,Unknown,noncandidate_control,no_evidence_of_older_victim,2
+Robbery,Blumenthal,candidate,explicit_text_older_victim,5
+Robbery,Burglesum,candidate,explicit_text_older_victim,5
+Robbery,Burglesum,candidate,possible_older_victim_insufficient_evidence,1
+Robbery,Gröpelingen,candidate,explicit_text_older_victim,6
+Robbery,Gröpelingen,candidate,older_person_other_role,1
+Robbery,Gröpelingen,candidate,possible_older_victim_insufficient_evidence,2
+Robbery,Hemelingen,candidate,explicit_text_older_victim,7
+Robbery,Hemelingen,candidate,older_person_other_role,2
+Robbery,Hemelingen,candidate,possible_older_victim_insufficient_evidence,1
+Robbery,Huchting,candidate,explicit_text_older_victim,6
+Robbery,Huchting,noncandidate_control,no_evidence_of_older_victim,1
+Robbery,Mitte,candidate,explicit_text_older_victim,1
+Robbery,Mitte,candidate,older_person_other_role,1
+Robbery,Mitte,noncandidate_control,no_evidence_of_older_victim,1
+Robbery,Neustadt,candidate,explicit_text_older_victim,11
+Robbery,Neustadt,candidate,older_person_other_role,1
+Robbery,Obervieland,candidate,explicit_text_older_victim,5
+Robbery,Obervieland,candidate,older_person_other_role,1
+Robbery,Obervieland,candidate,possible_older_victim_insufficient_evidence,1
+Robbery,Osterholz,candidate,explicit_text_older_victim,4
+Robbery,Schwachhausen,candidate,explicit_text_older_victim,2
+Robbery,Unknown,candidate,explicit_text_older_victim,1
+Robbery,Unknown,noncandidate_control,no_evidence_of_older_victim,1
+Robbery,Vahr,candidate,explicit_text_older_victim,3
+Robbery,Vegesack,candidate,explicit_text_older_victim,4
+Robbery,Walle,candidate,explicit_text_older_victim,6
+Robbery,Walle,candidate,older_person_other_role,1
+Robbery,Woltmershausen,candidate,explicit_text_older_victim,1
+Robbery,Östliche Vorstadt,candidate,explicit_text_older_victim,2
+Robbery,Östliche Vorstadt,candidate,possible_older_victim_insufficient_evidence,1
+Traffic-related,Blockland,candidate,explicit_text_older_victim,1
+Traffic-related,Blumenthal,candidate,explicit_text_older_victim,4
+Traffic-related,Blumenthal,candidate,older_person_other_role,3
+Traffic-related,Blumenthal,candidate,possible_older_victim_insufficient_evidence,2
+Traffic-related,Borgfeld,candidate,explicit_text_older_victim,1
+Traffic-related,Borgfeld,candidate,older_person_other_role,1
+Traffic-related,Burglesum,candidate,explicit_text_older_victim,2
+Traffic-related,Burglesum,candidate,possible_older_victim_insufficient_evidence,5
+Traffic-related,Findorff,candidate,explicit_text_older_victim,1
+Traffic-related,Findorff,candidate,older_person_other_role,1
+Traffic-related,Findorff,candidate,possible_older_victim_insufficient_evidence,2
+Traffic-related,Gröpelingen,candidate,explicit_text_older_victim,3
+Traffic-related,Gröpelingen,candidate,older_person_other_role,2
+Traffic-related,Gröpelingen,candidate,possible_older_victim_insufficient_evidence,2
+Traffic-related,Gröpelingen,noncandidate_control,no_evidence_of_older_victim,1
+Traffic-related,Hemelingen,candidate,explicit_text_older_victim,9
+Traffic-related,Hemelingen,candidate,older_person_other_role,5
+Traffic-related,Hemelingen,candidate,possible_older_victim_insufficient_evidence,6
+Traffic-related,Hemelingen,noncandidate_control,no_evidence_of_older_victim,2
+Traffic-related,Horn-Lehe,candidate,explicit_text_older_victim,10
+Traffic-related,Horn-Lehe,candidate,older_person_other_role,4
+Traffic-related,Horn-Lehe,candidate,possible_older_victim_insufficient_evidence,4
+Traffic-related,Huchting,candidate,explicit_text_older_victim,6
+Traffic-related,Huchting,candidate,older_person_other_role,3
+Traffic-related,Häfen,candidate,explicit_text_older_victim,3
+Traffic-related,Häfen,candidate,older_person_other_role,1
+Traffic-related,Häfen,candidate,possible_older_victim_insufficient_evidence,4
+Traffic-related,Mitte,candidate,explicit_text_older_victim,13
+Traffic-related,Mitte,candidate,older_person_other_role,6
+Traffic-related,Mitte,candidate,possible_older_victim_insufficient_evidence,9
+Traffic-related,Mitte,noncandidate_control,no_evidence_of_older_victim,1
+Traffic-related,Neustadt,candidate,explicit_text_older_victim,8
+Traffic-related,Neustadt,candidate,older_person_other_role,3
+Traffic-related,Neustadt,candidate,possible_older_victim_insufficient_evidence,9
+Traffic-related,Oberneuland,candidate,explicit_text_older_victim,1
+Traffic-related,Oberneuland,candidate,possible_older_victim_insufficient_evidence,1
+Traffic-related,Obervieland,candidate,explicit_text_older_victim,7
+Traffic-related,Obervieland,candidate,older_person_other_role,4
+Traffic-related,Obervieland,candidate,possible_older_victim_insufficient_evidence,3
+Traffic-related,Osterholz,candidate,explicit_text_older_victim,5
+Traffic-related,Osterholz,candidate,older_person_other_role,2
+Traffic-related,Osterholz,candidate,possible_older_victim_insufficient_evidence,3
+Traffic-related,Schwachhausen,candidate,explicit_text_older_victim,3
+Traffic-related,Schwachhausen,candidate,older_person_other_role,2
+Traffic-related,Schwachhausen,candidate,possible_older_victim_insufficient_evidence,4
+Traffic-related,Strom,candidate,explicit_text_older_victim,1
+Traffic-related,Strom,candidate,older_person_other_role,1
+Traffic-related,Unknown,candidate,explicit_text_older_victim,8
+Traffic-related,Unknown,candidate,no_evidence_of_older_victim,1
+Traffic-related,Unknown,candidate,older_person_other_role,10
+Traffic-related,Unknown,candidate,possible_older_victim_insufficient_evidence,11
+Traffic-related,Vahr,candidate,explicit_text_older_victim,7
+Traffic-related,Vahr,candidate,older_person_other_role,2
+Traffic-related,Vahr,candidate,possible_older_victim_insufficient_evidence,2
+Traffic-related,Vegesack,candidate,explicit_text_older_victim,5
+Traffic-related,Vegesack,candidate,older_person_other_role,3
+Traffic-related,Vegesack,candidate,possible_older_victim_insufficient_evidence,2
+Traffic-related,Walle,candidate,explicit_text_older_victim,12
+Traffic-related,Walle,candidate,older_person_other_role,5
+Traffic-related,Walle,candidate,possible_older_victim_insufficient_evidence,2
+Traffic-related,Walle,noncandidate_control,no_evidence_of_older_victim,1
+Traffic-related,Woltmershausen,candidate,older_person_other_role,1
+Traffic-related,Östliche Vorstadt,candidate,explicit_text_older_victim,7
+Traffic-related,Östliche Vorstadt,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Blumenthal,candidate,explicit_text_older_victim,2
+Unassigned (model noise),Blumenthal,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Burglesum,candidate,explicit_text_older_victim,7
+Unassigned (model noise),Burglesum,candidate,older_person_other_role,1
+Unassigned (model noise),Burglesum,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Findorff,candidate,older_person_other_role,1
+Unassigned (model noise),Gröpelingen,candidate,explicit_text_older_victim,10
+Unassigned (model noise),Hemelingen,candidate,explicit_text_older_victim,13
+Unassigned (model noise),Hemelingen,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Horn-Lehe,candidate,explicit_text_older_victim,4
+Unassigned (model noise),Huchting,candidate,explicit_text_older_victim,3
+Unassigned (model noise),Huchting,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Häfen,candidate,older_person_other_role,2
+Unassigned (model noise),Mitte,candidate,explicit_text_older_victim,13
+Unassigned (model noise),Mitte,candidate,older_person_other_role,2
+Unassigned (model noise),Mitte,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Neustadt,candidate,explicit_text_older_victim,4
+Unassigned (model noise),Neustadt,candidate,older_person_other_role,1
+Unassigned (model noise),Neustadt,candidate,possible_older_victim_insufficient_evidence,2
+Unassigned (model noise),Oberneuland,candidate,explicit_text_older_victim,2
+Unassigned (model noise),Obervieland,candidate,explicit_text_older_victim,4
+Unassigned (model noise),Osterholz,candidate,explicit_text_older_victim,2
+Unassigned (model noise),Osterholz,candidate,older_person_other_role,1
+Unassigned (model noise),Osterholz,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Schwachhausen,candidate,explicit_text_older_victim,5
+Unassigned (model noise),Schwachhausen,candidate,older_person_other_role,1
+Unassigned (model noise),Schwachhausen,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Unknown,candidate,explicit_text_older_victim,5
+Unassigned (model noise),Unknown,candidate,possible_older_victim_insufficient_evidence,4
+Unassigned (model noise),Vahr,candidate,explicit_text_older_victim,5
+Unassigned (model noise),Vahr,candidate,older_person_other_role,1
+Unassigned (model noise),Vegesack,candidate,explicit_text_older_victim,2
+Unassigned (model noise),Walle,candidate,explicit_text_older_victim,5
+Unassigned (model noise),Walle,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Woltmershausen,candidate,explicit_text_older_victim,4
+Unassigned (model noise),Woltmershausen,candidate,older_person_other_role,1
+Unassigned (model noise),Woltmershausen,candidate,possible_older_victim_insufficient_evidence,1
+Unassigned (model noise),Östliche Vorstadt,candidate,explicit_text_older_victim,5
+Unassigned (model noise),Östliche Vorstadt,candidate,older_person_other_role,1
+Unknown/Unclear,Blumenthal,candidate,explicit_text_older_victim,8
+Unknown/Unclear,Blumenthal,candidate,older_person_other_role,2
+Unknown/Unclear,Borgfeld,candidate,explicit_text_older_victim,2
+Unknown/Unclear,Burglesum,candidate,explicit_text_older_victim,4
+Unknown/Unclear,Burglesum,candidate,older_person_other_role,3
+Unknown/Unclear,Burglesum,candidate,possible_older_victim_insufficient_evidence,2
+Unknown/Unclear,Burglesum,candidate,unclear,1
+Unknown/Unclear,Findorff,candidate,explicit_text_older_victim,11
+Unknown/Unclear,Findorff,candidate,older_person_other_role,3
+Unknown/Unclear,Findorff,candidate,possible_older_victim_insufficient_evidence,1
+Unknown/Unclear,Gröpelingen,candidate,explicit_text_older_victim,16
+Unknown/Unclear,Gröpelingen,candidate,older_person_other_role,4
+Unknown/Unclear,Gröpelingen,candidate,possible_older_victim_insufficient_evidence,4
+Unknown/Unclear,Gröpelingen,candidate,unclear,2
+Unknown/Unclear,Gröpelingen,noncandidate_control,no_evidence_of_older_victim,1
+Unknown/Unclear,Hemelingen,candidate,explicit_text_older_victim,10
+Unknown/Unclear,Hemelingen,candidate,older_person_other_role,6
+Unknown/Unclear,Hemelingen,candidate,possible_older_victim_insufficient_evidence,6
+Unknown/Unclear,Hemelingen,candidate,unclear,1
+Unknown/Unclear,Horn-Lehe,candidate,explicit_text_older_victim,7
+Unknown/Unclear,Horn-Lehe,candidate,older_person_other_role,2
+Unknown/Unclear,Huchting,candidate,explicit_text_older_victim,7
+Unknown/Unclear,Huchting,candidate,older_person_other_role,4
+Unknown/Unclear,Häfen,candidate,explicit_text_older_victim,2
+Unknown/Unclear,Mitte,candidate,explicit_text_older_victim,63
+Unknown/Unclear,Mitte,candidate,older_person_other_role,15
+Unknown/Unclear,Mitte,candidate,possible_older_victim_insufficient_evidence,7
+Unknown/Unclear,Mitte,noncandidate_control,no_evidence_of_older_victim,3
+Unknown/Unclear,Neustadt,candidate,explicit_text_older_victim,15
+Unknown/Unclear,Neustadt,candidate,older_person_other_role,5
+Unknown/Unclear,Neustadt,candidate,possible_older_victim_insufficient_evidence,2
+Unknown/Unclear,Neustadt,noncandidate_control,no_evidence_of_older_victim,1
+Unknown/Unclear,Oberneuland,candidate,explicit_text_older_victim,4
+Unknown/Unclear,Obervieland,candidate,explicit_text_older_victim,11
+Unknown/Unclear,Obervieland,candidate,possible_older_victim_insufficient_evidence,2
+Unknown/Unclear,Obervieland,candidate,unclear,1
+Unknown/Unclear,Osterholz,candidate,explicit_text_older_victim,13
+Unknown/Unclear,Osterholz,candidate,older_person_other_role,4
+Unknown/Unclear,Schwachhausen,candidate,explicit_text_older_victim,18
+Unknown/Unclear,Schwachhausen,candidate,possible_older_victim_insufficient_evidence,2
+Unknown/Unclear,Unknown,candidate,explicit_text_older_victim,19
+Unknown/Unclear,Unknown,candidate,older_person_other_role,13
+Unknown/Unclear,Unknown,candidate,possible_older_victim_insufficient_evidence,3
+Unknown/Unclear,Unknown,candidate,unclear,3
+Unknown/Unclear,Unknown,noncandidate_control,no_evidence_of_older_victim,2
+Unknown/Unclear,Vahr,candidate,explicit_text_older_victim,7
+Unknown/Unclear,Vahr,candidate,older_person_other_role,2
+Unknown/Unclear,Vahr,candidate,possible_older_victim_insufficient_evidence,2
+Unknown/Unclear,Vegesack,candidate,explicit_text_older_victim,8
+Unknown/Unclear,Vegesack,candidate,older_person_other_role,5
+Unknown/Unclear,Vegesack,candidate,possible_older_victim_insufficient_evidence,3
+Unknown/Unclear,Vegesack,noncandidate_control,no_evidence_of_older_victim,1
+Unknown/Unclear,Walle,candidate,explicit_text_older_victim,12
+Unknown/Unclear,Walle,candidate,older_person_other_role,5
+Unknown/Unclear,Walle,candidate,possible_older_victim_insufficient_evidence,4
+Unknown/Unclear,Walle,noncandidate_control,no_evidence_of_older_victim,2
+Unknown/Unclear,Woltmershausen,candidate,explicit_text_older_victim,6
+Unknown/Unclear,Woltmershausen,candidate,possible_older_victim_insufficient_evidence,1
+Unknown/Unclear,Östliche Vorstadt,candidate,explicit_text_older_victim,10
+Unknown/Unclear,Östliche Vorstadt,candidate,older_person_other_role,3

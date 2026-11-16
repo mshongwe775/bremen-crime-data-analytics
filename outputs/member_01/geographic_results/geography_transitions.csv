@@ -1,0 +1,97 @@
+ortsteil_clean,district_clean,report_count,analysis_status
+Alte Neustadt,Neustadt,101,computational_exploratory
+Altstadt,Mitte,309,computational_exploratory
+Arbergen,Hemelingen,17,computational_exploratory
+Arsten,Obervieland,37,computational_exploratory
+Aumund-Hammersbeck,Vegesack,31,computational_exploratory
+Bahnhofsvorstadt,Mitte,387,computational_exploratory
+Barkhof,Schwachhausen,22,computational_exploratory
+Blockdiek,Osterholz,28,computational_exploratory
+Blockland,Blockland,3,computational_exploratory
+Borgfeld,Borgfeld,13,computational_exploratory
+Buntentor,Neustadt,39,computational_exploratory
+Burg-Grambke,Burglesum,36,computational_exploratory
+Burgdamm,Burglesum,47,computational_exploratory
+Bürgerpark,Schwachhausen,7,computational_exploratory
+Ellener Feld,Osterholz,6,computational_exploratory
+Ellenerbrok-Schevemoor,Osterholz,46,computational_exploratory
+Farge,Blumenthal,23,computational_exploratory
+Fesenfeld,Östliche Vorstadt,14,computational_exploratory
+Findorff-Bürgerweide,Findorff,38,computational_exploratory
+Fähr-Lobbendorf,Vegesack,31,computational_exploratory
+Gartenstadt Süd,Neustadt,14,computational_exploratory
+Gartenstadt Vahr,Vahr,27,computational_exploratory
+Gete,Schwachhausen,14,computational_exploratory
+Grohn,Vegesack,32,computational_exploratory
+Grolland,Huchting,15,computational_exploratory
+Habenhausen,Obervieland,26,computational_exploratory
+Hastedt,Hemelingen,76,computational_exploratory
+Hohentor,Neustadt,18,computational_exploratory
+Hohweg,Walle,10,computational_exploratory
+Horn,Horn-Lehe,22,computational_exploratory
+Huckelriede,Neustadt,62,computational_exploratory
+Hulsberg,Östliche Vorstadt,15,computational_exploratory
+In den Hufen,Findorff,2,computational_exploratory
+In den Wischen,Gröpelingen,8,computational_exploratory
+Industriehäfen,Häfen,36,computational_exploratory
+Kattenesch,Obervieland,13,computational_exploratory
+Kattenturm,Obervieland,68,computational_exploratory
+Kirchhuchting,Huchting,67,computational_exploratory
+Lehe,Horn-Lehe,45,computational_exploratory
+Lehesterdeich,Horn-Lehe,36,computational_exploratory
+Lesum,Burglesum,30,computational_exploratory
+Lindenhof,Gröpelingen,56,computational_exploratory
+Lüssum-Bockhorn,Blumenthal,32,computational_exploratory
+Mahndorf,Hemelingen,33,computational_exploratory
+Mittelshuchting,Huchting,43,computational_exploratory
+Neu-Schwachhausen,Schwachhausen,17,computational_exploratory
+Neue Vahr Nord,Vahr,27,computational_exploratory
+Neue Vahr Südost,Vahr,27,computational_exploratory
+Neue Vahr Südwest,Vahr,31,computational_exploratory
+Neuenland,Neustadt,39,computational_exploratory
+Neustädter Hafen,Häfen,4,computational_exploratory
+Ohlenhof,Gröpelingen,51,computational_exploratory
+Oslebshausen,Gröpelingen,57,computational_exploratory
+Osterfeuerberg,Walle,25,computational_exploratory
+Ostertor,Mitte,114,computational_exploratory
+Peterswerder,Östliche Vorstadt,40,computational_exploratory
+Rablinghausen,Woltmershausen,7,computational_exploratory
+Radio Bremen,Schwachhausen,11,computational_exploratory
+Regensburger Straße,Findorff,2,computational_exploratory
+Rekum,Blumenthal,8,computational_exploratory
+Riensberg,Schwachhausen,11,computational_exploratory
+Rönnebeck,Blumenthal,8,computational_exploratory
+Schönebeck,Vegesack,9,computational_exploratory
+Sebaldsbrück,Hemelingen,49,computational_exploratory
+Seehausen,Seehausen,7,computational_exploratory
+Sodenmatt,Huchting,19,computational_exploratory
+St. Magnus,Burglesum,16,computational_exploratory
+Steffensweg,Walle,13,computational_exploratory
+Steintor,Östliche Vorstadt,112,computational_exploratory
+Strom,Strom,10,computational_exploratory
+Südervorstadt,Neustadt,25,computational_exploratory
+Tenever,Osterholz,41,computational_exploratory
+Unknown,Blumenthal,80,computational_exploratory
+Unknown,Burglesum,34,computational_exploratory
+Unknown,Findorff,59,computational_exploratory
+Unknown,Gröpelingen,114,computational_exploratory
+Unknown,Hemelingen,121,computational_exploratory
+Unknown,Horn-Lehe,11,computational_exploratory
+Unknown,Huchting,28,computational_exploratory
+Unknown,Häfen,4,computational_exploratory
+Unknown,Neustadt,132,computational_exploratory
+Unknown,Oberneuland,44,computational_exploratory
+Unknown,Obervieland,17,computational_exploratory
+Unknown,Osterholz,40,computational_exploratory
+Unknown,Schwachhausen,58,computational_exploratory
+Unknown,Unknown,975,computational_exploratory
+Unknown,Vahr,38,computational_exploratory
+Unknown,Vegesack,102,computational_exploratory
+Unknown,Walle,174,computational_exploratory
+Unknown,Woltmershausen,62,computational_exploratory
+Unknown,Östliche Vorstadt,54,computational_exploratory
+Utbremen,Walle,28,computational_exploratory
+Weidedamm,Findorff,22,computational_exploratory
+Werderland,Burglesum,1,computational_exploratory
+Westend,Walle,33,computational_exploratory
+Überseestadt,Walle,78,computational_exploratory

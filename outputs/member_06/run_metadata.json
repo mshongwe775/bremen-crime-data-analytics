@@ -1,46 +1,36 @@
 {
   "member_id": "member_06",
   "author": "Mcolisi Austine Shongwe",
-  "reviewer": "The team (review pending)",
-  "status": "in_progress",
-  "source_sha256": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
-  "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
-  "prepared_sha256": null,
-  "report_categories_sha256": null,
-  "run_date": "2026-10-17T12:43:56.710979+02:00",
-  "python_version": "3.14.3",
-  "package_versions": {
-    "pandas": "3.0.1",
-    "pyarrow": "25.0.1",
-    "matplotlib": "3.10.8"
+  "technical_assistance": "Aya Abdine",
+  "status": "computational_exploratory_complete",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "preferred_model": "bertopic_descriptions",
+  "independent_human_validation": false,
+  "category_status_counts": {
+    "mapped_topic": 3362,
+    "unclear": 1427,
+    "unassigned": 335,
+    "excluded": 2
   },
-  "methods": [
-    "Base source checks",
-    "Draft review protocol",
-    "Regex age and elderly-wording candidate screening"
+  "age_threshold": 50,
+  "candidate_reports": 1267,
+  "assessed_reports": 1307,
+  "assessment_groups": {
+    "explicit_text_older_victim": 767,
+    "older_person_other_role": 252,
+    "possible_older_victim_insufficient_evidence": 234,
+    "no_evidence_of_older_victim": 46,
+    "unclear": 8
+  },
+  "input_checksums": {
+    "category_mapping.csv": "f5e22200726114bdd0b5875bb962d14dcebc84c490bef45bab2595d4649ac0b0",
+    "age50plus_assessments.csv": "f3dc2e9559a9f230c58c9e868d38da59eb8026a6a2600997ec3b5b563fea2d87"
+  },
+  "limitations": [
+    "No independent human validation",
+    "Publication selection and coverage unknown",
+    "Explicit-text findings include attempts and traffic casualties",
+    "Screened subset is not population prevalence"
   ],
-  "parameters": {
-    "elderly_age_threshold": 50,
-    "elderly_threshold_status": "working_definition_selected_by_project_owner",
-    "reference_threshold": 65,
-    "proposed_review_reports": 120,
-    "review_sample_status": "not_drawn_common_cohort_pending",
-    "year_old_pattern": "\\b(\\d{1,3})[\\s-]+year[\\s-]+olds?\\b",
-    "aged_pattern": "\\baged?\\s+(\\d{1,3}(?:(?:\\s*,\\s*|\\s+and\\s+|\\s+to\\s+|\\s*-\\s*)\\d{1,3})*)",
-    "elderly_word_pattern": "\\b(?:elderly|pensioners?|senior citizens?)\\b"
-  },
-  "counts": {
-    "base_reports": 5126,
-    "listed_inputs_available": 0,
-    "reports_with_age50plus_mention": 1201,
-    "reports_with_age65plus_mention": 590,
-    "additional_reports_at_50": 611,
-    "candidate_reports_pending_manual_review": 1225
-  },
-  "notes": [
-    "Age 50+ inclusive selected by the project owner; communicate the definition to the team.",
-    "Screening counts are any-role age-pattern matches, not confirmed victim counts.",
-    "Word-only candidates have no established exact age; ranges and age formatting need review.",
-    "No final crime labels or elderly-victim classifications produced; prepared/model handovers pending."
-  ]
+  "contract_note": "Computational report categories and screening summaries replace active dependencies on optional approval forms; legacy approved-output meanings are not reinterpreted."
 }

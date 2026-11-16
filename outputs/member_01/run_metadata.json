@@ -1,8 +1,7 @@
 {
   "member_id": "member_01",
   "author": "Meriam El Askri",
-  "reviewer": "",
-  "status": "in_progress",
+  "status": "frozen_preparation_verified",
   "source_sha256": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
   "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
   "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
@@ -69,5 +68,12 @@
     "Reviewer not assigned. Final category analyses await Member 06.",
     "Package versions describe installed distributions; no models were executed.",
     "Latest official reference version and future boundary compatibility remain unverified."
-  ]
+  ],
+  "analysis_scope": "Computational exploratory results; independent human validation not performed.",
+  "presentation_maintenance": {
+    "date": "2026-11-16",
+    "model_refitted": false,
+    "historical_run_dates_preserved": true
+  },
+  "historical_status_before_simplification": "in_progress"
 }

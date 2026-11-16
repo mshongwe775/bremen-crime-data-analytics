@@ -1,0 +1,17 @@
+analysis_category,report_count,share_citywide,analysis_status
+Traffic-related,658,0.1284153005464481,computational_exploratory
+Burglary,113,0.022053083528493365,computational_exploratory
+Theft,0,0.0,computational_exploratory
+Robbery,260,0.0507416081186573,computational_exploratory
+Assault / threats,526,0.10265417642466823,computational_exploratory
+Fraud / deception,232,0.04527712724434036,computational_exploratory
+Drug-related,279,0.05444964871194379,computational_exploratory
+Property damage,319,0.062256049960967993,computational_exploratory
+Fire / explosion / ordnance,357,0.06967213114754098,computational_exploratory
+Public events / police information,399,0.0778688524590164,computational_exploratory
+Weapons-related,0,0.0,computational_exploratory
+Hate / discrimination,108,0.02107728337236534,computational_exploratory
+Environmental / regulatory,70,0.01366120218579235,computational_exploratory
+Non-traffic accidents / death investigations,41,0.008001561280249805,computational_exploratory
+Unknown/Unclear,1427,0.2784933645589383,computational_exploratory
+Unassigned (model noise),335,0.06537861046057768,computational_exploratory

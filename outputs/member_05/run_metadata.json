@@ -1,0 +1,77 @@
+{
+  "author": "Ghofran Mahmoud (Ghod)",
+  "status": "computational_exploratory",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "input_checksums": {
+    "outputs/member_01/reports_prepared.parquet": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+    "shared/reports_base.parquet": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
+    "bremen_crime_data_2026.parquet": "05c23babf442967832d277922f2bebe5ebeb43c8891a5e7aafa699644d1a9bf6",
+    "outputs/member_01/run_metadata.json": "0fcff3357e0d476a6985cc3efb44725e2b4a8903e4c154010e0956335341ab4c",
+    "outputs/member_06/computational_report_categories.csv": "5f2eca0648c664751d7d4addb913dd72ffca130f6f8c56f31c74584acbcc8d31"
+  },
+  "package_versions": {
+    "pandas": "2.3.2",
+    "numpy": "2.3.3",
+    "pyarrow": "26.0.1",
+    "matplotlib": "3.10.6",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2"
+  },
+  "date_field": "publication date",
+  "included_reports": 5124,
+  "months_without_observations": 11,
+  "comparable_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "citywide_evaluable_months": 62,
+  "citywide_flags": 0,
+  "category_district_flags": 7,
+  "anomaly_method": "monthly; prior12 mean; count>=max(10,2*mean,mean+3*sd0); mean>=5; no gaps/boundaries",
+  "screen_summary": [
+    {
+      "scope": "category",
+      "series_months": 1392,
+      "evaluable_months": 304,
+      "flagged_months": 6
+    },
+    {
+      "scope": "district",
+      "series_months": 2088,
+      "evaluable_months": 210,
+      "flagged_months": 1
+    },
+    {
+      "scope": "district_category",
+      "series_months": 23403,
+      "evaluable_months": 15,
+      "flagged_months": 0
+    }
+  ],
+  "tables": {
+    "monthly_district_categories.csv": 33408,
+    "monthly_categories.csv": 87,
+    "monthly_districts.csv": 87,
+    "monthly_coverage.csv": 87,
+    "seasonal_categories.csv": 192,
+    "seasonal_districts.csv": 288,
+    "year_month_category_profiles.csv": 960,
+    "year_month_district_profiles.csv": 1440,
+    "annual_categories_comparable.csv": 5,
+    "annual_districts_comparable.csv": 5,
+    "seasonal_peak_summary.csv": 14,
+    "anomaly_screen.csv": 26883,
+    "anomaly_screen_summary.csv": 3,
+    "anomaly_candidates.csv": 7,
+    "anomaly_report_evidence.csv": 107
+  },
+  "limitations": [
+    "Publication counts, not incident rates",
+    "Collection coverage unknown",
+    "No seasonal adjustment or multiple-testing correction",
+    "Flag explanations remain unverified"
+  ]
+}

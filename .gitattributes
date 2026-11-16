@@ -6,3 +6,7 @@
 *.txt text eol=lf
 *.parquet binary
 *.pptx binary
+
+# Preserve saved notebook/output bytes and the checksums recorded in provenance.
+team_notebooks/** -text whitespace=cr-at-eol
+outputs/** -text whitespace=cr-at-eol

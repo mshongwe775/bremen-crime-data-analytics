@@ -1,0 +1,23 @@
+{
+  "status": "validated_development_suggestions_not_independent_labels",
+  "audit_date": "2026-11-14T22:24:15.839256+01:00",
+  "input_file": "outputs/member_06/development_category_suggestions.csv",
+  "input_sha256": "01a409e9d03d6ca3754281742fca3f400426beee46b02281170fab217afa0461",
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "codebook_sha256": "c8cf2abe125104e0242f5b84aa3dc6d36a6200c4573f1e3ca2fb41abe1d14e92",
+  "rows": 60,
+  "held_out_rows": 0,
+  "decision_provenance_counts": {
+    "assistant_recommendation_only": 51,
+    "user_agreed_in_chat_based_on_summary": 9
+  },
+  "unknown_suggestions": 6,
+  "flagged_difficult_cases": 18,
+  "category_text_differences": 32,
+  "investigation_cases": 42,
+  "imported_as_reference_labels": false,
+  "suggestions_applied_as_overrides": false,
+  "historical_input_sha256": "3fc1122d373f2b6213a589054ec8c0ec40df167c6e82d3a18b5824d68e70fa38",
+  "evaluation_sample_sha256": "54dfc8b4c5c52885d80aa3d42a333b73e8ef4d276d020fc1f551101cf6513bd4",
+  "maintenance_note": "Empty human-entry columns removed; category suggestions, reasons and original provenance values are retained. Original audit date is historical."
+}

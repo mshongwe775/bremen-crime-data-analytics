@@ -1,6 +1,6 @@
 {
   "project": "Bremen Police Reports Project 2: Data Analytics",
-  "status": "SKELETON_NO_ANALYTICAL_RESULTS",
+  "status": "COMPUTATIONAL_ANALYSIS_COMPLETE_EXPLORATORY",
   "id_column": "report_id",
   "base_sha256": "e413c6bcca065480e00084bac8f18e338325803f3f79bf953b4b5f19c88c0534",
   "base_rows": 5126,
@@ -26,21 +26,11 @@
     "missing_text",
     "invalid_embedding"
   ],
-  "elderly_status_values": [
-    "yes",
-    "no_evidence",
-    "unclear",
-    "not_reviewed",
-    "excluded"
-  ],
   "csv_rule": "UTF-8 CSV, index=False; preserve report_id strings; empty topic_id allowed for missing/excluded inputs",
   "parquet_rule": "Member 1 prepared table contains all base rows/IDs, original columns plus district_clean, include_in_analysis, exclusion_reason; date_posted is datetime",
   "model_row_rule": "Each assignments CSV has exactly one row for every base report_id, including excluded, missing-text, invalid-embedding and unassigned records",
   "model_topic_rule": "topic_id is an integer local to model_id; compare (model_id, topic_id), never topic_id alone. HDBSCAN noise topic -1 stays unassigned unless separately reviewed.",
   "prepared_checksum_rule": "Every modeling handover/run_metadata.json records the SHA-256 of the exact reports_prepared.parquet used. Main integration rejects inconsistent versions.",
-  "review_rule": "Use a fixed common evaluation set eligible for all compared models. Development review and held-out review remain separate; report selection rules and disagreements.",
-  "mapping_rule": "category_mapping.csv covers all topics of all four models for comparison. selected_model.json identifies one approved model for the final report_categories.csv.",
-  "overrides_rule": "Any report-level category exception is recorded in category_overrides.csv with report_id, crime_category, reason, reviewer and category_status=manual_override.",
   "district_share_definitions": {
     "share_within_district": "category report_count divided by all included category report counts in that district",
     "share_of_category_reports": "district category report_count divided by that category total across included reports, including Unknown district in the denominator"
@@ -51,14 +41,17 @@
       "title": "Data preparation and district analysis",
       "output_folder": "outputs/member_01",
       "required_files": [
+        "reports_prepared.parquet",
         "data_quality.csv",
         "district_lookup.csv",
-        "duplicate_review.csv",
-        "district_category_counts.csv",
-        "highest_district_by_category.csv",
+        "duplicate_decisions.csv",
+        "geographic_results/counts.csv",
+        "geographic_results/totals.csv",
+        "geographic_results/leaders.csv",
+        "geographic_results/geographic_coverage.csv",
+        "geographic_results/citywide_categories.csv",
         "run_metadata.json",
-        "handover.md",
-        "reports_prepared.parquet"
+        "handover.md"
       ],
       "csv_schemas": {
         "data_quality.csv": [
@@ -72,25 +65,14 @@
           "decision",
           "notes"
         ],
-        "duplicate_review.csv": [
+        "duplicate_decisions.csv": [
           "report_id",
           "url",
           "decision",
           "reason"
-        ],
-        "district_category_counts.csv": [
-          "district_clean",
-          "crime_category",
-          "report_count",
-          "share_within_district",
-          "share_of_category_reports"
-        ],
-        "highest_district_by_category.csv": [
-          "crime_category",
-          "district_clean",
-          "report_count"
         ]
-      }
+      },
+      "scope": "computational_exploratory"
     },
     "member_02": {
       "notebook": "team_notebooks/02_title_topic_modeling.ipynb",
@@ -136,7 +118,8 @@
           "elapsed_seconds",
           "parameters"
         ]
-      }
+      },
+      "scope": "computational_exploratory"
     },
     "member_03": {
       "notebook": "team_notebooks/03_description_topic_modeling.ipynb",
@@ -182,7 +165,8 @@
           "elapsed_seconds",
           "parameters"
         ]
-      }
+      },
+      "scope": "computational_exploratory"
     },
     "member_04": {
       "notebook": "team_notebooks/04_embedding_topic_modeling.ipynb",
@@ -263,91 +247,52 @@
           "elapsed_seconds",
           "parameters"
         ]
-      }
+      },
+      "scope": "computational_exploratory"
     },
     "member_05": {
       "notebook": "team_notebooks/05_time_and_anomalies.ipynb",
       "title": "Time patterns and unusual increases",
       "output_folder": "outputs/member_05",
       "required_files": [
-        "monthly_counts.csv",
-        "seasonal_summary.csv",
-        "anomalies.csv",
+        "citywide_monthly_counts.csv",
+        "citywide_seasonal_summary.csv",
+        "citywide_anomaly_screen.csv",
+        "time_results/monthly_district_categories.csv",
+        "time_results/seasonal_categories.csv",
+        "time_results/anomaly_candidates.csv",
+        "run_metadata.json",
+        "handover.md"
+      ],
+      "csv_schemas": {},
+      "scope": "computational_exploratory"
+    },
+    "member_06": {
+      "notebook": "team_notebooks/06_validation_and_elderly.ipynb",
+      "title": "Model comparison, computational categories and older-person screening",
+      "output_folder": "outputs/member_06",
+      "required_files": [
+        "category_codebook.csv",
+        "category_mapping.csv",
+        "computational_report_categories.csv",
+        "preferred_model.json",
+        "model_comparison.csv",
+        "model_assessment.csv",
+        "age50plus_candidates.csv",
+        "age50plus_assessments.csv",
+        "age50plus_screening_summary.csv",
+        "elderly_screening_results.csv",
+        "analysis_validation_manifest.json",
         "run_metadata.json",
         "handover.md"
       ],
       "csv_schemas": {
-        "monthly_counts.csv": [
-          "month",
-          "district_clean",
-          "crime_category",
-          "report_count",
-          "coverage_note"
-        ],
-        "seasonal_summary.csv": [
-          "calendar_month",
-          "crime_category",
-          "report_count",
-          "observed_months",
-          "mean_reports_per_observed_month"
-        ],
-        "anomalies.csv": [
-          "district_clean",
-          "crime_category",
-          "window_start",
-          "window_end",
-          "report_count",
-          "baseline_count",
-          "method",
-          "possible_explanation",
-          "evidence_url",
-          "evidence_status"
-        ]
-      }
-    },
-    "member_06": {
-      "notebook": "team_notebooks/06_validation_and_elderly.ipynb",
-      "title": "Category validation and elderly victims",
-      "output_folder": "outputs/member_06",
-      "required_files": [
-        "review_sample.csv",
-        "category_codebook.csv",
-        "model_comparison.csv",
-        "category_mapping.csv",
-        "report_categories.csv",
-        "elderly_review.csv",
-        "elderly_summary.csv",
-        "run_metadata.json",
-        "handover.md",
-        "selected_model.json"
-      ],
-      "csv_schemas": {
-        "review_sample.csv": [
-          "report_id",
-          "review_split",
-          "reviewer",
-          "reference_category",
-          "second_reviewer",
-          "second_category",
-          "agreed_category",
-          "notes"
-        ],
         "category_codebook.csv": [
           "crime_category",
           "definition",
           "inclusions",
           "exclusions",
           "example_report_id"
-        ],
-        "model_comparison.csv": [
-          "model_id",
-          "n_topics",
-          "assigned_share",
-          "unassigned_share",
-          "reviewed_reports",
-          "matching_labels",
-          "label_agreement_rate",
-          "selection_notes"
         ],
         "category_mapping.csv": [
           "model_id",
@@ -356,28 +301,34 @@
           "decision",
           "reason"
         ],
-        "report_categories.csv": [
+        "computational_report_categories.csv": [
           "report_id",
           "selected_model_id",
           "topic_id",
           "crime_category",
           "category_status"
         ],
-        "elderly_review.csv": [
-          "report_id",
-          "elderly_victim_status",
-          "evidence_excerpt",
-          "reason",
-          "reviewer"
-        ],
-        "elderly_summary.csv": [
-          "crime_category",
-          "district_clean",
-          "confirmed_reports",
-          "reviewed_candidate_reports",
-          "notes"
+        "model_comparison.csv": [
+          "model_id",
+          "model",
+          "topics",
+          "assigned",
+          "unassigned",
+          "coverage",
+          "smallest_topic",
+          "largest_topic"
         ]
-      }
+      },
+      "scope": "computational_exploratory"
     }
-  }
+  },
+  "analysis_scope": "Computer-assisted topic/category analysis and source-text older-person screening; independent human validation not performed.",
+  "legacy_approved_outputs_not_produced": {
+    "report_categories.csv": "Former approved-label deliverable. Not generated or reinterpreted; computational_report_categories.csv is the explicit exploratory alternative.",
+    "elderly_summary.csv": "Former confirmed-victim summary. Not generated or reinterpreted; elderly_screening_results.csv is computational evidence, not confirmed totals.",
+    "district_category_counts.csv": "Former approved-label district handover; active exploratory alternative is member_01/geographic_results/counts.csv.",
+    "monthly_counts.csv": "Former approved-label time handover; active exploratory alternative is member_05/time_results/monthly_district_categories.csv."
+  },
+  "mapping_rule": "Preserve the 15-category codebook and mappings. Preferred description BERTopic assignments retain unclear cases, noise and exclusions. No human approval is claimed.",
+  "reproducibility_rule": "Keep frozen prepared bytes, all report IDs, model parameters and assignments unchanged; compare saved experiments without refitting by default."
 }

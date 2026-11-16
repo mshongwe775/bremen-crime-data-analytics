@@ -1,0 +1,193 @@
+analysis_category,calendar_month,report_count,observed_months,mean_reports_per_observed_month,min_annual_month_count,max_annual_month_count,mean_reports_per_day,analysis_status
+Assault / threats,1,27.0,5,5.4,3.0,7.0,0.17419354838709677,computational_exploratory
+Assault / threats,2,25.0,5,5.0,3.0,10.0,0.17758620689655172,computational_exploratory
+Assault / threats,3,25.0,5,5.0,3.0,10.0,0.16129032258064516,computational_exploratory
+Assault / threats,4,34.0,5,6.8,4.0,10.0,0.22666666666666666,computational_exploratory
+Assault / threats,5,48.0,5,9.6,6.0,12.0,0.3096774193548387,computational_exploratory
+Assault / threats,6,40.0,5,8.0,2.0,14.0,0.26666666666666666,computational_exploratory
+Assault / threats,7,31.0,5,6.2,3.0,13.0,0.2,computational_exploratory
+Assault / threats,8,37.0,5,7.4,5.0,10.0,0.23870967741935484,computational_exploratory
+Assault / threats,9,44.0,5,8.8,4.0,15.0,0.29333333333333333,computational_exploratory
+Assault / threats,10,33.0,5,6.6,3.0,9.0,0.2129032258064516,computational_exploratory
+Assault / threats,11,25.0,5,5.0,3.0,7.0,0.16666666666666666,computational_exploratory
+Assault / threats,12,28.0,5,5.6,2.0,8.0,0.18064516129032257,computational_exploratory
+Burglary,1,6.0,5,1.2,1.0,2.0,0.03870967741935484,computational_exploratory
+Burglary,2,9.0,5,1.8,0.0,6.0,0.06428571428571428,computational_exploratory
+Burglary,3,15.0,5,3.0,1.0,4.0,0.0967741935483871,computational_exploratory
+Burglary,4,6.0,5,1.2,0.0,2.0,0.039999999999999994,computational_exploratory
+Burglary,5,10.0,5,2.0,0.0,4.0,0.06451612903225806,computational_exploratory
+Burglary,6,4.0,5,0.8,0.0,3.0,0.026666666666666665,computational_exploratory
+Burglary,7,8.0,5,1.6,1.0,2.0,0.05161290322580645,computational_exploratory
+Burglary,8,4.0,5,0.8,0.0,2.0,0.025806451612903226,computational_exploratory
+Burglary,9,6.0,5,1.2,0.0,2.0,0.04,computational_exploratory
+Burglary,10,8.0,5,1.6,0.0,3.0,0.05161290322580645,computational_exploratory
+Burglary,11,9.0,5,1.8,0.0,4.0,0.06,computational_exploratory
+Burglary,12,8.0,5,1.6,1.0,2.0,0.05161290322580645,computational_exploratory
+Drug-related,1,14.0,5,2.8,0.0,5.0,0.09032258064516129,computational_exploratory
+Drug-related,2,21.0,5,4.2,3.0,6.0,0.14926108374384234,computational_exploratory
+Drug-related,3,25.0,5,5.0,3.0,9.0,0.16129032258064516,computational_exploratory
+Drug-related,4,16.0,5,3.2,0.0,5.0,0.10666666666666666,computational_exploratory
+Drug-related,5,16.0,5,3.2,1.0,6.0,0.1032258064516129,computational_exploratory
+Drug-related,6,16.0,5,3.2,2.0,6.0,0.10666666666666666,computational_exploratory
+Drug-related,7,14.0,5,2.8,0.0,6.0,0.09032258064516129,computational_exploratory
+Drug-related,8,23.0,5,4.6,2.0,8.0,0.14838709677419354,computational_exploratory
+Drug-related,9,20.0,5,4.0,1.0,7.0,0.13333333333333333,computational_exploratory
+Drug-related,10,17.0,5,3.4,1.0,6.0,0.1096774193548387,computational_exploratory
+Drug-related,11,16.0,5,3.2,2.0,4.0,0.10666666666666666,computational_exploratory
+Drug-related,12,17.0,5,3.4,1.0,6.0,0.1096774193548387,computational_exploratory
+Environmental / regulatory,1,6.0,5,1.2,0.0,2.0,0.03870967741935484,computational_exploratory
+Environmental / regulatory,2,5.0,5,1.0,0.0,2.0,0.03571428571428571,computational_exploratory
+Environmental / regulatory,3,2.0,5,0.4,0.0,1.0,0.012903225806451613,computational_exploratory
+Environmental / regulatory,4,7.0,5,1.4,0.0,3.0,0.04666666666666667,computational_exploratory
+Environmental / regulatory,5,2.0,5,0.4,0.0,2.0,0.012903225806451613,computational_exploratory
+Environmental / regulatory,6,7.0,5,1.4,0.0,3.0,0.04666666666666667,computational_exploratory
+Environmental / regulatory,7,3.0,5,0.6,0.0,2.0,0.01935483870967742,computational_exploratory
+Environmental / regulatory,8,5.0,5,1.0,0.0,2.0,0.03225806451612903,computational_exploratory
+Environmental / regulatory,9,5.0,5,1.0,0.0,3.0,0.03333333333333333,computational_exploratory
+Environmental / regulatory,10,7.0,5,1.4,1.0,3.0,0.04516129032258064,computational_exploratory
+Environmental / regulatory,11,4.0,5,0.8,0.0,3.0,0.026666666666666665,computational_exploratory
+Environmental / regulatory,12,3.0,5,0.6,0.0,1.0,0.01935483870967742,computational_exploratory
+Fire / explosion / ordnance,1,34.0,5,6.8,3.0,10.0,0.2193548387096774,computational_exploratory
+Fire / explosion / ordnance,2,17.0,5,3.4,1.0,5.0,0.12019704433497538,computational_exploratory
+Fire / explosion / ordnance,3,24.0,5,4.8,1.0,12.0,0.15483870967741936,computational_exploratory
+Fire / explosion / ordnance,4,18.0,5,3.6,1.0,9.0,0.12,computational_exploratory
+Fire / explosion / ordnance,5,24.0,5,4.8,1.0,7.0,0.15483870967741936,computational_exploratory
+Fire / explosion / ordnance,6,16.0,5,3.2,0.0,6.0,0.10666666666666666,computational_exploratory
+Fire / explosion / ordnance,7,22.0,5,4.4,2.0,8.0,0.14193548387096774,computational_exploratory
+Fire / explosion / ordnance,8,31.0,5,6.2,4.0,9.0,0.2,computational_exploratory
+Fire / explosion / ordnance,9,26.0,5,5.2,3.0,10.0,0.1733333333333333,computational_exploratory
+Fire / explosion / ordnance,10,18.0,5,3.6,2.0,5.0,0.11612903225806451,computational_exploratory
+Fire / explosion / ordnance,11,32.0,5,6.4,2.0,11.0,0.21333333333333332,computational_exploratory
+Fire / explosion / ordnance,12,24.0,5,4.8,2.0,8.0,0.15483870967741936,computational_exploratory
+Fraud / deception,1,19.0,5,3.8,2.0,7.0,0.12258064516129033,computational_exploratory
+Fraud / deception,2,19.0,5,3.8,3.0,4.0,0.13472906403940885,computational_exploratory
+Fraud / deception,3,22.0,5,4.4,3.0,7.0,0.14193548387096774,computational_exploratory
+Fraud / deception,4,15.0,5,3.0,2.0,4.0,0.1,computational_exploratory
+Fraud / deception,5,18.0,5,3.6,2.0,5.0,0.11612903225806451,computational_exploratory
+Fraud / deception,6,14.0,5,2.8,2.0,4.0,0.09333333333333334,computational_exploratory
+Fraud / deception,7,22.0,5,4.4,2.0,8.0,0.14193548387096774,computational_exploratory
+Fraud / deception,8,18.0,5,3.6,2.0,5.0,0.11612903225806451,computational_exploratory
+Fraud / deception,9,17.0,5,3.4,2.0,5.0,0.11333333333333333,computational_exploratory
+Fraud / deception,10,11.0,5,2.2,1.0,3.0,0.07096774193548387,computational_exploratory
+Fraud / deception,11,15.0,5,3.0,2.0,4.0,0.1,computational_exploratory
+Fraud / deception,12,15.0,5,3.0,1.0,6.0,0.0967741935483871,computational_exploratory
+Hate / discrimination,1,4.0,5,0.8,0.0,3.0,0.025806451612903226,computational_exploratory
+Hate / discrimination,2,7.0,5,1.4,0.0,3.0,0.05,computational_exploratory
+Hate / discrimination,3,3.0,5,0.6,0.0,1.0,0.01935483870967742,computational_exploratory
+Hate / discrimination,4,5.0,5,1.0,0.0,2.0,0.03333333333333333,computational_exploratory
+Hate / discrimination,5,14.0,5,2.8,1.0,5.0,0.09032258064516129,computational_exploratory
+Hate / discrimination,6,8.0,5,1.6,1.0,3.0,0.05333333333333333,computational_exploratory
+Hate / discrimination,7,6.0,5,1.2,0.0,2.0,0.03870967741935484,computational_exploratory
+Hate / discrimination,8,14.0,5,2.8,1.0,4.0,0.09032258064516129,computational_exploratory
+Hate / discrimination,9,12.0,5,2.4,0.0,5.0,0.07999999999999999,computational_exploratory
+Hate / discrimination,10,7.0,5,1.4,0.0,3.0,0.04516129032258064,computational_exploratory
+Hate / discrimination,11,6.0,5,1.2,0.0,2.0,0.039999999999999994,computational_exploratory
+Hate / discrimination,12,3.0,5,0.6,0.0,2.0,0.01935483870967742,computational_exploratory
+Non-traffic accidents / death investigations,1,2.0,5,0.4,0.0,1.0,0.012903225806451613,computational_exploratory
+Non-traffic accidents / death investigations,2,1.0,5,0.2,0.0,1.0,0.007142857142857143,computational_exploratory
+Non-traffic accidents / death investigations,3,2.0,5,0.4,0.0,1.0,0.012903225806451613,computational_exploratory
+Non-traffic accidents / death investigations,4,1.0,5,0.2,0.0,1.0,0.006666666666666666,computational_exploratory
+Non-traffic accidents / death investigations,5,1.0,5,0.2,0.0,1.0,0.0064516129032258064,computational_exploratory
+Non-traffic accidents / death investigations,6,8.0,5,1.6,0.0,3.0,0.05333333333333333,computational_exploratory
+Non-traffic accidents / death investigations,7,5.0,5,1.0,0.0,2.0,0.03225806451612903,computational_exploratory
+Non-traffic accidents / death investigations,8,6.0,5,1.2,0.0,3.0,0.03870967741935484,computational_exploratory
+Non-traffic accidents / death investigations,9,2.0,5,0.4,0.0,1.0,0.013333333333333332,computational_exploratory
+Non-traffic accidents / death investigations,10,3.0,5,0.6,0.0,2.0,0.01935483870967742,computational_exploratory
+Non-traffic accidents / death investigations,11,2.0,5,0.4,0.0,1.0,0.013333333333333332,computational_exploratory
+Non-traffic accidents / death investigations,12,1.0,5,0.2,0.0,1.0,0.0064516129032258064,computational_exploratory
+Property damage,1,20.0,5,4.0,0.0,8.0,0.12903225806451613,computational_exploratory
+Property damage,2,15.0,5,3.0,1.0,5.0,0.10689655172413795,computational_exploratory
+Property damage,3,28.0,5,5.6,3.0,9.0,0.18064516129032257,computational_exploratory
+Property damage,4,25.0,5,5.0,2.0,7.0,0.16666666666666669,computational_exploratory
+Property damage,5,17.0,5,3.4,0.0,7.0,0.1096774193548387,computational_exploratory
+Property damage,6,19.0,5,3.8,1.0,5.0,0.12666666666666665,computational_exploratory
+Property damage,7,22.0,5,4.4,4.0,5.0,0.14193548387096774,computational_exploratory
+Property damage,8,22.0,5,4.4,2.0,7.0,0.14193548387096774,computational_exploratory
+Property damage,9,23.0,5,4.6,1.0,9.0,0.15333333333333332,computational_exploratory
+Property damage,10,13.0,5,2.6,1.0,6.0,0.08387096774193548,computational_exploratory
+Property damage,11,16.0,5,3.2,2.0,6.0,0.10666666666666666,computational_exploratory
+Property damage,12,14.0,5,2.8,0.0,10.0,0.09032258064516129,computational_exploratory
+Public events / police information,1,17.0,5,3.4,0.0,6.0,0.1096774193548387,computational_exploratory
+Public events / police information,2,26.0,5,5.2,2.0,7.0,0.18423645320197043,computational_exploratory
+Public events / police information,3,35.0,5,7.0,4.0,12.0,0.2258064516129032,computational_exploratory
+Public events / police information,4,31.0,5,6.2,2.0,9.0,0.20666666666666664,computational_exploratory
+Public events / police information,5,35.0,5,7.0,3.0,10.0,0.2258064516129032,computational_exploratory
+Public events / police information,6,14.0,5,2.8,1.0,5.0,0.09333333333333334,computational_exploratory
+Public events / police information,7,24.0,5,4.8,3.0,8.0,0.15483870967741936,computational_exploratory
+Public events / police information,8,31.0,5,6.2,4.0,8.0,0.2,computational_exploratory
+Public events / police information,9,23.0,5,4.6,3.0,7.0,0.15333333333333332,computational_exploratory
+Public events / police information,10,42.0,5,8.4,6.0,12.0,0.27096774193548384,computational_exploratory
+Public events / police information,11,34.0,5,6.8,5.0,12.0,0.22666666666666666,computational_exploratory
+Public events / police information,12,18.0,5,3.6,0.0,6.0,0.11612903225806451,computational_exploratory
+Robbery,1,18.0,5,3.6,2.0,7.0,0.11612903225806451,computational_exploratory
+Robbery,2,18.0,5,3.6,2.0,7.0,0.12684729064039407,computational_exploratory
+Robbery,3,21.0,5,4.2,2.0,8.0,0.13548387096774192,computational_exploratory
+Robbery,4,9.0,5,1.8,0.0,3.0,0.06,computational_exploratory
+Robbery,5,14.0,5,2.8,0.0,4.0,0.09032258064516129,computational_exploratory
+Robbery,6,10.0,5,2.0,0.0,4.0,0.06666666666666668,computational_exploratory
+Robbery,7,13.0,5,2.6,1.0,7.0,0.08387096774193548,computational_exploratory
+Robbery,8,11.0,5,2.2,0.0,6.0,0.07096774193548387,computational_exploratory
+Robbery,9,12.0,5,2.4,0.0,5.0,0.07999999999999999,computational_exploratory
+Robbery,10,20.0,5,4.0,1.0,9.0,0.12903225806451613,computational_exploratory
+Robbery,11,33.0,5,6.6,3.0,11.0,0.22000000000000003,computational_exploratory
+Robbery,12,27.0,5,5.4,3.0,7.0,0.17419354838709677,computational_exploratory
+Theft,1,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,2,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,3,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,4,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,5,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,6,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,7,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,8,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,9,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,10,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,11,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Theft,12,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Traffic-related,1,43.0,5,8.6,5.0,18.0,0.2774193548387097,computational_exploratory
+Traffic-related,2,34.0,5,6.8,5.0,9.0,0.2416256157635468,computational_exploratory
+Traffic-related,3,58.0,5,11.6,4.0,18.0,0.3741935483870968,computational_exploratory
+Traffic-related,4,51.0,5,10.2,4.0,16.0,0.33999999999999997,computational_exploratory
+Traffic-related,5,34.0,5,6.8,3.0,11.0,0.2193548387096774,computational_exploratory
+Traffic-related,6,55.0,5,11.0,5.0,16.0,0.3666666666666667,computational_exploratory
+Traffic-related,7,52.0,5,10.4,5.0,17.0,0.3354838709677419,computational_exploratory
+Traffic-related,8,36.0,5,7.2,3.0,14.0,0.23225806451612904,computational_exploratory
+Traffic-related,9,49.0,5,9.8,5.0,17.0,0.32666666666666666,computational_exploratory
+Traffic-related,10,43.0,5,8.6,6.0,11.0,0.2774193548387097,computational_exploratory
+Traffic-related,11,47.0,5,9.4,7.0,11.0,0.31333333333333335,computational_exploratory
+Traffic-related,12,30.0,5,6.0,4.0,7.0,0.1935483870967742,computational_exploratory
+Unassigned (model noise),1,20.0,5,4.0,1.0,6.0,0.12903225806451613,computational_exploratory
+Unassigned (model noise),2,29.0,5,5.8,3.0,10.0,0.20591133004926107,computational_exploratory
+Unassigned (model noise),3,22.0,5,4.4,1.0,7.0,0.14193548387096774,computational_exploratory
+Unassigned (model noise),4,14.0,5,2.8,2.0,6.0,0.09333333333333334,computational_exploratory
+Unassigned (model noise),5,17.0,5,3.4,1.0,6.0,0.1096774193548387,computational_exploratory
+Unassigned (model noise),6,21.0,5,4.2,2.0,8.0,0.14,computational_exploratory
+Unassigned (model noise),7,30.0,5,6.0,2.0,8.0,0.1935483870967742,computational_exploratory
+Unassigned (model noise),8,29.0,5,5.8,4.0,8.0,0.18709677419354837,computational_exploratory
+Unassigned (model noise),9,25.0,5,5.0,3.0,8.0,0.16666666666666669,computational_exploratory
+Unassigned (model noise),10,16.0,5,3.2,1.0,6.0,0.1032258064516129,computational_exploratory
+Unassigned (model noise),11,19.0,5,3.8,2.0,6.0,0.12666666666666665,computational_exploratory
+Unassigned (model noise),12,22.0,5,4.4,0.0,8.0,0.14193548387096774,computational_exploratory
+Unknown/Unclear,1,92.0,5,18.4,9.0,23.0,0.5935483870967742,computational_exploratory
+Unknown/Unclear,2,112.0,5,22.4,19.0,27.0,0.7933497536945813,computational_exploratory
+Unknown/Unclear,3,78.0,5,15.6,13.0,20.0,0.5032258064516129,computational_exploratory
+Unknown/Unclear,4,109.0,5,21.8,18.0,28.0,0.7266666666666667,computational_exploratory
+Unknown/Unclear,5,102.0,5,20.4,12.0,26.0,0.6580645161290323,computational_exploratory
+Unknown/Unclear,6,115.0,5,23.0,17.0,29.0,0.7666666666666667,computational_exploratory
+Unknown/Unclear,7,100.0,5,20.0,16.0,27.0,0.6451612903225806,computational_exploratory
+Unknown/Unclear,8,108.0,5,21.6,14.0,27.0,0.6967741935483871,computational_exploratory
+Unknown/Unclear,9,91.0,5,18.2,10.0,23.0,0.6066666666666667,computational_exploratory
+Unknown/Unclear,10,84.0,5,16.8,14.0,22.0,0.5419354838709678,computational_exploratory
+Unknown/Unclear,11,88.0,5,17.6,14.0,24.0,0.5866666666666667,computational_exploratory
+Unknown/Unclear,12,81.0,5,16.2,14.0,19.0,0.5225806451612903,computational_exploratory
+Weapons-related,1,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,2,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,3,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,4,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,5,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,6,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,7,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,8,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,9,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,10,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,11,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory
+Weapons-related,12,0.0,5,0.0,0.0,0.0,0.0,computational_exploratory

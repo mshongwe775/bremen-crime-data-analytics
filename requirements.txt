@@ -1,6 +1,6 @@
-# Course recommendation: Python 3.12+. Agree one compatible version before modeling.
-# These are requested packages, not a claim that every package is installed.
-# Once all four model runs work, record exact tested versions in the group handovers.
+# Python 3.12+; saved-result mode does not refit completed models.
+# Install in a virtual environment; exact historical versions are in model metadata.
+
 pandas
 numpy
 pyarrow
@@ -13,3 +13,6 @@ ipykernel
 nbformat
 nbclient
 # Optional later: geopandas for geographic boundaries; streamlit for a bonus dashboard.
+
+# Verified dependency for reproducing the saved embedding clusters.
+pynndescent==0.6.0

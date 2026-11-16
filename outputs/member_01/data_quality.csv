@@ -41,4 +41,3 @@ shared_mapped_all_rows,4151,Stadtteile plus standalone Ortsteile
 shared_unknown_all_rows,975,Unresolved or missing information
 standalone_included,33,Known Ortsteile; no parent
 source_content_preserved,True,"Text, district, URLs and both vectors checked against source"
-peer_review,pending,Reviewer not assigned; no approval claimed

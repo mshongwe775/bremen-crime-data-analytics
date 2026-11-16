@@ -1,1 +1,1 @@
-model_id,n_topics,assigned_share,unassigned_share,reviewed_reports,matching_labels,label_agreement_rate,selection_notes
+model_id,model,topics,assigned,unassigned,coverage,smallest_topic,largest_topic

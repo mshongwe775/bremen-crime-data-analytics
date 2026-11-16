@@ -1,0 +1,28 @@
+{
+  "status": "computer_assisted_provisional",
+  "method": "Group saved AI age/person classifications by existing provisional category and prepared district; no new classifications or human decisions.",
+  "screened_reports": 1307,
+  "candidates": 1267,
+  "controls": 40,
+  "denominator": "Assessed reports only; each view totals 1,307 separately. Do not add views or interpret counts as prevalence.",
+  "limitations": [
+    "Age 50+ is the project working threshold.",
+    "Categories and victim roles are computational; explicit-text findings include attempts and traffic casualties.",
+    "Unclear categories, model noise and Unknown geography remain included.",
+    "The 40 controls do not establish screening sensitivity."
+  ],
+  "sha256": {
+    "age50plus_assessments.csv": "f3dc2e9559a9f230c58c9e868d38da59eb8026a6a2600997ec3b5b563fea2d87",
+    "age50plus_screening_summary.csv": "fee8b68ad303fb067ed33eb0f776e6d01032895a5f0dfc22f12ae66b512760f1",
+    "age50plus_candidates.csv": "aac6a3a2856eaba7e4bbd64be9241121adfafece37fc717b540dab4858fb06b6",
+    "age50plus_controls.csv": "db8a15248ca1c27b43bc30d684e7c0cab0dc44042e1a86fe8602628875689d0f",
+    "computational_report_categories.csv": "5f2eca0648c664751d7d4addb913dd72ffca130f6f8c56f31c74584acbcc8d31",
+    "elderly_screening_results.csv": "a18cfaee17023db5a0bf4fe0dd6d1e70734ee009ddc65934a56562b6cf65cc58",
+    "age50plus_category_district_counts.csv": "7fa0dcd2fa616fba454dab2c0c328bbcc799d38f961c1e7edb783d7e9d83e25d"
+  },
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "figure": {
+    "path": "figures/member_06/elderly_screening_results.png",
+    "sha256": "dd3357d23356fd0c5b3fba3c14adb5b68b4ba992654709ee7425cdcc79338113"
+  }
+}

@@ -1,0 +1,5 @@
+model_id,n_topics,assigned,unassigned,min_topic,median_topic,max_topic,compatible,assigned_share,unassigned_share
+nmf_titles,8,5069,55,336,579.5,1093,True,0.9892661982825918,0.010733801717408275
+nmf_descriptions,10,5124,0,91,469.5,1022,True,1.0,0.0
+bertopic_titles,59,4583,541,31,57.0,355,True,0.8944184231069477,0.10558157689305231
+bertopic_descriptions,36,4789,335,33,74.5,563,True,0.9346213895394223,0.06537861046057768

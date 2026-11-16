@@ -1,0 +1,961 @@
+month,analysis_category,report_count,year,calendar_month,reports_per_day,analysis_status
+2021-01,Traffic-related,8.0,2021,1,0.25806451612903225,computational_exploratory
+2021-02,Traffic-related,9.0,2021,2,0.32142857142857145,computational_exploratory
+2021-03,Traffic-related,12.0,2021,3,0.3870967741935484,computational_exploratory
+2021-04,Traffic-related,11.0,2021,4,0.36666666666666664,computational_exploratory
+2021-05,Traffic-related,11.0,2021,5,0.3548387096774194,computational_exploratory
+2021-06,Traffic-related,16.0,2021,6,0.5333333333333333,computational_exploratory
+2021-07,Traffic-related,10.0,2021,7,0.3225806451612903,computational_exploratory
+2021-08,Traffic-related,7.0,2021,8,0.22580645161290322,computational_exploratory
+2021-09,Traffic-related,17.0,2021,9,0.5666666666666667,computational_exploratory
+2021-10,Traffic-related,11.0,2021,10,0.3548387096774194,computational_exploratory
+2021-11,Traffic-related,8.0,2021,11,0.26666666666666666,computational_exploratory
+2021-12,Traffic-related,6.0,2021,12,0.1935483870967742,computational_exploratory
+2022-01,Traffic-related,6.0,2022,1,0.1935483870967742,computational_exploratory
+2022-02,Traffic-related,9.0,2022,2,0.32142857142857145,computational_exploratory
+2022-03,Traffic-related,4.0,2022,3,0.12903225806451613,computational_exploratory
+2022-04,Traffic-related,12.0,2022,4,0.4,computational_exploratory
+2022-05,Traffic-related,5.0,2022,5,0.16129032258064516,computational_exploratory
+2022-06,Traffic-related,12.0,2022,6,0.4,computational_exploratory
+2022-07,Traffic-related,11.0,2022,7,0.3548387096774194,computational_exploratory
+2022-08,Traffic-related,3.0,2022,8,0.0967741935483871,computational_exploratory
+2022-09,Traffic-related,5.0,2022,9,0.16666666666666666,computational_exploratory
+2022-10,Traffic-related,6.0,2022,10,0.1935483870967742,computational_exploratory
+2022-11,Traffic-related,11.0,2022,11,0.36666666666666664,computational_exploratory
+2022-12,Traffic-related,7.0,2022,12,0.22580645161290322,computational_exploratory
+2023-01,Traffic-related,18.0,2023,1,0.5806451612903226,computational_exploratory
+2023-02,Traffic-related,6.0,2023,2,0.21428571428571427,computational_exploratory
+2023-03,Traffic-related,17.0,2023,3,0.5483870967741935,computational_exploratory
+2023-04,Traffic-related,4.0,2023,4,0.13333333333333333,computational_exploratory
+2023-05,Traffic-related,3.0,2023,5,0.0967741935483871,computational_exploratory
+2023-06,Traffic-related,6.0,2023,6,0.2,computational_exploratory
+2023-07,Traffic-related,9.0,2023,7,0.2903225806451613,computational_exploratory
+2023-08,Traffic-related,3.0,2023,8,0.0967741935483871,computational_exploratory
+2023-09,Traffic-related,8.0,2023,9,0.26666666666666666,computational_exploratory
+2023-10,Traffic-related,6.0,2023,10,0.1935483870967742,computational_exploratory
+2023-11,Traffic-related,7.0,2023,11,0.23333333333333334,computational_exploratory
+2023-12,Traffic-related,4.0,2023,12,0.12903225806451613,computational_exploratory
+2024-01,Traffic-related,5.0,2024,1,0.16129032258064516,computational_exploratory
+2024-02,Traffic-related,5.0,2024,2,0.1724137931034483,computational_exploratory
+2024-03,Traffic-related,7.0,2024,3,0.22580645161290322,computational_exploratory
+2024-04,Traffic-related,8.0,2024,4,0.26666666666666666,computational_exploratory
+2024-05,Traffic-related,8.0,2024,5,0.25806451612903225,computational_exploratory
+2024-06,Traffic-related,16.0,2024,6,0.5333333333333333,computational_exploratory
+2024-07,Traffic-related,5.0,2024,7,0.16129032258064516,computational_exploratory
+2024-08,Traffic-related,9.0,2024,8,0.2903225806451613,computational_exploratory
+2024-09,Traffic-related,8.0,2024,9,0.26666666666666666,computational_exploratory
+2024-10,Traffic-related,11.0,2024,10,0.3548387096774194,computational_exploratory
+2024-11,Traffic-related,10.0,2024,11,0.3333333333333333,computational_exploratory
+2024-12,Traffic-related,7.0,2024,12,0.22580645161290322,computational_exploratory
+2025-01,Traffic-related,6.0,2025,1,0.1935483870967742,computational_exploratory
+2025-02,Traffic-related,5.0,2025,2,0.17857142857142858,computational_exploratory
+2025-03,Traffic-related,18.0,2025,3,0.5806451612903226,computational_exploratory
+2025-04,Traffic-related,16.0,2025,4,0.5333333333333333,computational_exploratory
+2025-05,Traffic-related,7.0,2025,5,0.22580645161290322,computational_exploratory
+2025-06,Traffic-related,5.0,2025,6,0.16666666666666666,computational_exploratory
+2025-07,Traffic-related,17.0,2025,7,0.5483870967741935,computational_exploratory
+2025-08,Traffic-related,14.0,2025,8,0.45161290322580644,computational_exploratory
+2025-09,Traffic-related,11.0,2025,9,0.36666666666666664,computational_exploratory
+2025-10,Traffic-related,9.0,2025,10,0.2903225806451613,computational_exploratory
+2025-11,Traffic-related,11.0,2025,11,0.36666666666666664,computational_exploratory
+2025-12,Traffic-related,6.0,2025,12,0.1935483870967742,computational_exploratory
+2021-01,Burglary,1.0,2021,1,0.03225806451612903,computational_exploratory
+2021-02,Burglary,2.0,2021,2,0.07142857142857142,computational_exploratory
+2021-03,Burglary,4.0,2021,3,0.12903225806451613,computational_exploratory
+2021-04,Burglary,2.0,2021,4,0.06666666666666667,computational_exploratory
+2021-05,Burglary,1.0,2021,5,0.03225806451612903,computational_exploratory
+2021-06,Burglary,0.0,2021,6,0.0,computational_exploratory
+2021-07,Burglary,1.0,2021,7,0.03225806451612903,computational_exploratory
+2021-08,Burglary,1.0,2021,8,0.03225806451612903,computational_exploratory
+2021-09,Burglary,1.0,2021,9,0.03333333333333333,computational_exploratory
+2021-10,Burglary,3.0,2021,10,0.0967741935483871,computational_exploratory
+2021-11,Burglary,2.0,2021,11,0.06666666666666667,computational_exploratory
+2021-12,Burglary,2.0,2021,12,0.06451612903225806,computational_exploratory
+2022-01,Burglary,2.0,2022,1,0.06451612903225806,computational_exploratory
+2022-02,Burglary,0.0,2022,2,0.0,computational_exploratory
+2022-03,Burglary,1.0,2022,3,0.03225806451612903,computational_exploratory
+2022-04,Burglary,1.0,2022,4,0.03333333333333333,computational_exploratory
+2022-05,Burglary,3.0,2022,5,0.0967741935483871,computational_exploratory
+2022-06,Burglary,0.0,2022,6,0.0,computational_exploratory
+2022-07,Burglary,1.0,2022,7,0.03225806451612903,computational_exploratory
+2022-08,Burglary,1.0,2022,8,0.03225806451612903,computational_exploratory
+2022-09,Burglary,1.0,2022,9,0.03333333333333333,computational_exploratory
+2022-10,Burglary,3.0,2022,10,0.0967741935483871,computational_exploratory
+2022-11,Burglary,3.0,2022,11,0.1,computational_exploratory
+2022-12,Burglary,2.0,2022,12,0.06451612903225806,computational_exploratory
+2023-01,Burglary,1.0,2023,1,0.03225806451612903,computational_exploratory
+2023-02,Burglary,6.0,2023,2,0.21428571428571427,computational_exploratory
+2023-03,Burglary,4.0,2023,3,0.12903225806451613,computational_exploratory
+2023-04,Burglary,2.0,2023,4,0.06666666666666667,computational_exploratory
+2023-05,Burglary,4.0,2023,5,0.12903225806451613,computational_exploratory
+2023-06,Burglary,0.0,2023,6,0.0,computational_exploratory
+2023-07,Burglary,2.0,2023,7,0.06451612903225806,computational_exploratory
+2023-08,Burglary,0.0,2023,8,0.0,computational_exploratory
+2023-09,Burglary,2.0,2023,9,0.06666666666666667,computational_exploratory
+2023-10,Burglary,0.0,2023,10,0.0,computational_exploratory
+2023-11,Burglary,0.0,2023,11,0.0,computational_exploratory
+2023-12,Burglary,2.0,2023,12,0.06451612903225806,computational_exploratory
+2024-01,Burglary,1.0,2024,1,0.03225806451612903,computational_exploratory
+2024-02,Burglary,0.0,2024,2,0.0,computational_exploratory
+2024-03,Burglary,2.0,2024,3,0.06451612903225806,computational_exploratory
+2024-04,Burglary,1.0,2024,4,0.03333333333333333,computational_exploratory
+2024-05,Burglary,0.0,2024,5,0.0,computational_exploratory
+2024-06,Burglary,1.0,2024,6,0.03333333333333333,computational_exploratory
+2024-07,Burglary,2.0,2024,7,0.06451612903225806,computational_exploratory
+2024-08,Burglary,0.0,2024,8,0.0,computational_exploratory
+2024-09,Burglary,2.0,2024,9,0.06666666666666667,computational_exploratory
+2024-10,Burglary,0.0,2024,10,0.0,computational_exploratory
+2024-11,Burglary,0.0,2024,11,0.0,computational_exploratory
+2024-12,Burglary,1.0,2024,12,0.03225806451612903,computational_exploratory
+2025-01,Burglary,1.0,2025,1,0.03225806451612903,computational_exploratory
+2025-02,Burglary,1.0,2025,2,0.03571428571428571,computational_exploratory
+2025-03,Burglary,4.0,2025,3,0.12903225806451613,computational_exploratory
+2025-04,Burglary,0.0,2025,4,0.0,computational_exploratory
+2025-05,Burglary,2.0,2025,5,0.06451612903225806,computational_exploratory
+2025-06,Burglary,3.0,2025,6,0.1,computational_exploratory
+2025-07,Burglary,2.0,2025,7,0.06451612903225806,computational_exploratory
+2025-08,Burglary,2.0,2025,8,0.06451612903225806,computational_exploratory
+2025-09,Burglary,0.0,2025,9,0.0,computational_exploratory
+2025-10,Burglary,2.0,2025,10,0.06451612903225806,computational_exploratory
+2025-11,Burglary,4.0,2025,11,0.13333333333333333,computational_exploratory
+2025-12,Burglary,1.0,2025,12,0.03225806451612903,computational_exploratory
+2021-01,Theft,0.0,2021,1,0.0,computational_exploratory
+2021-02,Theft,0.0,2021,2,0.0,computational_exploratory
+2021-03,Theft,0.0,2021,3,0.0,computational_exploratory
+2021-04,Theft,0.0,2021,4,0.0,computational_exploratory
+2021-05,Theft,0.0,2021,5,0.0,computational_exploratory
+2021-06,Theft,0.0,2021,6,0.0,computational_exploratory
+2021-07,Theft,0.0,2021,7,0.0,computational_exploratory
+2021-08,Theft,0.0,2021,8,0.0,computational_exploratory
+2021-09,Theft,0.0,2021,9,0.0,computational_exploratory
+2021-10,Theft,0.0,2021,10,0.0,computational_exploratory
+2021-11,Theft,0.0,2021,11,0.0,computational_exploratory
+2021-12,Theft,0.0,2021,12,0.0,computational_exploratory
+2022-01,Theft,0.0,2022,1,0.0,computational_exploratory
+2022-02,Theft,0.0,2022,2,0.0,computational_exploratory
+2022-03,Theft,0.0,2022,3,0.0,computational_exploratory
+2022-04,Theft,0.0,2022,4,0.0,computational_exploratory
+2022-05,Theft,0.0,2022,5,0.0,computational_exploratory
+2022-06,Theft,0.0,2022,6,0.0,computational_exploratory
+2022-07,Theft,0.0,2022,7,0.0,computational_exploratory
+2022-08,Theft,0.0,2022,8,0.0,computational_exploratory
+2022-09,Theft,0.0,2022,9,0.0,computational_exploratory
+2022-10,Theft,0.0,2022,10,0.0,computational_exploratory
+2022-11,Theft,0.0,2022,11,0.0,computational_exploratory
+2022-12,Theft,0.0,2022,12,0.0,computational_exploratory
+2023-01,Theft,0.0,2023,1,0.0,computational_exploratory
+2023-02,Theft,0.0,2023,2,0.0,computational_exploratory
+2023-03,Theft,0.0,2023,3,0.0,computational_exploratory
+2023-04,Theft,0.0,2023,4,0.0,computational_exploratory
+2023-05,Theft,0.0,2023,5,0.0,computational_exploratory
+2023-06,Theft,0.0,2023,6,0.0,computational_exploratory
+2023-07,Theft,0.0,2023,7,0.0,computational_exploratory
+2023-08,Theft,0.0,2023,8,0.0,computational_exploratory
+2023-09,Theft,0.0,2023,9,0.0,computational_exploratory
+2023-10,Theft,0.0,2023,10,0.0,computational_exploratory
+2023-11,Theft,0.0,2023,11,0.0,computational_exploratory
+2023-12,Theft,0.0,2023,12,0.0,computational_exploratory
+2024-01,Theft,0.0,2024,1,0.0,computational_exploratory
+2024-02,Theft,0.0,2024,2,0.0,computational_exploratory
+2024-03,Theft,0.0,2024,3,0.0,computational_exploratory
+2024-04,Theft,0.0,2024,4,0.0,computational_exploratory
+2024-05,Theft,0.0,2024,5,0.0,computational_exploratory
+2024-06,Theft,0.0,2024,6,0.0,computational_exploratory
+2024-07,Theft,0.0,2024,7,0.0,computational_exploratory
+2024-08,Theft,0.0,2024,8,0.0,computational_exploratory
+2024-09,Theft,0.0,2024,9,0.0,computational_exploratory
+2024-10,Theft,0.0,2024,10,0.0,computational_exploratory
+2024-11,Theft,0.0,2024,11,0.0,computational_exploratory
+2024-12,Theft,0.0,2024,12,0.0,computational_exploratory
+2025-01,Theft,0.0,2025,1,0.0,computational_exploratory
+2025-02,Theft,0.0,2025,2,0.0,computational_exploratory
+2025-03,Theft,0.0,2025,3,0.0,computational_exploratory
+2025-04,Theft,0.0,2025,4,0.0,computational_exploratory
+2025-05,Theft,0.0,2025,5,0.0,computational_exploratory
+2025-06,Theft,0.0,2025,6,0.0,computational_exploratory
+2025-07,Theft,0.0,2025,7,0.0,computational_exploratory
+2025-08,Theft,0.0,2025,8,0.0,computational_exploratory
+2025-09,Theft,0.0,2025,9,0.0,computational_exploratory
+2025-10,Theft,0.0,2025,10,0.0,computational_exploratory
+2025-11,Theft,0.0,2025,11,0.0,computational_exploratory
+2025-12,Theft,0.0,2025,12,0.0,computational_exploratory
+2021-01,Robbery,3.0,2021,1,0.0967741935483871,computational_exploratory
+2021-02,Robbery,3.0,2021,2,0.10714285714285714,computational_exploratory
+2021-03,Robbery,8.0,2021,3,0.25806451612903225,computational_exploratory
+2021-04,Robbery,3.0,2021,4,0.1,computational_exploratory
+2021-05,Robbery,4.0,2021,5,0.12903225806451613,computational_exploratory
+2021-06,Robbery,0.0,2021,6,0.0,computational_exploratory
+2021-07,Robbery,1.0,2021,7,0.03225806451612903,computational_exploratory
+2021-08,Robbery,1.0,2021,8,0.03225806451612903,computational_exploratory
+2021-09,Robbery,2.0,2021,9,0.06666666666666667,computational_exploratory
+2021-10,Robbery,9.0,2021,10,0.2903225806451613,computational_exploratory
+2021-11,Robbery,6.0,2021,11,0.2,computational_exploratory
+2021-12,Robbery,5.0,2021,12,0.16129032258064516,computational_exploratory
+2022-01,Robbery,4.0,2022,1,0.12903225806451613,computational_exploratory
+2022-02,Robbery,2.0,2022,2,0.07142857142857142,computational_exploratory
+2022-03,Robbery,3.0,2022,3,0.0967741935483871,computational_exploratory
+2022-04,Robbery,3.0,2022,4,0.1,computational_exploratory
+2022-05,Robbery,4.0,2022,5,0.12903225806451613,computational_exploratory
+2022-06,Robbery,4.0,2022,6,0.13333333333333333,computational_exploratory
+2022-07,Robbery,7.0,2022,7,0.22580645161290322,computational_exploratory
+2022-08,Robbery,6.0,2022,8,0.1935483870967742,computational_exploratory
+2022-09,Robbery,3.0,2022,9,0.1,computational_exploratory
+2022-10,Robbery,6.0,2022,10,0.1935483870967742,computational_exploratory
+2022-11,Robbery,11.0,2022,11,0.36666666666666664,computational_exploratory
+2022-12,Robbery,6.0,2022,12,0.1935483870967742,computational_exploratory
+2023-01,Robbery,7.0,2023,1,0.22580645161290322,computational_exploratory
+2023-02,Robbery,4.0,2023,2,0.14285714285714285,computational_exploratory
+2023-03,Robbery,6.0,2023,3,0.1935483870967742,computational_exploratory
+2023-04,Robbery,2.0,2023,4,0.06666666666666667,computational_exploratory
+2023-05,Robbery,2.0,2023,5,0.06451612903225806,computational_exploratory
+2023-06,Robbery,3.0,2023,6,0.1,computational_exploratory
+2023-07,Robbery,2.0,2023,7,0.06451612903225806,computational_exploratory
+2023-08,Robbery,2.0,2023,8,0.06451612903225806,computational_exploratory
+2023-09,Robbery,5.0,2023,9,0.16666666666666666,computational_exploratory
+2023-10,Robbery,1.0,2023,10,0.03225806451612903,computational_exploratory
+2023-11,Robbery,7.0,2023,11,0.23333333333333334,computational_exploratory
+2023-12,Robbery,7.0,2023,12,0.22580645161290322,computational_exploratory
+2024-01,Robbery,2.0,2024,1,0.06451612903225806,computational_exploratory
+2024-02,Robbery,7.0,2024,2,0.2413793103448276,computational_exploratory
+2024-03,Robbery,2.0,2024,3,0.06451612903225806,computational_exploratory
+2024-04,Robbery,0.0,2024,4,0.0,computational_exploratory
+2024-05,Robbery,4.0,2024,5,0.12903225806451613,computational_exploratory
+2024-06,Robbery,1.0,2024,6,0.03333333333333333,computational_exploratory
+2024-07,Robbery,1.0,2024,7,0.03225806451612903,computational_exploratory
+2024-08,Robbery,2.0,2024,8,0.06451612903225806,computational_exploratory
+2024-09,Robbery,2.0,2024,9,0.06666666666666667,computational_exploratory
+2024-10,Robbery,2.0,2024,10,0.06451612903225806,computational_exploratory
+2024-11,Robbery,6.0,2024,11,0.2,computational_exploratory
+2024-12,Robbery,3.0,2024,12,0.0967741935483871,computational_exploratory
+2025-01,Robbery,2.0,2025,1,0.06451612903225806,computational_exploratory
+2025-02,Robbery,2.0,2025,2,0.07142857142857142,computational_exploratory
+2025-03,Robbery,2.0,2025,3,0.06451612903225806,computational_exploratory
+2025-04,Robbery,1.0,2025,4,0.03333333333333333,computational_exploratory
+2025-05,Robbery,0.0,2025,5,0.0,computational_exploratory
+2025-06,Robbery,2.0,2025,6,0.06666666666666667,computational_exploratory
+2025-07,Robbery,2.0,2025,7,0.06451612903225806,computational_exploratory
+2025-08,Robbery,0.0,2025,8,0.0,computational_exploratory
+2025-09,Robbery,0.0,2025,9,0.0,computational_exploratory
+2025-10,Robbery,2.0,2025,10,0.06451612903225806,computational_exploratory
+2025-11,Robbery,3.0,2025,11,0.1,computational_exploratory
+2025-12,Robbery,6.0,2025,12,0.1935483870967742,computational_exploratory
+2021-01,Assault / threats,7.0,2021,1,0.22580645161290322,computational_exploratory
+2021-02,Assault / threats,10.0,2021,2,0.35714285714285715,computational_exploratory
+2021-03,Assault / threats,10.0,2021,3,0.3225806451612903,computational_exploratory
+2021-04,Assault / threats,9.0,2021,4,0.3,computational_exploratory
+2021-05,Assault / threats,12.0,2021,5,0.3870967741935484,computational_exploratory
+2021-06,Assault / threats,14.0,2021,6,0.4666666666666667,computational_exploratory
+2021-07,Assault / threats,13.0,2021,7,0.41935483870967744,computational_exploratory
+2021-08,Assault / threats,7.0,2021,8,0.22580645161290322,computational_exploratory
+2021-09,Assault / threats,8.0,2021,9,0.26666666666666666,computational_exploratory
+2021-10,Assault / threats,6.0,2021,10,0.1935483870967742,computational_exploratory
+2021-11,Assault / threats,7.0,2021,11,0.23333333333333334,computational_exploratory
+2021-12,Assault / threats,5.0,2021,12,0.16129032258064516,computational_exploratory
+2022-01,Assault / threats,3.0,2022,1,0.0967741935483871,computational_exploratory
+2022-02,Assault / threats,4.0,2022,2,0.14285714285714285,computational_exploratory
+2022-03,Assault / threats,3.0,2022,3,0.0967741935483871,computational_exploratory
+2022-04,Assault / threats,5.0,2022,4,0.16666666666666666,computational_exploratory
+2022-05,Assault / threats,10.0,2022,5,0.3225806451612903,computational_exploratory
+2022-06,Assault / threats,10.0,2022,6,0.3333333333333333,computational_exploratory
+2022-07,Assault / threats,6.0,2022,7,0.1935483870967742,computational_exploratory
+2022-08,Assault / threats,10.0,2022,8,0.3225806451612903,computational_exploratory
+2022-09,Assault / threats,9.0,2022,9,0.3,computational_exploratory
+2022-10,Assault / threats,3.0,2022,10,0.0967741935483871,computational_exploratory
+2022-11,Assault / threats,5.0,2022,11,0.16666666666666666,computational_exploratory
+2022-12,Assault / threats,7.0,2022,12,0.22580645161290322,computational_exploratory
+2023-01,Assault / threats,6.0,2023,1,0.1935483870967742,computational_exploratory
+2023-02,Assault / threats,4.0,2023,2,0.14285714285714285,computational_exploratory
+2023-03,Assault / threats,6.0,2023,3,0.1935483870967742,computational_exploratory
+2023-04,Assault / threats,4.0,2023,4,0.13333333333333333,computational_exploratory
+2023-05,Assault / threats,10.0,2023,5,0.3225806451612903,computational_exploratory
+2023-06,Assault / threats,5.0,2023,6,0.16666666666666666,computational_exploratory
+2023-07,Assault / threats,3.0,2023,7,0.0967741935483871,computational_exploratory
+2023-08,Assault / threats,9.0,2023,8,0.2903225806451613,computational_exploratory
+2023-09,Assault / threats,8.0,2023,9,0.26666666666666666,computational_exploratory
+2023-10,Assault / threats,8.0,2023,10,0.25806451612903225,computational_exploratory
+2023-11,Assault / threats,3.0,2023,11,0.1,computational_exploratory
+2023-12,Assault / threats,8.0,2023,12,0.25806451612903225,computational_exploratory
+2024-01,Assault / threats,4.0,2024,1,0.12903225806451613,computational_exploratory
+2024-02,Assault / threats,4.0,2024,2,0.13793103448275862,computational_exploratory
+2024-03,Assault / threats,3.0,2024,3,0.0967741935483871,computational_exploratory
+2024-04,Assault / threats,6.0,2024,4,0.2,computational_exploratory
+2024-05,Assault / threats,10.0,2024,5,0.3225806451612903,computational_exploratory
+2024-06,Assault / threats,9.0,2024,6,0.3,computational_exploratory
+2024-07,Assault / threats,4.0,2024,7,0.12903225806451613,computational_exploratory
+2024-08,Assault / threats,6.0,2024,8,0.1935483870967742,computational_exploratory
+2024-09,Assault / threats,15.0,2024,9,0.5,computational_exploratory
+2024-10,Assault / threats,7.0,2024,10,0.22580645161290322,computational_exploratory
+2024-11,Assault / threats,5.0,2024,11,0.16666666666666666,computational_exploratory
+2024-12,Assault / threats,6.0,2024,12,0.1935483870967742,computational_exploratory
+2025-01,Assault / threats,7.0,2025,1,0.22580645161290322,computational_exploratory
+2025-02,Assault / threats,3.0,2025,2,0.10714285714285714,computational_exploratory
+2025-03,Assault / threats,3.0,2025,3,0.0967741935483871,computational_exploratory
+2025-04,Assault / threats,10.0,2025,4,0.3333333333333333,computational_exploratory
+2025-05,Assault / threats,6.0,2025,5,0.1935483870967742,computational_exploratory
+2025-06,Assault / threats,2.0,2025,6,0.06666666666666667,computational_exploratory
+2025-07,Assault / threats,5.0,2025,7,0.16129032258064516,computational_exploratory
+2025-08,Assault / threats,5.0,2025,8,0.16129032258064516,computational_exploratory
+2025-09,Assault / threats,4.0,2025,9,0.13333333333333333,computational_exploratory
+2025-10,Assault / threats,9.0,2025,10,0.2903225806451613,computational_exploratory
+2025-11,Assault / threats,5.0,2025,11,0.16666666666666666,computational_exploratory
+2025-12,Assault / threats,2.0,2025,12,0.06451612903225806,computational_exploratory
+2021-01,Fraud / deception,2.0,2021,1,0.06451612903225806,computational_exploratory
+2021-02,Fraud / deception,4.0,2021,2,0.14285714285714285,computational_exploratory
+2021-03,Fraud / deception,7.0,2021,3,0.22580645161290322,computational_exploratory
+2021-04,Fraud / deception,3.0,2021,4,0.1,computational_exploratory
+2021-05,Fraud / deception,3.0,2021,5,0.0967741935483871,computational_exploratory
+2021-06,Fraud / deception,3.0,2021,6,0.1,computational_exploratory
+2021-07,Fraud / deception,3.0,2021,7,0.0967741935483871,computational_exploratory
+2021-08,Fraud / deception,3.0,2021,8,0.0967741935483871,computational_exploratory
+2021-09,Fraud / deception,3.0,2021,9,0.1,computational_exploratory
+2021-10,Fraud / deception,1.0,2021,10,0.03225806451612903,computational_exploratory
+2021-11,Fraud / deception,4.0,2021,11,0.13333333333333333,computational_exploratory
+2021-12,Fraud / deception,6.0,2021,12,0.1935483870967742,computational_exploratory
+2022-01,Fraud / deception,6.0,2022,1,0.1935483870967742,computational_exploratory
+2022-02,Fraud / deception,4.0,2022,2,0.14285714285714285,computational_exploratory
+2022-03,Fraud / deception,3.0,2022,3,0.0967741935483871,computational_exploratory
+2022-04,Fraud / deception,3.0,2022,4,0.1,computational_exploratory
+2022-05,Fraud / deception,4.0,2022,5,0.12903225806451613,computational_exploratory
+2022-06,Fraud / deception,3.0,2022,6,0.1,computational_exploratory
+2022-07,Fraud / deception,6.0,2022,7,0.1935483870967742,computational_exploratory
+2022-08,Fraud / deception,5.0,2022,8,0.16129032258064516,computational_exploratory
+2022-09,Fraud / deception,5.0,2022,9,0.16666666666666666,computational_exploratory
+2022-10,Fraud / deception,2.0,2022,10,0.06451612903225806,computational_exploratory
+2022-11,Fraud / deception,3.0,2022,11,0.1,computational_exploratory
+2022-12,Fraud / deception,1.0,2022,12,0.03225806451612903,computational_exploratory
+2023-01,Fraud / deception,2.0,2023,1,0.06451612903225806,computational_exploratory
+2023-02,Fraud / deception,3.0,2023,2,0.10714285714285714,computational_exploratory
+2023-03,Fraud / deception,4.0,2023,3,0.12903225806451613,computational_exploratory
+2023-04,Fraud / deception,2.0,2023,4,0.06666666666666667,computational_exploratory
+2023-05,Fraud / deception,4.0,2023,5,0.12903225806451613,computational_exploratory
+2023-06,Fraud / deception,2.0,2023,6,0.06666666666666667,computational_exploratory
+2023-07,Fraud / deception,3.0,2023,7,0.0967741935483871,computational_exploratory
+2023-08,Fraud / deception,4.0,2023,8,0.12903225806451613,computational_exploratory
+2023-09,Fraud / deception,4.0,2023,9,0.13333333333333333,computational_exploratory
+2023-10,Fraud / deception,3.0,2023,10,0.0967741935483871,computational_exploratory
+2023-11,Fraud / deception,4.0,2023,11,0.13333333333333333,computational_exploratory
+2023-12,Fraud / deception,4.0,2023,12,0.12903225806451613,computational_exploratory
+2024-01,Fraud / deception,2.0,2024,1,0.06451612903225806,computational_exploratory
+2024-02,Fraud / deception,4.0,2024,2,0.13793103448275862,computational_exploratory
+2024-03,Fraud / deception,4.0,2024,3,0.12903225806451613,computational_exploratory
+2024-04,Fraud / deception,4.0,2024,4,0.13333333333333333,computational_exploratory
+2024-05,Fraud / deception,2.0,2024,5,0.06451612903225806,computational_exploratory
+2024-06,Fraud / deception,2.0,2024,6,0.06666666666666667,computational_exploratory
+2024-07,Fraud / deception,8.0,2024,7,0.25806451612903225,computational_exploratory
+2024-08,Fraud / deception,2.0,2024,8,0.06451612903225806,computational_exploratory
+2024-09,Fraud / deception,2.0,2024,9,0.06666666666666667,computational_exploratory
+2024-10,Fraud / deception,3.0,2024,10,0.0967741935483871,computational_exploratory
+2024-11,Fraud / deception,2.0,2024,11,0.06666666666666667,computational_exploratory
+2024-12,Fraud / deception,2.0,2024,12,0.06451612903225806,computational_exploratory
+2025-01,Fraud / deception,7.0,2025,1,0.22580645161290322,computational_exploratory
+2025-02,Fraud / deception,4.0,2025,2,0.14285714285714285,computational_exploratory
+2025-03,Fraud / deception,4.0,2025,3,0.12903225806451613,computational_exploratory
+2025-04,Fraud / deception,3.0,2025,4,0.1,computational_exploratory
+2025-05,Fraud / deception,5.0,2025,5,0.16129032258064516,computational_exploratory
+2025-06,Fraud / deception,4.0,2025,6,0.13333333333333333,computational_exploratory
+2025-07,Fraud / deception,2.0,2025,7,0.06451612903225806,computational_exploratory
+2025-08,Fraud / deception,4.0,2025,8,0.12903225806451613,computational_exploratory
+2025-09,Fraud / deception,3.0,2025,9,0.1,computational_exploratory
+2025-10,Fraud / deception,2.0,2025,10,0.06451612903225806,computational_exploratory
+2025-11,Fraud / deception,2.0,2025,11,0.06666666666666667,computational_exploratory
+2025-12,Fraud / deception,2.0,2025,12,0.06451612903225806,computational_exploratory
+2021-01,Drug-related,5.0,2021,1,0.16129032258064516,computational_exploratory
+2021-02,Drug-related,6.0,2021,2,0.21428571428571427,computational_exploratory
+2021-03,Drug-related,4.0,2021,3,0.12903225806451613,computational_exploratory
+2021-04,Drug-related,0.0,2021,4,0.0,computational_exploratory
+2021-05,Drug-related,1.0,2021,5,0.03225806451612903,computational_exploratory
+2021-06,Drug-related,2.0,2021,6,0.06666666666666667,computational_exploratory
+2021-07,Drug-related,0.0,2021,7,0.0,computational_exploratory
+2021-08,Drug-related,4.0,2021,8,0.12903225806451613,computational_exploratory
+2021-09,Drug-related,5.0,2021,9,0.16666666666666666,computational_exploratory
+2021-10,Drug-related,2.0,2021,10,0.06451612903225806,computational_exploratory
+2021-11,Drug-related,2.0,2021,11,0.06666666666666667,computational_exploratory
+2021-12,Drug-related,6.0,2021,12,0.1935483870967742,computational_exploratory
+2022-01,Drug-related,0.0,2022,1,0.0,computational_exploratory
+2022-02,Drug-related,3.0,2022,2,0.10714285714285714,computational_exploratory
+2022-03,Drug-related,5.0,2022,3,0.16129032258064516,computational_exploratory
+2022-04,Drug-related,2.0,2022,4,0.06666666666666667,computational_exploratory
+2022-05,Drug-related,3.0,2022,5,0.0967741935483871,computational_exploratory
+2022-06,Drug-related,3.0,2022,6,0.1,computational_exploratory
+2022-07,Drug-related,2.0,2022,7,0.06451612903225806,computational_exploratory
+2022-08,Drug-related,3.0,2022,8,0.0967741935483871,computational_exploratory
+2022-09,Drug-related,2.0,2022,9,0.06666666666666667,computational_exploratory
+2022-10,Drug-related,4.0,2022,10,0.12903225806451613,computational_exploratory
+2022-11,Drug-related,4.0,2022,11,0.13333333333333333,computational_exploratory
+2022-12,Drug-related,3.0,2022,12,0.0967741935483871,computational_exploratory
+2023-01,Drug-related,4.0,2023,1,0.12903225806451613,computational_exploratory
+2023-02,Drug-related,6.0,2023,2,0.21428571428571427,computational_exploratory
+2023-03,Drug-related,4.0,2023,3,0.12903225806451613,computational_exploratory
+2023-04,Drug-related,4.0,2023,4,0.13333333333333333,computational_exploratory
+2023-05,Drug-related,4.0,2023,5,0.12903225806451613,computational_exploratory
+2023-06,Drug-related,2.0,2023,6,0.06666666666666667,computational_exploratory
+2023-07,Drug-related,3.0,2023,7,0.0967741935483871,computational_exploratory
+2023-08,Drug-related,2.0,2023,8,0.06451612903225806,computational_exploratory
+2023-09,Drug-related,1.0,2023,9,0.03333333333333333,computational_exploratory
+2023-10,Drug-related,1.0,2023,10,0.03225806451612903,computational_exploratory
+2023-11,Drug-related,3.0,2023,11,0.1,computational_exploratory
+2023-12,Drug-related,1.0,2023,12,0.03225806451612903,computational_exploratory
+2024-01,Drug-related,1.0,2024,1,0.03225806451612903,computational_exploratory
+2024-02,Drug-related,3.0,2024,2,0.10344827586206896,computational_exploratory
+2024-03,Drug-related,3.0,2024,3,0.0967741935483871,computational_exploratory
+2024-04,Drug-related,5.0,2024,4,0.16666666666666666,computational_exploratory
+2024-05,Drug-related,2.0,2024,5,0.06451612903225806,computational_exploratory
+2024-06,Drug-related,3.0,2024,6,0.1,computational_exploratory
+2024-07,Drug-related,3.0,2024,7,0.0967741935483871,computational_exploratory
+2024-08,Drug-related,8.0,2024,8,0.25806451612903225,computational_exploratory
+2024-09,Drug-related,5.0,2024,9,0.16666666666666666,computational_exploratory
+2024-10,Drug-related,6.0,2024,10,0.1935483870967742,computational_exploratory
+2024-11,Drug-related,3.0,2024,11,0.1,computational_exploratory
+2024-12,Drug-related,4.0,2024,12,0.12903225806451613,computational_exploratory
+2025-01,Drug-related,4.0,2025,1,0.12903225806451613,computational_exploratory
+2025-02,Drug-related,3.0,2025,2,0.10714285714285714,computational_exploratory
+2025-03,Drug-related,9.0,2025,3,0.2903225806451613,computational_exploratory
+2025-04,Drug-related,5.0,2025,4,0.16666666666666666,computational_exploratory
+2025-05,Drug-related,6.0,2025,5,0.1935483870967742,computational_exploratory
+2025-06,Drug-related,6.0,2025,6,0.2,computational_exploratory
+2025-07,Drug-related,6.0,2025,7,0.1935483870967742,computational_exploratory
+2025-08,Drug-related,6.0,2025,8,0.1935483870967742,computational_exploratory
+2025-09,Drug-related,7.0,2025,9,0.23333333333333334,computational_exploratory
+2025-10,Drug-related,4.0,2025,10,0.12903225806451613,computational_exploratory
+2025-11,Drug-related,4.0,2025,11,0.13333333333333333,computational_exploratory
+2025-12,Drug-related,3.0,2025,12,0.0967741935483871,computational_exploratory
+2021-01,Property damage,8.0,2021,1,0.25806451612903225,computational_exploratory
+2021-02,Property damage,3.0,2021,2,0.10714285714285714,computational_exploratory
+2021-03,Property damage,9.0,2021,3,0.2903225806451613,computational_exploratory
+2021-04,Property damage,6.0,2021,4,0.2,computational_exploratory
+2021-05,Property damage,7.0,2021,5,0.22580645161290322,computational_exploratory
+2021-06,Property damage,5.0,2021,6,0.16666666666666666,computational_exploratory
+2021-07,Property damage,4.0,2021,7,0.12903225806451613,computational_exploratory
+2021-08,Property damage,7.0,2021,8,0.22580645161290322,computational_exploratory
+2021-09,Property damage,7.0,2021,9,0.23333333333333334,computational_exploratory
+2021-10,Property damage,6.0,2021,10,0.1935483870967742,computational_exploratory
+2021-11,Property damage,6.0,2021,11,0.2,computational_exploratory
+2021-12,Property damage,10.0,2021,12,0.3225806451612903,computational_exploratory
+2022-01,Property damage,4.0,2022,1,0.12903225806451613,computational_exploratory
+2022-02,Property damage,4.0,2022,2,0.14285714285714285,computational_exploratory
+2022-03,Property damage,7.0,2022,3,0.22580645161290322,computational_exploratory
+2022-04,Property damage,7.0,2022,4,0.23333333333333334,computational_exploratory
+2022-05,Property damage,6.0,2022,5,0.1935483870967742,computational_exploratory
+2022-06,Property damage,5.0,2022,6,0.16666666666666666,computational_exploratory
+2022-07,Property damage,5.0,2022,7,0.16129032258064516,computational_exploratory
+2022-08,Property damage,2.0,2022,8,0.06451612903225806,computational_exploratory
+2022-09,Property damage,4.0,2022,9,0.13333333333333333,computational_exploratory
+2022-10,Property damage,1.0,2022,10,0.03225806451612903,computational_exploratory
+2022-11,Property damage,2.0,2022,11,0.06666666666666667,computational_exploratory
+2022-12,Property damage,1.0,2022,12,0.03225806451612903,computational_exploratory
+2023-01,Property damage,4.0,2023,1,0.12903225806451613,computational_exploratory
+2023-02,Property damage,2.0,2023,2,0.07142857142857142,computational_exploratory
+2023-03,Property damage,5.0,2023,3,0.16129032258064516,computational_exploratory
+2023-04,Property damage,6.0,2023,4,0.2,computational_exploratory
+2023-05,Property damage,1.0,2023,5,0.03225806451612903,computational_exploratory
+2023-06,Property damage,1.0,2023,6,0.03333333333333333,computational_exploratory
+2023-07,Property damage,4.0,2023,7,0.12903225806451613,computational_exploratory
+2023-08,Property damage,5.0,2023,8,0.16129032258064516,computational_exploratory
+2023-09,Property damage,1.0,2023,9,0.03333333333333333,computational_exploratory
+2023-10,Property damage,1.0,2023,10,0.03225806451612903,computational_exploratory
+2023-11,Property damage,2.0,2023,11,0.06666666666666667,computational_exploratory
+2023-12,Property damage,3.0,2023,12,0.0967741935483871,computational_exploratory
+2024-01,Property damage,0.0,2024,1,0.0,computational_exploratory
+2024-02,Property damage,1.0,2024,2,0.034482758620689655,computational_exploratory
+2024-03,Property damage,3.0,2024,3,0.0967741935483871,computational_exploratory
+2024-04,Property damage,2.0,2024,4,0.06666666666666667,computational_exploratory
+2024-05,Property damage,0.0,2024,5,0.0,computational_exploratory
+2024-06,Property damage,5.0,2024,6,0.16666666666666666,computational_exploratory
+2024-07,Property damage,5.0,2024,7,0.16129032258064516,computational_exploratory
+2024-08,Property damage,2.0,2024,8,0.06451612903225806,computational_exploratory
+2024-09,Property damage,2.0,2024,9,0.06666666666666667,computational_exploratory
+2024-10,Property damage,3.0,2024,10,0.0967741935483871,computational_exploratory
+2024-11,Property damage,3.0,2024,11,0.1,computational_exploratory
+2024-12,Property damage,0.0,2024,12,0.0,computational_exploratory
+2025-01,Property damage,4.0,2025,1,0.12903225806451613,computational_exploratory
+2025-02,Property damage,5.0,2025,2,0.17857142857142858,computational_exploratory
+2025-03,Property damage,4.0,2025,3,0.12903225806451613,computational_exploratory
+2025-04,Property damage,4.0,2025,4,0.13333333333333333,computational_exploratory
+2025-05,Property damage,3.0,2025,5,0.0967741935483871,computational_exploratory
+2025-06,Property damage,3.0,2025,6,0.1,computational_exploratory
+2025-07,Property damage,4.0,2025,7,0.12903225806451613,computational_exploratory
+2025-08,Property damage,6.0,2025,8,0.1935483870967742,computational_exploratory
+2025-09,Property damage,9.0,2025,9,0.3,computational_exploratory
+2025-10,Property damage,2.0,2025,10,0.06451612903225806,computational_exploratory
+2025-11,Property damage,3.0,2025,11,0.1,computational_exploratory
+2025-12,Property damage,0.0,2025,12,0.0,computational_exploratory
+2021-01,Fire / explosion / ordnance,9.0,2021,1,0.2903225806451613,computational_exploratory
+2021-02,Fire / explosion / ordnance,5.0,2021,2,0.17857142857142858,computational_exploratory
+2021-03,Fire / explosion / ordnance,12.0,2021,3,0.3870967741935484,computational_exploratory
+2021-04,Fire / explosion / ordnance,9.0,2021,4,0.3,computational_exploratory
+2021-05,Fire / explosion / ordnance,5.0,2021,5,0.16129032258064516,computational_exploratory
+2021-06,Fire / explosion / ordnance,6.0,2021,6,0.2,computational_exploratory
+2021-07,Fire / explosion / ordnance,8.0,2021,7,0.25806451612903225,computational_exploratory
+2021-08,Fire / explosion / ordnance,9.0,2021,8,0.2903225806451613,computational_exploratory
+2021-09,Fire / explosion / ordnance,5.0,2021,9,0.16666666666666666,computational_exploratory
+2021-10,Fire / explosion / ordnance,4.0,2021,10,0.12903225806451613,computational_exploratory
+2021-11,Fire / explosion / ordnance,4.0,2021,11,0.13333333333333333,computational_exploratory
+2021-12,Fire / explosion / ordnance,4.0,2021,12,0.12903225806451613,computational_exploratory
+2022-01,Fire / explosion / ordnance,10.0,2022,1,0.3225806451612903,computational_exploratory
+2022-02,Fire / explosion / ordnance,4.0,2022,2,0.14285714285714285,computational_exploratory
+2022-03,Fire / explosion / ordnance,2.0,2022,3,0.06451612903225806,computational_exploratory
+2022-04,Fire / explosion / ordnance,1.0,2022,4,0.03333333333333333,computational_exploratory
+2022-05,Fire / explosion / ordnance,6.0,2022,5,0.1935483870967742,computational_exploratory
+2022-06,Fire / explosion / ordnance,0.0,2022,6,0.0,computational_exploratory
+2022-07,Fire / explosion / ordnance,3.0,2022,7,0.0967741935483871,computational_exploratory
+2022-08,Fire / explosion / ordnance,5.0,2022,8,0.16129032258064516,computational_exploratory
+2022-09,Fire / explosion / ordnance,3.0,2022,9,0.1,computational_exploratory
+2022-10,Fire / explosion / ordnance,2.0,2022,10,0.06451612903225806,computational_exploratory
+2022-11,Fire / explosion / ordnance,6.0,2022,11,0.2,computational_exploratory
+2022-12,Fire / explosion / ordnance,8.0,2022,12,0.25806451612903225,computational_exploratory
+2023-01,Fire / explosion / ordnance,7.0,2023,1,0.22580645161290322,computational_exploratory
+2023-02,Fire / explosion / ordnance,1.0,2023,2,0.03571428571428571,computational_exploratory
+2023-03,Fire / explosion / ordnance,2.0,2023,3,0.06451612903225806,computational_exploratory
+2023-04,Fire / explosion / ordnance,4.0,2023,4,0.13333333333333333,computational_exploratory
+2023-05,Fire / explosion / ordnance,1.0,2023,5,0.03225806451612903,computational_exploratory
+2023-06,Fire / explosion / ordnance,2.0,2023,6,0.06666666666666667,computational_exploratory
+2023-07,Fire / explosion / ordnance,4.0,2023,7,0.12903225806451613,computational_exploratory
+2023-08,Fire / explosion / ordnance,4.0,2023,8,0.12903225806451613,computational_exploratory
+2023-09,Fire / explosion / ordnance,5.0,2023,9,0.16666666666666666,computational_exploratory
+2023-10,Fire / explosion / ordnance,5.0,2023,10,0.16129032258064516,computational_exploratory
+2023-11,Fire / explosion / ordnance,2.0,2023,11,0.06666666666666667,computational_exploratory
+2023-12,Fire / explosion / ordnance,2.0,2023,12,0.06451612903225806,computational_exploratory
+2024-01,Fire / explosion / ordnance,5.0,2024,1,0.16129032258064516,computational_exploratory
+2024-02,Fire / explosion / ordnance,5.0,2024,2,0.1724137931034483,computational_exploratory
+2024-03,Fire / explosion / ordnance,1.0,2024,3,0.03225806451612903,computational_exploratory
+2024-04,Fire / explosion / ordnance,2.0,2024,4,0.06666666666666667,computational_exploratory
+2024-05,Fire / explosion / ordnance,5.0,2024,5,0.16129032258064516,computational_exploratory
+2024-06,Fire / explosion / ordnance,5.0,2024,6,0.16666666666666666,computational_exploratory
+2024-07,Fire / explosion / ordnance,5.0,2024,7,0.16129032258064516,computational_exploratory
+2024-08,Fire / explosion / ordnance,9.0,2024,8,0.2903225806451613,computational_exploratory
+2024-09,Fire / explosion / ordnance,10.0,2024,9,0.3333333333333333,computational_exploratory
+2024-10,Fire / explosion / ordnance,3.0,2024,10,0.0967741935483871,computational_exploratory
+2024-11,Fire / explosion / ordnance,9.0,2024,11,0.3,computational_exploratory
+2024-12,Fire / explosion / ordnance,5.0,2024,12,0.16129032258064516,computational_exploratory
+2025-01,Fire / explosion / ordnance,3.0,2025,1,0.0967741935483871,computational_exploratory
+2025-02,Fire / explosion / ordnance,2.0,2025,2,0.07142857142857142,computational_exploratory
+2025-03,Fire / explosion / ordnance,7.0,2025,3,0.22580645161290322,computational_exploratory
+2025-04,Fire / explosion / ordnance,2.0,2025,4,0.06666666666666667,computational_exploratory
+2025-05,Fire / explosion / ordnance,7.0,2025,5,0.22580645161290322,computational_exploratory
+2025-06,Fire / explosion / ordnance,3.0,2025,6,0.1,computational_exploratory
+2025-07,Fire / explosion / ordnance,2.0,2025,7,0.06451612903225806,computational_exploratory
+2025-08,Fire / explosion / ordnance,4.0,2025,8,0.12903225806451613,computational_exploratory
+2025-09,Fire / explosion / ordnance,3.0,2025,9,0.1,computational_exploratory
+2025-10,Fire / explosion / ordnance,4.0,2025,10,0.12903225806451613,computational_exploratory
+2025-11,Fire / explosion / ordnance,11.0,2025,11,0.36666666666666664,computational_exploratory
+2025-12,Fire / explosion / ordnance,5.0,2025,12,0.16129032258064516,computational_exploratory
+2021-01,Public events / police information,0.0,2021,1,0.0,computational_exploratory
+2021-02,Public events / police information,2.0,2021,2,0.07142857142857142,computational_exploratory
+2021-03,Public events / police information,5.0,2021,3,0.16129032258064516,computational_exploratory
+2021-04,Public events / police information,8.0,2021,4,0.26666666666666666,computational_exploratory
+2021-05,Public events / police information,10.0,2021,5,0.3225806451612903,computational_exploratory
+2021-06,Public events / police information,3.0,2021,6,0.1,computational_exploratory
+2021-07,Public events / police information,5.0,2021,7,0.16129032258064516,computational_exploratory
+2021-08,Public events / police information,8.0,2021,8,0.25806451612903225,computational_exploratory
+2021-09,Public events / police information,7.0,2021,9,0.23333333333333334,computational_exploratory
+2021-10,Public events / police information,6.0,2021,10,0.1935483870967742,computational_exploratory
+2021-11,Public events / police information,5.0,2021,11,0.16666666666666666,computational_exploratory
+2021-12,Public events / police information,6.0,2021,12,0.1935483870967742,computational_exploratory
+2022-01,Public events / police information,4.0,2022,1,0.12903225806451613,computational_exploratory
+2022-02,Public events / police information,4.0,2022,2,0.14285714285714285,computational_exploratory
+2022-03,Public events / police information,12.0,2022,3,0.3870967741935484,computational_exploratory
+2022-04,Public events / police information,8.0,2022,4,0.26666666666666666,computational_exploratory
+2022-05,Public events / police information,7.0,2022,5,0.22580645161290322,computational_exploratory
+2022-06,Public events / police information,3.0,2022,6,0.1,computational_exploratory
+2022-07,Public events / police information,4.0,2022,7,0.12903225806451613,computational_exploratory
+2022-08,Public events / police information,5.0,2022,8,0.16129032258064516,computational_exploratory
+2022-09,Public events / police information,3.0,2022,9,0.1,computational_exploratory
+2022-10,Public events / police information,7.0,2022,10,0.22580645161290322,computational_exploratory
+2022-11,Public events / police information,5.0,2022,11,0.16666666666666666,computational_exploratory
+2022-12,Public events / police information,0.0,2022,12,0.0,computational_exploratory
+2023-01,Public events / police information,2.0,2023,1,0.06451612903225806,computational_exploratory
+2023-02,Public events / police information,7.0,2023,2,0.25,computational_exploratory
+2023-03,Public events / police information,4.0,2023,3,0.12903225806451613,computational_exploratory
+2023-04,Public events / police information,2.0,2023,4,0.06666666666666667,computational_exploratory
+2023-05,Public events / police information,3.0,2023,5,0.0967741935483871,computational_exploratory
+2023-06,Public events / police information,5.0,2023,6,0.16666666666666666,computational_exploratory
+2023-07,Public events / police information,3.0,2023,7,0.0967741935483871,computational_exploratory
+2023-08,Public events / police information,7.0,2023,8,0.22580645161290322,computational_exploratory
+2023-09,Public events / police information,3.0,2023,9,0.1,computational_exploratory
+2023-10,Public events / police information,8.0,2023,10,0.25806451612903225,computational_exploratory
+2023-11,Public events / police information,7.0,2023,11,0.23333333333333334,computational_exploratory
+2023-12,Public events / police information,4.0,2023,12,0.12903225806451613,computational_exploratory
+2024-01,Public events / police information,6.0,2024,1,0.1935483870967742,computational_exploratory
+2024-02,Public events / police information,6.0,2024,2,0.20689655172413793,computational_exploratory
+2024-03,Public events / police information,8.0,2024,3,0.25806451612903225,computational_exploratory
+2024-04,Public events / police information,4.0,2024,4,0.13333333333333333,computational_exploratory
+2024-05,Public events / police information,8.0,2024,5,0.25806451612903225,computational_exploratory
+2024-06,Public events / police information,2.0,2024,6,0.06666666666666667,computational_exploratory
+2024-07,Public events / police information,8.0,2024,7,0.25806451612903225,computational_exploratory
+2024-08,Public events / police information,7.0,2024,8,0.22580645161290322,computational_exploratory
+2024-09,Public events / police information,5.0,2024,9,0.16666666666666666,computational_exploratory
+2024-10,Public events / police information,9.0,2024,10,0.2903225806451613,computational_exploratory
+2024-11,Public events / police information,5.0,2024,11,0.16666666666666666,computational_exploratory
+2024-12,Public events / police information,5.0,2024,12,0.16129032258064516,computational_exploratory
+2025-01,Public events / police information,5.0,2025,1,0.16129032258064516,computational_exploratory
+2025-02,Public events / police information,7.0,2025,2,0.25,computational_exploratory
+2025-03,Public events / police information,6.0,2025,3,0.1935483870967742,computational_exploratory
+2025-04,Public events / police information,9.0,2025,4,0.3,computational_exploratory
+2025-05,Public events / police information,7.0,2025,5,0.22580645161290322,computational_exploratory
+2025-06,Public events / police information,1.0,2025,6,0.03333333333333333,computational_exploratory
+2025-07,Public events / police information,4.0,2025,7,0.12903225806451613,computational_exploratory
+2025-08,Public events / police information,4.0,2025,8,0.12903225806451613,computational_exploratory
+2025-09,Public events / police information,5.0,2025,9,0.16666666666666666,computational_exploratory
+2025-10,Public events / police information,12.0,2025,10,0.3870967741935484,computational_exploratory
+2025-11,Public events / police information,12.0,2025,11,0.4,computational_exploratory
+2025-12,Public events / police information,3.0,2025,12,0.0967741935483871,computational_exploratory
+2021-01,Weapons-related,0.0,2021,1,0.0,computational_exploratory
+2021-02,Weapons-related,0.0,2021,2,0.0,computational_exploratory
+2021-03,Weapons-related,0.0,2021,3,0.0,computational_exploratory
+2021-04,Weapons-related,0.0,2021,4,0.0,computational_exploratory
+2021-05,Weapons-related,0.0,2021,5,0.0,computational_exploratory
+2021-06,Weapons-related,0.0,2021,6,0.0,computational_exploratory
+2021-07,Weapons-related,0.0,2021,7,0.0,computational_exploratory
+2021-08,Weapons-related,0.0,2021,8,0.0,computational_exploratory
+2021-09,Weapons-related,0.0,2021,9,0.0,computational_exploratory
+2021-10,Weapons-related,0.0,2021,10,0.0,computational_exploratory
+2021-11,Weapons-related,0.0,2021,11,0.0,computational_exploratory
+2021-12,Weapons-related,0.0,2021,12,0.0,computational_exploratory
+2022-01,Weapons-related,0.0,2022,1,0.0,computational_exploratory
+2022-02,Weapons-related,0.0,2022,2,0.0,computational_exploratory
+2022-03,Weapons-related,0.0,2022,3,0.0,computational_exploratory
+2022-04,Weapons-related,0.0,2022,4,0.0,computational_exploratory
+2022-05,Weapons-related,0.0,2022,5,0.0,computational_exploratory
+2022-06,Weapons-related,0.0,2022,6,0.0,computational_exploratory
+2022-07,Weapons-related,0.0,2022,7,0.0,computational_exploratory
+2022-08,Weapons-related,0.0,2022,8,0.0,computational_exploratory
+2022-09,Weapons-related,0.0,2022,9,0.0,computational_exploratory
+2022-10,Weapons-related,0.0,2022,10,0.0,computational_exploratory
+2022-11,Weapons-related,0.0,2022,11,0.0,computational_exploratory
+2022-12,Weapons-related,0.0,2022,12,0.0,computational_exploratory
+2023-01,Weapons-related,0.0,2023,1,0.0,computational_exploratory
+2023-02,Weapons-related,0.0,2023,2,0.0,computational_exploratory
+2023-03,Weapons-related,0.0,2023,3,0.0,computational_exploratory
+2023-04,Weapons-related,0.0,2023,4,0.0,computational_exploratory
+2023-05,Weapons-related,0.0,2023,5,0.0,computational_exploratory
+2023-06,Weapons-related,0.0,2023,6,0.0,computational_exploratory
+2023-07,Weapons-related,0.0,2023,7,0.0,computational_exploratory
+2023-08,Weapons-related,0.0,2023,8,0.0,computational_exploratory
+2023-09,Weapons-related,0.0,2023,9,0.0,computational_exploratory
+2023-10,Weapons-related,0.0,2023,10,0.0,computational_exploratory
+2023-11,Weapons-related,0.0,2023,11,0.0,computational_exploratory
+2023-12,Weapons-related,0.0,2023,12,0.0,computational_exploratory
+2024-01,Weapons-related,0.0,2024,1,0.0,computational_exploratory
+2024-02,Weapons-related,0.0,2024,2,0.0,computational_exploratory
+2024-03,Weapons-related,0.0,2024,3,0.0,computational_exploratory
+2024-04,Weapons-related,0.0,2024,4,0.0,computational_exploratory
+2024-05,Weapons-related,0.0,2024,5,0.0,computational_exploratory
+2024-06,Weapons-related,0.0,2024,6,0.0,computational_exploratory
+2024-07,Weapons-related,0.0,2024,7,0.0,computational_exploratory
+2024-08,Weapons-related,0.0,2024,8,0.0,computational_exploratory
+2024-09,Weapons-related,0.0,2024,9,0.0,computational_exploratory
+2024-10,Weapons-related,0.0,2024,10,0.0,computational_exploratory
+2024-11,Weapons-related,0.0,2024,11,0.0,computational_exploratory
+2024-12,Weapons-related,0.0,2024,12,0.0,computational_exploratory
+2025-01,Weapons-related,0.0,2025,1,0.0,computational_exploratory
+2025-02,Weapons-related,0.0,2025,2,0.0,computational_exploratory
+2025-03,Weapons-related,0.0,2025,3,0.0,computational_exploratory
+2025-04,Weapons-related,0.0,2025,4,0.0,computational_exploratory
+2025-05,Weapons-related,0.0,2025,5,0.0,computational_exploratory
+2025-06,Weapons-related,0.0,2025,6,0.0,computational_exploratory
+2025-07,Weapons-related,0.0,2025,7,0.0,computational_exploratory
+2025-08,Weapons-related,0.0,2025,8,0.0,computational_exploratory
+2025-09,Weapons-related,0.0,2025,9,0.0,computational_exploratory
+2025-10,Weapons-related,0.0,2025,10,0.0,computational_exploratory
+2025-11,Weapons-related,0.0,2025,11,0.0,computational_exploratory
+2025-12,Weapons-related,0.0,2025,12,0.0,computational_exploratory
+2021-01,Hate / discrimination,0.0,2021,1,0.0,computational_exploratory
+2021-02,Hate / discrimination,3.0,2021,2,0.10714285714285714,computational_exploratory
+2021-03,Hate / discrimination,1.0,2021,3,0.03225806451612903,computational_exploratory
+2021-04,Hate / discrimination,0.0,2021,4,0.0,computational_exploratory
+2021-05,Hate / discrimination,5.0,2021,5,0.16129032258064516,computational_exploratory
+2021-06,Hate / discrimination,1.0,2021,6,0.03333333333333333,computational_exploratory
+2021-07,Hate / discrimination,1.0,2021,7,0.03225806451612903,computational_exploratory
+2021-08,Hate / discrimination,1.0,2021,8,0.03225806451612903,computational_exploratory
+2021-09,Hate / discrimination,1.0,2021,9,0.03333333333333333,computational_exploratory
+2021-10,Hate / discrimination,3.0,2021,10,0.0967741935483871,computational_exploratory
+2021-11,Hate / discrimination,1.0,2021,11,0.03333333333333333,computational_exploratory
+2021-12,Hate / discrimination,0.0,2021,12,0.0,computational_exploratory
+2022-01,Hate / discrimination,1.0,2022,1,0.03225806451612903,computational_exploratory
+2022-02,Hate / discrimination,1.0,2022,2,0.03571428571428571,computational_exploratory
+2022-03,Hate / discrimination,1.0,2022,3,0.03225806451612903,computational_exploratory
+2022-04,Hate / discrimination,0.0,2022,4,0.0,computational_exploratory
+2022-05,Hate / discrimination,4.0,2022,5,0.12903225806451613,computational_exploratory
+2022-06,Hate / discrimination,2.0,2022,6,0.06666666666666667,computational_exploratory
+2022-07,Hate / discrimination,1.0,2022,7,0.03225806451612903,computational_exploratory
+2022-08,Hate / discrimination,3.0,2022,8,0.0967741935483871,computational_exploratory
+2022-09,Hate / discrimination,5.0,2022,9,0.16666666666666666,computational_exploratory
+2022-10,Hate / discrimination,2.0,2022,10,0.06451612903225806,computational_exploratory
+2022-11,Hate / discrimination,2.0,2022,11,0.06666666666666667,computational_exploratory
+2022-12,Hate / discrimination,0.0,2022,12,0.0,computational_exploratory
+2023-01,Hate / discrimination,3.0,2023,1,0.0967741935483871,computational_exploratory
+2023-02,Hate / discrimination,3.0,2023,2,0.10714285714285714,computational_exploratory
+2023-03,Hate / discrimination,0.0,2023,3,0.0,computational_exploratory
+2023-04,Hate / discrimination,2.0,2023,4,0.06666666666666667,computational_exploratory
+2023-05,Hate / discrimination,1.0,2023,5,0.03225806451612903,computational_exploratory
+2023-06,Hate / discrimination,1.0,2023,6,0.03333333333333333,computational_exploratory
+2023-07,Hate / discrimination,2.0,2023,7,0.06451612903225806,computational_exploratory
+2023-08,Hate / discrimination,2.0,2023,8,0.06451612903225806,computational_exploratory
+2023-09,Hate / discrimination,1.0,2023,9,0.03333333333333333,computational_exploratory
+2023-10,Hate / discrimination,0.0,2023,10,0.0,computational_exploratory
+2023-11,Hate / discrimination,1.0,2023,11,0.03333333333333333,computational_exploratory
+2023-12,Hate / discrimination,1.0,2023,12,0.03225806451612903,computational_exploratory
+2024-01,Hate / discrimination,0.0,2024,1,0.0,computational_exploratory
+2024-02,Hate / discrimination,0.0,2024,2,0.0,computational_exploratory
+2024-03,Hate / discrimination,0.0,2024,3,0.0,computational_exploratory
+2024-04,Hate / discrimination,2.0,2024,4,0.06666666666666667,computational_exploratory
+2024-05,Hate / discrimination,3.0,2024,5,0.0967741935483871,computational_exploratory
+2024-06,Hate / discrimination,3.0,2024,6,0.1,computational_exploratory
+2024-07,Hate / discrimination,0.0,2024,7,0.0,computational_exploratory
+2024-08,Hate / discrimination,4.0,2024,8,0.12903225806451613,computational_exploratory
+2024-09,Hate / discrimination,0.0,2024,9,0.0,computational_exploratory
+2024-10,Hate / discrimination,0.0,2024,10,0.0,computational_exploratory
+2024-11,Hate / discrimination,0.0,2024,11,0.0,computational_exploratory
+2024-12,Hate / discrimination,0.0,2024,12,0.0,computational_exploratory
+2025-01,Hate / discrimination,0.0,2025,1,0.0,computational_exploratory
+2025-02,Hate / discrimination,0.0,2025,2,0.0,computational_exploratory
+2025-03,Hate / discrimination,1.0,2025,3,0.03225806451612903,computational_exploratory
+2025-04,Hate / discrimination,1.0,2025,4,0.03333333333333333,computational_exploratory
+2025-05,Hate / discrimination,1.0,2025,5,0.03225806451612903,computational_exploratory
+2025-06,Hate / discrimination,1.0,2025,6,0.03333333333333333,computational_exploratory
+2025-07,Hate / discrimination,2.0,2025,7,0.06451612903225806,computational_exploratory
+2025-08,Hate / discrimination,4.0,2025,8,0.12903225806451613,computational_exploratory
+2025-09,Hate / discrimination,5.0,2025,9,0.16666666666666666,computational_exploratory
+2025-10,Hate / discrimination,2.0,2025,10,0.06451612903225806,computational_exploratory
+2025-11,Hate / discrimination,2.0,2025,11,0.06666666666666667,computational_exploratory
+2025-12,Hate / discrimination,2.0,2025,12,0.06451612903225806,computational_exploratory
+2021-01,Environmental / regulatory,2.0,2021,1,0.06451612903225806,computational_exploratory
+2021-02,Environmental / regulatory,0.0,2021,2,0.0,computational_exploratory
+2021-03,Environmental / regulatory,1.0,2021,3,0.03225806451612903,computational_exploratory
+2021-04,Environmental / regulatory,2.0,2021,4,0.06666666666666667,computational_exploratory
+2021-05,Environmental / regulatory,0.0,2021,5,0.0,computational_exploratory
+2021-06,Environmental / regulatory,0.0,2021,6,0.0,computational_exploratory
+2021-07,Environmental / regulatory,0.0,2021,7,0.0,computational_exploratory
+2021-08,Environmental / regulatory,0.0,2021,8,0.0,computational_exploratory
+2021-09,Environmental / regulatory,0.0,2021,9,0.0,computational_exploratory
+2021-10,Environmental / regulatory,1.0,2021,10,0.03225806451612903,computational_exploratory
+2021-11,Environmental / regulatory,0.0,2021,11,0.0,computational_exploratory
+2021-12,Environmental / regulatory,1.0,2021,12,0.03225806451612903,computational_exploratory
+2022-01,Environmental / regulatory,1.0,2022,1,0.03225806451612903,computational_exploratory
+2022-02,Environmental / regulatory,1.0,2022,2,0.03571428571428571,computational_exploratory
+2022-03,Environmental / regulatory,0.0,2022,3,0.0,computational_exploratory
+2022-04,Environmental / regulatory,1.0,2022,4,0.03333333333333333,computational_exploratory
+2022-05,Environmental / regulatory,0.0,2022,5,0.0,computational_exploratory
+2022-06,Environmental / regulatory,2.0,2022,6,0.06666666666666667,computational_exploratory
+2022-07,Environmental / regulatory,0.0,2022,7,0.0,computational_exploratory
+2022-08,Environmental / regulatory,1.0,2022,8,0.03225806451612903,computational_exploratory
+2022-09,Environmental / regulatory,1.0,2022,9,0.03333333333333333,computational_exploratory
+2022-10,Environmental / regulatory,1.0,2022,10,0.03225806451612903,computational_exploratory
+2022-11,Environmental / regulatory,3.0,2022,11,0.1,computational_exploratory
+2022-12,Environmental / regulatory,1.0,2022,12,0.03225806451612903,computational_exploratory
+2023-01,Environmental / regulatory,2.0,2023,1,0.06451612903225806,computational_exploratory
+2023-02,Environmental / regulatory,2.0,2023,2,0.07142857142857142,computational_exploratory
+2023-03,Environmental / regulatory,1.0,2023,3,0.03225806451612903,computational_exploratory
+2023-04,Environmental / regulatory,1.0,2023,4,0.03333333333333333,computational_exploratory
+2023-05,Environmental / regulatory,0.0,2023,5,0.0,computational_exploratory
+2023-06,Environmental / regulatory,2.0,2023,6,0.06666666666666667,computational_exploratory
+2023-07,Environmental / regulatory,2.0,2023,7,0.06451612903225806,computational_exploratory
+2023-08,Environmental / regulatory,1.0,2023,8,0.03225806451612903,computational_exploratory
+2023-09,Environmental / regulatory,0.0,2023,9,0.0,computational_exploratory
+2023-10,Environmental / regulatory,1.0,2023,10,0.03225806451612903,computational_exploratory
+2023-11,Environmental / regulatory,0.0,2023,11,0.0,computational_exploratory
+2023-12,Environmental / regulatory,1.0,2023,12,0.03225806451612903,computational_exploratory
+2024-01,Environmental / regulatory,0.0,2024,1,0.0,computational_exploratory
+2024-02,Environmental / regulatory,0.0,2024,2,0.0,computational_exploratory
+2024-03,Environmental / regulatory,0.0,2024,3,0.0,computational_exploratory
+2024-04,Environmental / regulatory,0.0,2024,4,0.0,computational_exploratory
+2024-05,Environmental / regulatory,0.0,2024,5,0.0,computational_exploratory
+2024-06,Environmental / regulatory,0.0,2024,6,0.0,computational_exploratory
+2024-07,Environmental / regulatory,1.0,2024,7,0.03225806451612903,computational_exploratory
+2024-08,Environmental / regulatory,2.0,2024,8,0.06451612903225806,computational_exploratory
+2024-09,Environmental / regulatory,3.0,2024,9,0.1,computational_exploratory
+2024-10,Environmental / regulatory,3.0,2024,10,0.0967741935483871,computational_exploratory
+2024-11,Environmental / regulatory,1.0,2024,11,0.03333333333333333,computational_exploratory
+2024-12,Environmental / regulatory,0.0,2024,12,0.0,computational_exploratory
+2025-01,Environmental / regulatory,1.0,2025,1,0.03225806451612903,computational_exploratory
+2025-02,Environmental / regulatory,2.0,2025,2,0.07142857142857142,computational_exploratory
+2025-03,Environmental / regulatory,0.0,2025,3,0.0,computational_exploratory
+2025-04,Environmental / regulatory,3.0,2025,4,0.1,computational_exploratory
+2025-05,Environmental / regulatory,2.0,2025,5,0.06451612903225806,computational_exploratory
+2025-06,Environmental / regulatory,3.0,2025,6,0.1,computational_exploratory
+2025-07,Environmental / regulatory,0.0,2025,7,0.0,computational_exploratory
+2025-08,Environmental / regulatory,1.0,2025,8,0.03225806451612903,computational_exploratory
+2025-09,Environmental / regulatory,1.0,2025,9,0.03333333333333333,computational_exploratory
+2025-10,Environmental / regulatory,1.0,2025,10,0.03225806451612903,computational_exploratory
+2025-11,Environmental / regulatory,0.0,2025,11,0.0,computational_exploratory
+2025-12,Environmental / regulatory,0.0,2025,12,0.0,computational_exploratory
+2021-01,Non-traffic accidents / death investigations,0.0,2021,1,0.0,computational_exploratory
+2021-02,Non-traffic accidents / death investigations,1.0,2021,2,0.03571428571428571,computational_exploratory
+2021-03,Non-traffic accidents / death investigations,0.0,2021,3,0.0,computational_exploratory
+2021-04,Non-traffic accidents / death investigations,0.0,2021,4,0.0,computational_exploratory
+2021-05,Non-traffic accidents / death investigations,1.0,2021,5,0.03225806451612903,computational_exploratory
+2021-06,Non-traffic accidents / death investigations,2.0,2021,6,0.06666666666666667,computational_exploratory
+2021-07,Non-traffic accidents / death investigations,2.0,2021,7,0.06451612903225806,computational_exploratory
+2021-08,Non-traffic accidents / death investigations,0.0,2021,8,0.0,computational_exploratory
+2021-09,Non-traffic accidents / death investigations,0.0,2021,9,0.0,computational_exploratory
+2021-10,Non-traffic accidents / death investigations,0.0,2021,10,0.0,computational_exploratory
+2021-11,Non-traffic accidents / death investigations,0.0,2021,11,0.0,computational_exploratory
+2021-12,Non-traffic accidents / death investigations,0.0,2021,12,0.0,computational_exploratory
+2022-01,Non-traffic accidents / death investigations,1.0,2022,1,0.03225806451612903,computational_exploratory
+2022-02,Non-traffic accidents / death investigations,0.0,2022,2,0.0,computational_exploratory
+2022-03,Non-traffic accidents / death investigations,0.0,2022,3,0.0,computational_exploratory
+2022-04,Non-traffic accidents / death investigations,0.0,2022,4,0.0,computational_exploratory
+2022-05,Non-traffic accidents / death investigations,0.0,2022,5,0.0,computational_exploratory
+2022-06,Non-traffic accidents / death investigations,1.0,2022,6,0.03333333333333333,computational_exploratory
+2022-07,Non-traffic accidents / death investigations,1.0,2022,7,0.03225806451612903,computational_exploratory
+2022-08,Non-traffic accidents / death investigations,3.0,2022,8,0.0967741935483871,computational_exploratory
+2022-09,Non-traffic accidents / death investigations,1.0,2022,9,0.03333333333333333,computational_exploratory
+2022-10,Non-traffic accidents / death investigations,0.0,2022,10,0.0,computational_exploratory
+2022-11,Non-traffic accidents / death investigations,0.0,2022,11,0.0,computational_exploratory
+2022-12,Non-traffic accidents / death investigations,1.0,2022,12,0.03225806451612903,computational_exploratory
+2023-01,Non-traffic accidents / death investigations,0.0,2023,1,0.0,computational_exploratory
+2023-02,Non-traffic accidents / death investigations,0.0,2023,2,0.0,computational_exploratory
+2023-03,Non-traffic accidents / death investigations,1.0,2023,3,0.03225806451612903,computational_exploratory
+2023-04,Non-traffic accidents / death investigations,0.0,2023,4,0.0,computational_exploratory
+2023-05,Non-traffic accidents / death investigations,0.0,2023,5,0.0,computational_exploratory
+2023-06,Non-traffic accidents / death investigations,0.0,2023,6,0.0,computational_exploratory
+2023-07,Non-traffic accidents / death investigations,0.0,2023,7,0.0,computational_exploratory
+2023-08,Non-traffic accidents / death investigations,0.0,2023,8,0.0,computational_exploratory
+2023-09,Non-traffic accidents / death investigations,0.0,2023,9,0.0,computational_exploratory
+2023-10,Non-traffic accidents / death investigations,0.0,2023,10,0.0,computational_exploratory
+2023-11,Non-traffic accidents / death investigations,0.0,2023,11,0.0,computational_exploratory
+2023-12,Non-traffic accidents / death investigations,0.0,2023,12,0.0,computational_exploratory
+2024-01,Non-traffic accidents / death investigations,1.0,2024,1,0.03225806451612903,computational_exploratory
+2024-02,Non-traffic accidents / death investigations,0.0,2024,2,0.0,computational_exploratory
+2024-03,Non-traffic accidents / death investigations,1.0,2024,3,0.03225806451612903,computational_exploratory
+2024-04,Non-traffic accidents / death investigations,1.0,2024,4,0.03333333333333333,computational_exploratory
+2024-05,Non-traffic accidents / death investigations,0.0,2024,5,0.0,computational_exploratory
+2024-06,Non-traffic accidents / death investigations,2.0,2024,6,0.06666666666666667,computational_exploratory
+2024-07,Non-traffic accidents / death investigations,1.0,2024,7,0.03225806451612903,computational_exploratory
+2024-08,Non-traffic accidents / death investigations,3.0,2024,8,0.0967741935483871,computational_exploratory
+2024-09,Non-traffic accidents / death investigations,1.0,2024,9,0.03333333333333333,computational_exploratory
+2024-10,Non-traffic accidents / death investigations,2.0,2024,10,0.06451612903225806,computational_exploratory
+2024-11,Non-traffic accidents / death investigations,1.0,2024,11,0.03333333333333333,computational_exploratory
+2024-12,Non-traffic accidents / death investigations,0.0,2024,12,0.0,computational_exploratory
+2025-01,Non-traffic accidents / death investigations,0.0,2025,1,0.0,computational_exploratory
+2025-02,Non-traffic accidents / death investigations,0.0,2025,2,0.0,computational_exploratory
+2025-03,Non-traffic accidents / death investigations,0.0,2025,3,0.0,computational_exploratory
+2025-04,Non-traffic accidents / death investigations,0.0,2025,4,0.0,computational_exploratory
+2025-05,Non-traffic accidents / death investigations,0.0,2025,5,0.0,computational_exploratory
+2025-06,Non-traffic accidents / death investigations,3.0,2025,6,0.1,computational_exploratory
+2025-07,Non-traffic accidents / death investigations,1.0,2025,7,0.03225806451612903,computational_exploratory
+2025-08,Non-traffic accidents / death investigations,0.0,2025,8,0.0,computational_exploratory
+2025-09,Non-traffic accidents / death investigations,0.0,2025,9,0.0,computational_exploratory
+2025-10,Non-traffic accidents / death investigations,1.0,2025,10,0.03225806451612903,computational_exploratory
+2025-11,Non-traffic accidents / death investigations,1.0,2025,11,0.03333333333333333,computational_exploratory
+2025-12,Non-traffic accidents / death investigations,0.0,2025,12,0.0,computational_exploratory
+2021-01,Unknown/Unclear,22.0,2021,1,0.7096774193548387,computational_exploratory
+2021-02,Unknown/Unclear,23.0,2021,2,0.8214285714285714,computational_exploratory
+2021-03,Unknown/Unclear,13.0,2021,3,0.41935483870967744,computational_exploratory
+2021-04,Unknown/Unclear,28.0,2021,4,0.9333333333333333,computational_exploratory
+2021-05,Unknown/Unclear,20.0,2021,5,0.6451612903225806,computational_exploratory
+2021-06,Unknown/Unclear,24.0,2021,6,0.8,computational_exploratory
+2021-07,Unknown/Unclear,27.0,2021,7,0.8709677419354839,computational_exploratory
+2021-08,Unknown/Unclear,25.0,2021,8,0.8064516129032258,computational_exploratory
+2021-09,Unknown/Unclear,20.0,2021,9,0.6666666666666666,computational_exploratory
+2021-10,Unknown/Unclear,16.0,2021,10,0.5161290322580645,computational_exploratory
+2021-11,Unknown/Unclear,18.0,2021,11,0.6,computational_exploratory
+2021-12,Unknown/Unclear,16.0,2021,12,0.5161290322580645,computational_exploratory
+2022-01,Unknown/Unclear,19.0,2022,1,0.6129032258064516,computational_exploratory
+2022-02,Unknown/Unclear,19.0,2022,2,0.6785714285714286,computational_exploratory
+2022-03,Unknown/Unclear,13.0,2022,3,0.41935483870967744,computational_exploratory
+2022-04,Unknown/Unclear,18.0,2022,4,0.6,computational_exploratory
+2022-05,Unknown/Unclear,12.0,2022,5,0.3870967741935484,computational_exploratory
+2022-06,Unknown/Unclear,23.0,2022,6,0.7666666666666667,computational_exploratory
+2022-07,Unknown/Unclear,18.0,2022,7,0.5806451612903226,computational_exploratory
+2022-08,Unknown/Unclear,27.0,2022,8,0.8709677419354839,computational_exploratory
+2022-09,Unknown/Unclear,23.0,2022,9,0.7666666666666667,computational_exploratory
+2022-10,Unknown/Unclear,14.0,2022,10,0.45161290322580644,computational_exploratory
+2022-11,Unknown/Unclear,15.0,2022,11,0.5,computational_exploratory
+2022-12,Unknown/Unclear,14.0,2022,12,0.45161290322580644,computational_exploratory
+2023-01,Unknown/Unclear,9.0,2023,1,0.2903225806451613,computational_exploratory
+2023-02,Unknown/Unclear,22.0,2023,2,0.7857142857142857,computational_exploratory
+2023-03,Unknown/Unclear,13.0,2023,3,0.41935483870967744,computational_exploratory
+2023-04,Unknown/Unclear,19.0,2023,4,0.6333333333333333,computational_exploratory
+2023-05,Unknown/Unclear,26.0,2023,5,0.8387096774193549,computational_exploratory
+2023-06,Unknown/Unclear,29.0,2023,6,0.9666666666666667,computational_exploratory
+2023-07,Unknown/Unclear,16.0,2023,7,0.5161290322580645,computational_exploratory
+2023-08,Unknown/Unclear,14.0,2023,8,0.45161290322580644,computational_exploratory
+2023-09,Unknown/Unclear,21.0,2023,9,0.7,computational_exploratory
+2023-10,Unknown/Unclear,17.0,2023,10,0.5483870967741935,computational_exploratory
+2023-11,Unknown/Unclear,24.0,2023,11,0.8,computational_exploratory
+2023-12,Unknown/Unclear,16.0,2023,12,0.5161290322580645,computational_exploratory
+2024-01,Unknown/Unclear,23.0,2024,1,0.7419354838709677,computational_exploratory
+2024-02,Unknown/Unclear,27.0,2024,2,0.9310344827586207,computational_exploratory
+2024-03,Unknown/Unclear,19.0,2024,3,0.6129032258064516,computational_exploratory
+2024-04,Unknown/Unclear,20.0,2024,4,0.6666666666666666,computational_exploratory
+2024-05,Unknown/Unclear,26.0,2024,5,0.8387096774193549,computational_exploratory
+2024-06,Unknown/Unclear,22.0,2024,6,0.7333333333333333,computational_exploratory
+2024-07,Unknown/Unclear,16.0,2024,7,0.5161290322580645,computational_exploratory
+2024-08,Unknown/Unclear,19.0,2024,8,0.6129032258064516,computational_exploratory
+2024-09,Unknown/Unclear,17.0,2024,9,0.5666666666666667,computational_exploratory
+2024-10,Unknown/Unclear,15.0,2024,10,0.4838709677419355,computational_exploratory
+2024-11,Unknown/Unclear,17.0,2024,11,0.5666666666666667,computational_exploratory
+2024-12,Unknown/Unclear,19.0,2024,12,0.6129032258064516,computational_exploratory
+2025-01,Unknown/Unclear,19.0,2025,1,0.6129032258064516,computational_exploratory
+2025-02,Unknown/Unclear,21.0,2025,2,0.75,computational_exploratory
+2025-03,Unknown/Unclear,20.0,2025,3,0.6451612903225806,computational_exploratory
+2025-04,Unknown/Unclear,24.0,2025,4,0.8,computational_exploratory
+2025-05,Unknown/Unclear,18.0,2025,5,0.5806451612903226,computational_exploratory
+2025-06,Unknown/Unclear,17.0,2025,6,0.5666666666666667,computational_exploratory
+2025-07,Unknown/Unclear,23.0,2025,7,0.7419354838709677,computational_exploratory
+2025-08,Unknown/Unclear,23.0,2025,8,0.7419354838709677,computational_exploratory
+2025-09,Unknown/Unclear,10.0,2025,9,0.3333333333333333,computational_exploratory
+2025-10,Unknown/Unclear,22.0,2025,10,0.7096774193548387,computational_exploratory
+2025-11,Unknown/Unclear,14.0,2025,11,0.4666666666666667,computational_exploratory
+2025-12,Unknown/Unclear,16.0,2025,12,0.5161290322580645,computational_exploratory
+2021-01,Unassigned (model noise),6.0,2021,1,0.1935483870967742,computational_exploratory
+2021-02,Unassigned (model noise),3.0,2021,2,0.10714285714285714,computational_exploratory
+2021-03,Unassigned (model noise),6.0,2021,3,0.1935483870967742,computational_exploratory
+2021-04,Unassigned (model noise),2.0,2021,4,0.06666666666666667,computational_exploratory
+2021-05,Unassigned (model noise),4.0,2021,5,0.12903225806451613,computational_exploratory
+2021-06,Unassigned (model noise),2.0,2021,6,0.06666666666666667,computational_exploratory
+2021-07,Unassigned (model noise),6.0,2021,7,0.1935483870967742,computational_exploratory
+2021-08,Unassigned (model noise),6.0,2021,8,0.1935483870967742,computational_exploratory
+2021-09,Unassigned (model noise),6.0,2021,9,0.2,computational_exploratory
+2021-10,Unassigned (model noise),5.0,2021,10,0.16129032258064516,computational_exploratory
+2021-11,Unassigned (model noise),6.0,2021,11,0.2,computational_exploratory
+2021-12,Unassigned (model noise),8.0,2021,12,0.25806451612903225,computational_exploratory
+2022-01,Unassigned (model noise),5.0,2022,1,0.16129032258064516,computational_exploratory
+2022-02,Unassigned (model noise),10.0,2022,2,0.35714285714285715,computational_exploratory
+2022-03,Unassigned (model noise),7.0,2022,3,0.22580645161290322,computational_exploratory
+2022-04,Unassigned (model noise),2.0,2022,4,0.06666666666666667,computational_exploratory
+2022-05,Unassigned (model noise),6.0,2022,5,0.1935483870967742,computational_exploratory
+2022-06,Unassigned (model noise),3.0,2022,6,0.1,computational_exploratory
+2022-07,Unassigned (model noise),6.0,2022,7,0.1935483870967742,computational_exploratory
+2022-08,Unassigned (model noise),4.0,2022,8,0.12903225806451613,computational_exploratory
+2022-09,Unassigned (model noise),3.0,2022,9,0.1,computational_exploratory
+2022-10,Unassigned (model noise),2.0,2022,10,0.06451612903225806,computational_exploratory
+2022-11,Unassigned (model noise),3.0,2022,11,0.1,computational_exploratory
+2022-12,Unassigned (model noise),4.0,2022,12,0.12903225806451613,computational_exploratory
+2023-01,Unassigned (model noise),1.0,2023,1,0.03225806451612903,computational_exploratory
+2023-02,Unassigned (model noise),3.0,2023,2,0.10714285714285714,computational_exploratory
+2023-03,Unassigned (model noise),5.0,2023,3,0.16129032258064516,computational_exploratory
+2023-04,Unassigned (model noise),2.0,2023,4,0.06666666666666667,computational_exploratory
+2023-05,Unassigned (model noise),3.0,2023,5,0.0967741935483871,computational_exploratory
+2023-06,Unassigned (model noise),8.0,2023,6,0.26666666666666666,computational_exploratory
+2023-07,Unassigned (model noise),2.0,2023,7,0.06451612903225806,computational_exploratory
+2023-08,Unassigned (model noise),6.0,2023,8,0.1935483870967742,computational_exploratory
+2023-09,Unassigned (model noise),4.0,2023,9,0.13333333333333333,computational_exploratory
+2023-10,Unassigned (model noise),6.0,2023,10,0.1935483870967742,computational_exploratory
+2023-11,Unassigned (model noise),5.0,2023,11,0.16666666666666666,computational_exploratory
+2023-12,Unassigned (model noise),0.0,2023,12,0.0,computational_exploratory
+2024-01,Unassigned (model noise),3.0,2024,1,0.0967741935483871,computational_exploratory
+2024-02,Unassigned (model noise),5.0,2024,2,0.1724137931034483,computational_exploratory
+2024-03,Unassigned (model noise),1.0,2024,3,0.03225806451612903,computational_exploratory
+2024-04,Unassigned (model noise),6.0,2024,4,0.2,computational_exploratory
+2024-05,Unassigned (model noise),3.0,2024,5,0.0967741935483871,computational_exploratory
+2024-06,Unassigned (model noise),6.0,2024,6,0.2,computational_exploratory
+2024-07,Unassigned (model noise),8.0,2024,7,0.25806451612903225,computational_exploratory
+2024-08,Unassigned (model noise),5.0,2024,8,0.16129032258064516,computational_exploratory
+2024-09,Unassigned (model noise),4.0,2024,9,0.13333333333333333,computational_exploratory
+2024-10,Unassigned (model noise),1.0,2024,10,0.03225806451612903,computational_exploratory
+2024-11,Unassigned (model noise),3.0,2024,11,0.1,computational_exploratory
+2024-12,Unassigned (model noise),3.0,2024,12,0.0967741935483871,computational_exploratory
+2025-01,Unassigned (model noise),5.0,2025,1,0.16129032258064516,computational_exploratory
+2025-02,Unassigned (model noise),8.0,2025,2,0.2857142857142857,computational_exploratory
+2025-03,Unassigned (model noise),3.0,2025,3,0.0967741935483871,computational_exploratory
+2025-04,Unassigned (model noise),2.0,2025,4,0.06666666666666667,computational_exploratory
+2025-05,Unassigned (model noise),1.0,2025,5,0.03225806451612903,computational_exploratory
+2025-06,Unassigned (model noise),2.0,2025,6,0.06666666666666667,computational_exploratory
+2025-07,Unassigned (model noise),8.0,2025,7,0.25806451612903225,computational_exploratory
+2025-08,Unassigned (model noise),8.0,2025,8,0.25806451612903225,computational_exploratory
+2025-09,Unassigned (model noise),8.0,2025,9,0.26666666666666666,computational_exploratory
+2025-10,Unassigned (model noise),2.0,2025,10,0.06451612903225806,computational_exploratory
+2025-11,Unassigned (model noise),2.0,2025,11,0.06666666666666667,computational_exploratory
+2025-12,Unassigned (model noise),7.0,2025,12,0.22580645161290322,computational_exploratory

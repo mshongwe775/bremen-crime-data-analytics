@@ -1,0 +1,1928 @@
+{
+  "prepared_sha256": "bf64238b7f929551cf20dadcdd314fa8bf17efe2cd7eab6174fd44dab1a1c139",
+  "seed": 42,
+  "excluded_development_ids": [
+    "BR000000",
+    "BR000001",
+    "BR000002",
+    "BR000003",
+    "BR000004",
+    "BR000005",
+    "BR000006",
+    "BR000007",
+    "BR000008",
+    "BR000009",
+    "BR000011",
+    "BR000031",
+    "BR000068",
+    "BR000077",
+    "BR000079",
+    "BR000080",
+    "BR000107",
+    "BR000108",
+    "BR000120",
+    "BR000126",
+    "BR000128",
+    "BR000130",
+    "BR000134",
+    "BR000141",
+    "BR000155",
+    "BR000169",
+    "BR000172",
+    "BR000175",
+    "BR000179",
+    "BR000184",
+    "BR000187",
+    "BR000200",
+    "BR000217",
+    "BR000221",
+    "BR000222",
+    "BR000227",
+    "BR000231",
+    "BR000232",
+    "BR000256",
+    "BR000264",
+    "BR000269",
+    "BR000273",
+    "BR000274",
+    "BR000275",
+    "BR000285",
+    "BR000289",
+    "BR000296",
+    "BR000303",
+    "BR000342",
+    "BR000352",
+    "BR000360",
+    "BR000366",
+    "BR000371",
+    "BR000374",
+    "BR000381",
+    "BR000390",
+    "BR000400",
+    "BR000411",
+    "BR000418",
+    "BR000420",
+    "BR000423",
+    "BR000429",
+    "BR000431",
+    "BR000445",
+    "BR000448",
+    "BR000462",
+    "BR000464",
+    "BR000476",
+    "BR000481",
+    "BR000485",
+    "BR000486",
+    "BR000490",
+    "BR000496",
+    "BR000504",
+    "BR000505",
+    "BR000524",
+    "BR000530",
+    "BR000539",
+    "BR000542",
+    "BR000551",
+    "BR000552",
+    "BR000580",
+    "BR000591",
+    "BR000597",
+    "BR000609",
+    "BR000621",
+    "BR000624",
+    "BR000628",
+    "BR000638",
+    "BR000647",
+    "BR000664",
+    "BR000669",
+    "BR000675",
+    "BR000681",
+    "BR000685",
+    "BR000708",
+    "BR000710",
+    "BR000718",
+    "BR000723",
+    "BR000735",
+    "BR000736",
+    "BR000738",
+    "BR000745",
+    "BR000749",
+    "BR000753",
+    "BR000754",
+    "BR000755",
+    "BR000758",
+    "BR000763",
+    "BR000764",
+    "BR000773",
+    "BR000778",
+    "BR000782",
+    "BR000798",
+    "BR000799",
+    "BR000810",
+    "BR000818",
+    "BR000820",
+    "BR000822",
+    "BR000826",
+    "BR000830",
+    "BR000832",
+    "BR000851",
+    "BR000859",
+    "BR000863",
+    "BR000878",
+    "BR000883",
+    "BR000884",
+    "BR000888",
+    "BR000903",
+    "BR000919",
+    "BR000939",
+    "BR000955",
+    "BR000956",
+    "BR000959",
+    "BR000968",
+    "BR000972",
+    "BR000976",
+    "BR000983",
+    "BR000985",
+    "BR001010",
+    "BR001012",
+    "BR001016",
+    "BR001017",
+    "BR001023",
+    "BR001025",
+    "BR001029",
+    "BR001038",
+    "BR001041",
+    "BR001067",
+    "BR001069",
+    "BR001108",
+    "BR001128",
+    "BR001130",
+    "BR001135",
+    "BR001139",
+    "BR001144",
+    "BR001149",
+    "BR001179",
+    "BR001187",
+    "BR001193",
+    "BR001197",
+    "BR001202",
+    "BR001211",
+    "BR001218",
+    "BR001233",
+    "BR001235",
+    "BR001248",
+    "BR001259",
+    "BR001266",
+    "BR001269",
+    "BR001276",
+    "BR001277",
+    "BR001281",
+    "BR001286",
+    "BR001295",
+    "BR001300",
+    "BR001334",
+    "BR001335",
+    "BR001344",
+    "BR001349",
+    "BR001353",
+    "BR001359",
+    "BR001363",
+    "BR001370",
+    "BR001375",
+    "BR001379",
+    "BR001380",
+    "BR001383",
+    "BR001384",
+    "BR001425",
+    "BR001436",
+    "BR001448",
+    "BR001453",
+    "BR001458",
+    "BR001461",
+    "BR001465",
+    "BR001472",
+    "BR001474",
+    "BR001475",
+    "BR001489",
+    "BR001514",
+    "BR001541",
+    "BR001542",
+    "BR001548",
+    "BR001554",
+    "BR001568",
+    "BR001569",
+    "BR001574",
+    "BR001579",
+    "BR001582",
+    "BR001583",
+    "BR001586",
+    "BR001587",
+    "BR001589",
+    "BR001598",
+    "BR001605",
+    "BR001616",
+    "BR001625",
+    "BR001627",
+    "BR001632",
+    "BR001634",
+    "BR001664",
+    "BR001668",
+    "BR001673",
+    "BR001679",
+    "BR001684",
+    "BR001702",
+    "BR001704",
+    "BR001719",
+    "BR001722",
+    "BR001731",
+    "BR001738",
+    "BR001745",
+    "BR001749",
+    "BR001787",
+    "BR001789",
+    "BR001792",
+    "BR001797",
+    "BR001814",
+    "BR001819",
+    "BR001827",
+    "BR001835",
+    "BR001836",
+    "BR001838",
+    "BR001862",
+    "BR001865",
+    "BR001868",
+    "BR001873",
+    "BR001880",
+    "BR001903",
+    "BR001907",
+    "BR001912",
+    "BR001913",
+    "BR001922",
+    "BR001928",
+    "BR001936",
+    "BR001937",
+    "BR001940",
+    "BR001944",
+    "BR001946",
+    "BR001971",
+    "BR001985",
+    "BR001987",
+    "BR001995",
+    "BR001996",
+    "BR002001",
+    "BR002006",
+    "BR002009",
+    "BR002014",
+    "BR002018",
+    "BR002024",
+    "BR002028",
+    "BR002030",
+    "BR002057",
+    "BR002058",
+    "BR002060",
+    "BR002068",
+    "BR002070",
+    "BR002080",
+    "BR002081",
+    "BR002094",
+    "BR002096",
+    "BR002102",
+    "BR002108",
+    "BR002113",
+    "BR002114",
+    "BR002121",
+    "BR002127",
+    "BR002138",
+    "BR002146",
+    "BR002158",
+    "BR002170",
+    "BR002173",
+    "BR002174",
+    "BR002175",
+    "BR002183",
+    "BR002192",
+    "BR002197",
+    "BR002210",
+    "BR002213",
+    "BR002215",
+    "BR002222",
+    "BR002228",
+    "BR002237",
+    "BR002254",
+    "BR002259",
+    "BR002264",
+    "BR002293",
+    "BR002294",
+    "BR002295",
+    "BR002298",
+    "BR002301",
+    "BR002302",
+    "BR002308",
+    "BR002309",
+    "BR002311",
+    "BR002315",
+    "BR002317",
+    "BR002324",
+    "BR002325",
+    "BR002335",
+    "BR002339",
+    "BR002344",
+    "BR002354",
+    "BR002358",
+    "BR002366",
+    "BR002368",
+    "BR002384",
+    "BR002387",
+    "BR002389",
+    "BR002397",
+    "BR002399",
+    "BR002400",
+    "BR002402",
+    "BR002406",
+    "BR002409",
+    "BR002414",
+    "BR002419",
+    "BR002436",
+    "BR002442",
+    "BR002449",
+    "BR002451",
+    "BR002458",
+    "BR002460",
+    "BR002467",
+    "BR002474",
+    "BR002477",
+    "BR002481",
+    "BR002488",
+    "BR002496",
+    "BR002516",
+    "BR002522",
+    "BR002524",
+    "BR002532",
+    "BR002544",
+    "BR002545",
+    "BR002548",
+    "BR002553",
+    "BR002568",
+    "BR002570",
+    "BR002591",
+    "BR002595",
+    "BR002597",
+    "BR002604",
+    "BR002613",
+    "BR002622",
+    "BR002632",
+    "BR002634",
+    "BR002636",
+    "BR002641",
+    "BR002648",
+    "BR002651",
+    "BR002652",
+    "BR002657",
+    "BR002668",
+    "BR002673",
+    "BR002678",
+    "BR002679",
+    "BR002681",
+    "BR002730",
+    "BR002732",
+    "BR002733",
+    "BR002744",
+    "BR002745",
+    "BR002753",
+    "BR002767",
+    "BR002774",
+    "BR002775",
+    "BR002776",
+    "BR002793",
+    "BR002799",
+    "BR002803",
+    "BR002817",
+    "BR002827",
+    "BR002833",
+    "BR002845",
+    "BR002846",
+    "BR002850",
+    "BR002854",
+    "BR002856",
+    "BR002870",
+    "BR002877",
+    "BR002885",
+    "BR002889",
+    "BR002898",
+    "BR002899",
+    "BR002908",
+    "BR002940",
+    "BR002950",
+    "BR002955",
+    "BR002956",
+    "BR002960",
+    "BR002966",
+    "BR002967",
+    "BR002976",
+    "BR002980",
+    "BR002982",
+    "BR002993",
+    "BR002996",
+    "BR002997",
+    "BR002999",
+    "BR003004",
+    "BR003036",
+    "BR003042",
+    "BR003057",
+    "BR003059",
+    "BR003078",
+    "BR003092",
+    "BR003109",
+    "BR003112",
+    "BR003116",
+    "BR003117",
+    "BR003125",
+    "BR003129",
+    "BR003141",
+    "BR003144",
+    "BR003156",
+    "BR003161",
+    "BR003163",
+    "BR003166",
+    "BR003168",
+    "BR003169",
+    "BR003179",
+    "BR003180",
+    "BR003182",
+    "BR003183",
+    "BR003209",
+    "BR003214",
+    "BR003219",
+    "BR003221",
+    "BR003225",
+    "BR003226",
+    "BR003233",
+    "BR003234",
+    "BR003242",
+    "BR003251",
+    "BR003253",
+    "BR003255",
+    "BR003258",
+    "BR003270",
+    "BR003277",
+    "BR003287",
+    "BR003294",
+    "BR003299",
+    "BR003305",
+    "BR003306",
+    "BR003322",
+    "BR003334",
+    "BR003338",
+    "BR003340",
+    "BR003353",
+    "BR003354",
+    "BR003357",
+    "BR003361",
+    "BR003362",
+    "BR003370",
+    "BR003372",
+    "BR003379",
+    "BR003409",
+    "BR003410",
+    "BR003411",
+    "BR003413",
+    "BR003431",
+    "BR003439",
+    "BR003453",
+    "BR003460",
+    "BR003466",
+    "BR003468",
+    "BR003469",
+    "BR003476",
+    "BR003479",
+    "BR003483",
+    "BR003486",
+    "BR003497",
+    "BR003503",
+    "BR003509",
+    "BR003518",
+    "BR003519",
+    "BR003542",
+    "BR003559",
+    "BR003567",
+    "BR003571",
+    "BR003573",
+    "BR003579",
+    "BR003583",
+    "BR003588",
+    "BR003591",
+    "BR003597",
+    "BR003611",
+    "BR003633",
+    "BR003657",
+    "BR003658",
+    "BR003671",
+    "BR003677",
+    "BR003683",
+    "BR003686",
+    "BR003713",
+    "BR003731",
+    "BR003747",
+    "BR003770",
+    "BR003780",
+    "BR003786",
+    "BR003787",
+    "BR003794",
+    "BR003803",
+    "BR003812",
+    "BR003819",
+    "BR003835",
+    "BR003845",
+    "BR003856",
+    "BR003886",
+    "BR003889",
+    "BR003911",
+    "BR003922",
+    "BR003941",
+    "BR003953",
+    "BR003958",
+    "BR003965",
+    "BR003967",
+    "BR003971",
+    "BR003972",
+    "BR003973",
+    "BR003986",
+    "BR003992",
+    "BR003997",
+    "BR004007",
+    "BR004010",
+    "BR004014",
+    "BR004019",
+    "BR004020",
+    "BR004047",
+    "BR004058",
+    "BR004061",
+    "BR004062",
+    "BR004064",
+    "BR004065",
+    "BR004072",
+    "BR004074",
+    "BR004080",
+    "BR004092",
+    "BR004098",
+    "BR004106",
+    "BR004113",
+    "BR004119",
+    "BR004121",
+    "BR004146",
+    "BR004161",
+    "BR004175",
+    "BR004179",
+    "BR004184",
+    "BR004186",
+    "BR004190",
+    "BR004198",
+    "BR004204",
+    "BR004206",
+    "BR004209",
+    "BR004211",
+    "BR004216",
+    "BR004230",
+    "BR004232",
+    "BR004239",
+    "BR004240",
+    "BR004250",
+    "BR004251",
+    "BR004257",
+    "BR004258",
+    "BR004281",
+    "BR004295",
+    "BR004297",
+    "BR004300",
+    "BR004302",
+    "BR004305",
+    "BR004306",
+    "BR004307",
+    "BR004313",
+    "BR004321",
+    "BR004326",
+    "BR004331",
+    "BR004347",
+    "BR004356",
+    "BR004369",
+    "BR004370",
+    "BR004375",
+    "BR004383",
+    "BR004384",
+    "BR004391",
+    "BR004409",
+    "BR004415",
+    "BR004416",
+    "BR004417",
+    "BR004418",
+    "BR004423",
+    "BR004424",
+    "BR004426",
+    "BR004427",
+    "BR004431",
+    "BR004440",
+    "BR004441",
+    "BR004442",
+    "BR004451",
+    "BR004455",
+    "BR004464",
+    "BR004466",
+    "BR004474",
+    "BR004477",
+    "BR004483",
+    "BR004493",
+    "BR004500",
+    "BR004504",
+    "BR004510",
+    "BR004526",
+    "BR004529",
+    "BR004542",
+    "BR004552",
+    "BR004560",
+    "BR004561",
+    "BR004562",
+    "BR004567",
+    "BR004575",
+    "BR004580",
+    "BR004585",
+    "BR004589",
+    "BR004590",
+    "BR004604",
+    "BR004607",
+    "BR004617",
+    "BR004637",
+    "BR004642",
+    "BR004650",
+    "BR004668",
+    "BR004691",
+    "BR004693",
+    "BR004694",
+    "BR004748",
+    "BR004752",
+    "BR004761",
+    "BR004767",
+    "BR004775",
+    "BR004788",
+    "BR004789",
+    "BR004791",
+    "BR004794",
+    "BR004805",
+    "BR004807",
+    "BR004812",
+    "BR004815",
+    "BR004817",
+    "BR004821",
+    "BR004826",
+    "BR004827",
+    "BR004828",
+    "BR004838",
+    "BR004844",
+    "BR004846",
+    "BR004847",
+    "BR004857",
+    "BR004882",
+    "BR004894",
+    "BR004909",
+    "BR004911",
+    "BR004913",
+    "BR004916",
+    "BR004918",
+    "BR004944",
+    "BR004946",
+    "BR004959",
+    "BR004968",
+    "BR004979",
+    "BR004991",
+    "BR004994",
+    "BR005000",
+    "BR005004",
+    "BR005008",
+    "BR005022",
+    "BR005043",
+    "BR005051",
+    "BR005073",
+    "BR005076",
+    "BR005086",
+    "BR005087",
+    "BR005091",
+    "BR005100",
+    "BR005103",
+    "BR005104",
+    "BR005105"
+  ],
+  "strata": [
+    {
+      "report_id": "BR002580",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002319",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004992",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003329",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR001580",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003267",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003492",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002349",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004936",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003512",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004267",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000850",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004410",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002489",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000071",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000801",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004452",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000131",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002196",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000152",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000900",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002363",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR001435",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003890",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004262",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004036",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR001860",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000350",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002154",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003342",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR001703",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR003736",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000147",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR003487",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001726",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004168",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002156",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002250",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000416",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002605",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000135",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002893",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR003472",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001658",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004998",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002862",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004987",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004406",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004771",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000034",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000815",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001270",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR005042",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004001",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002090",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004377",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000734",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001518",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002119",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001930",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000413",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002953",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003024",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002195",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004193",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004202",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR001852",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR001615",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR000314",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002415",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004265",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002112",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR000844",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003725",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003721",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004757",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004087",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR005010",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR000623",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002270",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003247",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003987",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002802",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003436",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003650",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR001323",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR000639",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004229",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003404",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003032",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002567",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000441",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001324",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003195",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004276",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004134",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001818",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003089",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004169",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000570",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003206",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002120",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000409",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000797",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004714",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001215",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001366",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002129",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003622",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004078",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000251",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004486",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004296",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002278",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001438",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002122",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002573",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003208",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002333",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002970",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    }
+  ],
+  "rule": "30 per stratum, 15 per split; prior development exposure excluded",
+  "original_strata": [
+    {
+      "report_id": "BR002580",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002319",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004992",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003329",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR001580",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003267",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003492",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002349",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004936",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003512",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004267",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000850",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004410",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002489",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000071",
+      "review_split": "development",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000801",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004452",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000131",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002196",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000152",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000900",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003433",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR001435",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003890",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004262",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR004036",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR001860",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR000350",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR002154",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR003342",
+      "review_split": "held_out",
+      "stratum": "common"
+    },
+    {
+      "report_id": "BR001703",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR003736",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000147",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR003487",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001726",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004168",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002156",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002250",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000416",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002605",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000135",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002893",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR003472",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001658",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004998",
+      "review_split": "development",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002862",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004987",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004406",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004771",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000034",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000815",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001270",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR005042",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004001",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002090",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR004377",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000734",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001518",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR002119",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR001930",
+      "review_split": "held_out",
+      "stratum": "mixed_or_generic"
+    },
+    {
+      "report_id": "BR000413",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002953",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003024",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002195",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004193",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004202",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR001852",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR001615",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR000314",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002415",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004265",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002112",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR000844",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003725",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003721",
+      "review_split": "development",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004757",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004087",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR005010",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR000623",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002270",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003247",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003987",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002802",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003436",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003650",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR001323",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR000639",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR004229",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003404",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR003032",
+      "review_split": "held_out",
+      "stratum": "rare"
+    },
+    {
+      "report_id": "BR002567",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000441",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001324",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003195",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004276",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004134",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001818",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003089",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004169",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000570",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003206",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002120",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000409",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000797",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004714",
+      "review_split": "development",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001215",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001366",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002129",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003622",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004078",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR000251",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004486",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR004296",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002278",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR001438",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002122",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002573",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR003208",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002333",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    },
+    {
+      "report_id": "BR002970",
+      "review_split": "held_out",
+      "stratum": "unassigned"
+    }
+  ],
+  "held_out_replacements": [
+    {
+      "previous_report_id": "BR003433",
+      "replacement_report_id": "BR002363",
+      "stratum": "common",
+      "seed": 42,
+      "reason": "Potential published-example exposure; unannotated matched-stratum replacement"
+    }
+  ],
+  "replacement_protocol": "Sorted common eligible pool, same original stratum, seed42 + replacement index; exclude known examples and original sample IDs",
+  "scope": "Computational evaluation sample, not human reference labels. Same assistant assessed development and held-out sources; exposure limits independence."
+}

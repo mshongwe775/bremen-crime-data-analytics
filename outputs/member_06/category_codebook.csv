@@ -1,0 +1,16 @@
+crime_category,definition,inclusions,exclusions,example_report_id
+Traffic-related,Road collisions and driving/traffic enforcement,"Road injuries, driving violations, vehicle controls",Non-road accidents; crime merely near a road,BR003469
+Burglary,Intrusion or attempted entry to steal,"Homes, business or vehicle break-ins",Theft without entry; prevention-only notices,BR005000
+Theft,Taking property without established force/threat or break-in,Shoplifting and nonviolent property taking,Robbery; burglary; unresolved snatching,BR003413
+Robbery,Property taking/attempt with force or threat described,Armed store robbery and street mugging,Pure theft; force not established,BR004307
+Assault / threats,Violence or personal threats as main incident,"Knife injuries, attacks and threats",Road injury; no established violence,BR003466
+Fraud / deception,Dishonest inducement or impersonation to obtain assets,Investment/phone scams and fake utility workers,Robbery; unsupported suspicion,BR002228
+Drug-related,"Drug possession, supply or trafficking as main subject",Seizures and trafficking investigations,Driving impairment alone; mixed controls,BR001069
+Property damage,Intentional damage or graffiti,"Spraying, vandalism and damaged property",Fire/ordnance; unresolved political mixed reports,BR001514
+Fire / explosion / ordnance,"Fire, explosive incident or bomb-disposal report","Arson, unexplained fires, war-bomb disposal",Do not imply criminal intent for every event,BR001474
+Public events / police information,"Prevention, event logistics or public information","Football, assemblies, school-route notices",A substantive offense must not be hidden by event wording,BR004058
+Weapons-related,"Weapon discharge, possession or weapon-led operation",Gun/replica-gun incidents,Confirmed attack takes primary violence category,BR002295
+Hate / discrimination,"Hate motivation, prohibited symbols or discriminatory abuse",Hate postings and racist/homophobic incidents,Unestablished motivation; mixed unclear cases,BR003370
+Environmental / regulatory,Environmental or regulatory inspection incident,Water-pollution and shipping regulation cases,Road traffic; heterogeneous general operations,BR001475
+Non-traffic accidents / death investigations,Non-road accidental death or unresolved death inquiry,Swimming fatalities and non-road accidental harm,Established assault/homicide; road collisions,BR004232
+Unknown/Unclear,"Insufficient, mixed or generic evidence for a primary category","Noise, generic appeals, multiple competing incidents",Do not force a crime label from weak cues,BR001702

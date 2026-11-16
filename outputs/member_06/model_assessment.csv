@@ -1,0 +1,5 @@
+model_id,assessed_reports,matching_labels,ai_label_agreement,assessment_status
+nmf_titles,60,13,0.21666666666666667,ai_assisted_not_independent_human_reference
+nmf_descriptions,60,17,0.2833333333333333,ai_assisted_not_independent_human_reference
+bertopic_titles,60,27,0.45,ai_assisted_not_independent_human_reference
+bertopic_descriptions,60,25,0.4166666666666667,ai_assisted_not_independent_human_reference

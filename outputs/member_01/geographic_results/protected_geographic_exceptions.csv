@@ -1,0 +1,5 @@
+report_id,district,ortsteil_clean,district_clean,include_in_analysis,analysis_status
+BR001277,Lehe,Unknown,Unknown,True,computational_exploratory
+BR001797,Bürgerpark,Unknown,Unknown,True,computational_exploratory
+BR003479,Lehe,Unknown,Unknown,True,computational_exploratory
+BR003518,Bürgerpark,Unknown,Unknown,True,computational_exploratory

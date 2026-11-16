@@ -1,0 +1,108 @@
+case_id,report_id,date_posted,title_en,url,context_example,analysis_status
+E01,BR002883,2023-01-27,Fatal industrial accident,https://www.presseportal.de/blaulicht/pm/35235/5427299,True,computational_exploratory
+E01,BR002888,2023-01-27,Pedestrian dies,https://www.presseportal.de/blaulicht/pm/35235/5426885,True,computational_exploratory
+E01,BR002889,2023-01-26,Pedestrian critically injured,https://www.presseportal.de/blaulicht/pm/35235/5426544,False,computational_exploratory
+E01,BR002890,2023-01-26,Several traffic accidents in the city area,https://www.presseportal.de/blaulicht/pm/35235/5426242,False,computational_exploratory
+E01,BR002894,2023-01-25,Traffic accident paralyzes A1,https://www.presseportal.de/blaulicht/pm/35235/5425187,False,computational_exploratory
+E01,BR002896,2023-01-24,19-year-old dies after traffic accident,https://www.presseportal.de/blaulicht/pm/35235/5424463,False,computational_exploratory
+E01,BR002905,2023-01-22,Senior injured in traffic accident,https://www.presseportal.de/blaulicht/pm/35235/5422524,False,computational_exploratory
+E01,BR002906,2023-01-20,Child injured in traffic accident,https://www.presseportal.de/blaulicht/pm/35235/5421599,False,computational_exploratory
+E01,BR002909,2023-01-19,Car driver crashes and falls asleep,https://www.presseportal.de/blaulicht/pm/35235/5420366,False,computational_exploratory
+E01,BR002913,2023-01-18,Man hit by truck,https://www.presseportal.de/blaulicht/pm/35235/5419085,False,computational_exploratory
+E01,BR002916,2023-01-16,Driver rams road signs and flees,https://www.presseportal.de/blaulicht/pm/35235/5417185,False,computational_exploratory
+E01,BR002919,2023-01-15,Escape ends in dead end,https://www.presseportal.de/blaulicht/pm/35235/5416579,False,computational_exploratory
+E01,BR002921,2023-01-15,Pedestrian dies after train accident,https://www.presseportal.de/blaulicht/pm/35235/5416524,False,computational_exploratory
+E01,BR002929,2023-01-11,Truck accidents on the A1,https://www.presseportal.de/blaulicht/pm/35235/5413679,False,computational_exploratory
+E01,BR002931,2023-01-08,Driver evades a traffic stop and causes an accident,https://www.presseportal.de/blaulicht/pm/35235/5411062,False,computational_exploratory
+E01,BR002932,2023-01-08,Deadly traffic accident in Bremen,https://www.presseportal.de/blaulicht/pm/35235/5410973,False,computational_exploratory
+E01,BR002933,2023-01-07,Tram hits pedestrian,https://www.presseportal.de/blaulicht/pm/35235/5410732,False,computational_exploratory
+E01,BR002938,2023-01-03,Traffic accident on the A1,https://www.presseportal.de/blaulicht/pm/35235/5407718,False,computational_exploratory
+E02,BR001823,2024-06-27,Driver dies on the highway,https://www.presseportal.de/blaulicht/pm/35235/5811108,True,computational_exploratory
+E02,BR001826,2024-06-26,Female Pedelec rider died after traffic accident,https://www.presseportal.de/blaulicht/pm/35235/5810468,True,computational_exploratory
+E02,BR001835,2024-06-21,E-scooter rider seriously injured,https://www.presseportal.de/blaulicht/pm/35235/5806552,False,computational_exploratory
+E02,BR001841,2024-06-19,Pedestrian hit by car,https://www.presseportal.de/blaulicht/pm/35235/5804689,False,computational_exploratory
+E02,BR001842,2024-06-19,Fleeing driver injures police officer and damages patrol car,https://www.presseportal.de/blaulicht/pm/35235/5804673,False,computational_exploratory
+E02,BR001843,2024-06-18,Cyclist severely injured,https://www.presseportal.de/blaulicht/pm/35235/5804367,False,computational_exploratory
+E02,BR001847,2024-06-17,Major Blunder: Cyclist touches police,https://www.presseportal.de/blaulicht/pm/35235/5802877,False,computational_exploratory
+E02,BR001848,2024-06-17,Car driver rams overhead line mast,https://www.presseportal.de/blaulicht/pm/35235/5802792,False,computational_exploratory
+E02,BR001851,2024-06-16,Hit and run after serious traffic accident,https://www.presseportal.de/blaulicht/pm/35235/5802311,False,computational_exploratory
+E02,BR001856,2024-06-14,"Deployment of the new ""Enforcement Trailer"" (speed camera trailer) of the Bremen Police",https://www.presseportal.de/blaulicht/pm/35235/5801438,False,computational_exploratory
+E02,BR001866,2024-06-10,Car fire leads to temporary full closure,https://www.presseportal.de/blaulicht/pm/35235/5798204,False,computational_exploratory
+E02,BR001881,2024-06-05,Police Bremen stops several speeders,https://www.presseportal.de/blaulicht/pm/35235/5794758,False,computational_exploratory
+E02,BR001886,2024-06-03,Drunk driver damages several cars,https://www.presseportal.de/blaulicht/pm/35235/5792513,False,computational_exploratory
+E02,BR001887,2024-06-03,Escape ends at the tree,https://www.presseportal.de/blaulicht/pm/35235/5792335,False,computational_exploratory
+E02,BR001890,2024-06-02,Traffic accident with patrol car,https://www.presseportal.de/blaulicht/pm/35235/5791931,False,computational_exploratory
+E02,BR001892,2024-06-01,Speed checks in Walle,https://www.presseportal.de/blaulicht/pm/35235/5791688,False,computational_exploratory
+E03,BR001209,2025-03-29,Driver wants to bribe police officer,https://www.presseportal.de/blaulicht/pm/35235/6001429,True,computational_exploratory
+E03,BR001211,2025-03-28,Car races in Neustadt and Walle,https://www.presseportal.de/blaulicht/pm/35235/6001074,True,computational_exploratory
+E03,BR001213,2025-03-28,Drugs in Traffic - Police Check Drivers,https://www.presseportal.de/blaulicht/pm/35235/6000980,False,computational_exploratory
+E03,BR001217,2025-03-27,Traffic checks in Bremen West,https://www.presseportal.de/blaulicht/pm/35235/5999967,False,computational_exploratory
+E03,BR001220,2025-03-26,Traffic controls in Burglesum,https://www.presseportal.de/blaulicht/pm/35235/5999384,False,computational_exploratory
+E03,BR001229,2025-03-22,Severe traffic accident in Neustadt,https://www.presseportal.de/blaulicht/pm/35235/5996466,False,computational_exploratory
+E03,BR001232,2025-03-21,Police stops driver under the influence of drugs,https://www.presseportal.de/blaulicht/pm/35235/5995924,False,computational_exploratory
+E03,BR001233,2025-03-21,Paramedic ejected from car,https://www.presseportal.de/blaulicht/pm/35235/5995901,False,computational_exploratory
+E03,BR001238,2025-03-19,Traffic checks in Huchting,https://www.presseportal.de/blaulicht/pm/35235/5994470,False,computational_exploratory
+E03,BR001241,2025-03-19,Pedestrian hit by car,https://www.presseportal.de/blaulicht/pm/35235/5994082,False,computational_exploratory
+E03,BR001243,2025-03-18,Traffic jam after truck accident on the A1,https://www.presseportal.de/blaulicht/pm/35235/5993139,False,computational_exploratory
+E03,BR001251,2025-03-14,Oil slick causes complete closure of the A270,https://www.presseportal.de/blaulicht/pm/35235/5990705,False,computational_exploratory
+E03,BR001254,2025-03-13,Driver flees after accident,https://www.presseportal.de/blaulicht/pm/35235/5989711,False,computational_exploratory
+E03,BR001255,2025-03-12,Traffic accident involving a tram and a truck,https://www.presseportal.de/blaulicht/pm/35235/5989595,False,computational_exploratory
+E03,BR001259,2025-03-10,Driving without a license and under the influence of drugs,https://www.presseportal.de/blaulicht/pm/35235/5987473,False,computational_exploratory
+E03,BR001273,2025-03-03,Police pulls speeder out of traffic,https://www.presseportal.de/blaulicht/pm/35235/5982717,False,computational_exploratory
+E03,BR001280,2025-03-02,Bus hits lamppost,https://www.presseportal.de/blaulicht/pm/35235/5981897,False,computational_exploratory
+E03,BR001282,2025-03-01,Pedestrian hit,https://www.presseportal.de/blaulicht/pm/35235/5981638,False,computational_exploratory
+E04,BR001597,2024-09-28,Unknown assailant shoots irritant gas into 25-year-old's face,https://www.presseportal.de/blaulicht/pm/35235/5874995,True,computational_exploratory
+E04,BR001599,2024-09-27,46-year-old beaten and kicked,https://www.presseportal.de/blaulicht/pm/35235/5874303,True,computational_exploratory
+E04,BR001605,2024-09-25,Unknown group beats up youth,https://www.presseportal.de/blaulicht/pm/35235/5872520,False,computational_exploratory
+E04,BR001606,2024-09-25,Altercation with severely injured man in Osterholz,https://www.presseportal.de/blaulicht/pm/35235/5872451,False,computational_exploratory
+E04,BR001608,2024-09-24,Teenager attacked in Burglesum,https://www.presseportal.de/blaulicht/pm/35235/5871359,False,computational_exploratory
+E04,BR001616,2024-09-21,Anonymous tip portal launched for the Waller Friedhof homicide - Bremen Police asks for tips,https://www.presseportal.de/blaulicht/pm/35235/5869483,False,computational_exploratory
+E04,BR001617,2024-09-21,Arrest after homicide in Huchting,https://www.presseportal.de/blaulicht/pm/35235/5869399,False,computational_exploratory
+E04,BR001624,2024-09-19,40-year-old killed,https://www.presseportal.de/blaulicht/pm/35235/5868146,False,computational_exploratory
+E04,BR001627,2024-09-18,Man stabbed,https://www.presseportal.de/blaulicht/pm/35235/5867369,False,computational_exploratory
+E04,BR001629,2024-09-17,Woman critically injured with knife,https://www.presseportal.de/blaulicht/pm/35235/5866310,False,computational_exploratory
+E04,BR001633,2024-09-16,Apprehended after assault,https://www.presseportal.de/blaulicht/pm/35235/5865371,False,computational_exploratory
+E04,BR001637,2024-09-15,Arrest after attempted homicide in Gröpelingen,https://www.presseportal.de/blaulicht/pm/35235/5864648,False,computational_exploratory
+E04,BR001647,2024-09-09,Police arrests axe attacker,https://www.presseportal.de/blaulicht/pm/35235/5860870,False,computational_exploratory
+E04,BR001667,2024-09-02,Pizza maker uses tear gas,https://www.presseportal.de/blaulicht/pm/35235/5855427,False,computational_exploratory
+E04,BR001671,2024-09-01,27-year-old seriously injured in Bremer Neustadt,https://www.presseportal.de/blaulicht/pm/35235/5854833,False,computational_exploratory
+E05,BR000493,2026-01-30,Extensive checks in the center and in the south,https://www.presseportal.de/blaulicht/pm/35235/6207126,True,computational_exploratory
+E05,BR000498,2026-01-28,"Medication, heroin, and cash seized during search",https://www.presseportal.de/blaulicht/pm/35235/6205554,True,computational_exploratory
+E05,BR000516,2026-01-22,Restaurant closed after inspections,https://www.presseportal.de/blaulicht/pm/35235/6201701,False,computational_exploratory
+E05,BR000520,2026-01-21,Police arrests drug dealer,https://www.presseportal.de/blaulicht/pm/35235/6200662,False,computational_exploratory
+E05,BR000535,2026-01-16,"Machete, Drugs and Banning Orders: Police review results after checks",https://www.presseportal.de/blaulicht/pm/35235/6197903,False,computational_exploratory
+E05,BR000537,2026-01-16,Bar closed after inter-agency inspections,https://www.presseportal.de/blaulicht/pm/35235/6197578,False,computational_exploratory
+E05,BR000547,2026-01-12,Illegal gambling machines found during checks,https://www.presseportal.de/blaulicht/pm/35235/6194749,False,computational_exploratory
+E05,BR000548,2026-01-12,Drug trafficking uncovered in Neustadt,https://www.presseportal.de/blaulicht/pm/35235/6194697,False,computational_exploratory
+E05,BR000552,2026-01-11,Extensive checks at the train station and in the district,https://www.presseportal.de/blaulicht/pm/35235/6193926,False,computational_exploratory
+E05,BR000557,2026-01-08,Drug find in Gröpelingen,https://www.presseportal.de/blaulicht/pm/35235/6192498,False,computational_exploratory
+E05,BR000564,2026-01-06,Police seize 118 sales units of cannabis - Condition beats flight,https://www.presseportal.de/blaulicht/pm/35235/6190857,False,computational_exploratory
+E06,BR003544,2022-03-31,New Police Boats for the Bremen Police,https://www.presseportal.de/blaulicht/pm/35235/5185723,True,computational_exploratory
+E06,BR003554,2022-03-25,Police accompanies climate demo,https://www.presseportal.de/blaulicht/pm/35235/5180717,True,computational_exploratory
+E06,BR003558,2022-03-25,Presentation of new police boats - Invitation for media representatives,https://www.presseportal.de/blaulicht/pm/35235/5180243,False,computational_exploratory
+E06,BR003560,2022-03-24,Big demonstration on Friday,https://www.presseportal.de/blaulicht/pm/35235/5179144,False,computational_exploratory
+E06,BR003569,2022-03-19,Police accompanies demonstration,https://www.presseportal.de/blaulicht/pm/35235/5175015,False,computational_exploratory
+E06,BR003574,2022-03-18,Police for the home game Bremen against Darmstadt,https://www.presseportal.de/blaulicht/pm/35235/5174063,False,computational_exploratory
+E06,BR003579,2022-03-14,Still places available for the motorcycle spring season start.,https://www.presseportal.de/blaulicht/pm/35235/5170165,False,computational_exploratory
+E06,BR003591,2022-03-08,Today's star march will lead to traffic disruptions,https://www.presseportal.de/blaulicht/pm/35235/5165025,False,computational_exploratory
+E06,BR003592,2022-03-07,Activists spray tanker on the Weser,https://www.presseportal.de/blaulicht/pm/35235/5164826,False,computational_exploratory
+E06,BR003597,2022-03-04,Bremen against Dresden,https://www.presseportal.de/blaulicht/pm/35235/5162736,False,computational_exploratory
+E06,BR003598,2022-03-04,Means of crime: Internet - Free places for online seminar,https://www.presseportal.de/blaulicht/pm/35235/5162666,False,computational_exploratory
+E06,BR003603,2022-03-02,Invitation to the start of the motorcycle spring season,https://www.presseportal.de/blaulicht/pm/35235/5160511,False,computational_exploratory
+E07,BR000492,2026-01-30,Arrests after poster campaign,https://www.presseportal.de/blaulicht/pm/35235/6207188,True,computational_exploratory
+E07,BR000500,2026-01-27,Police catch car burglar red-handed,https://www.presseportal.de/blaulicht/pm/35235/6204796,True,computational_exploratory
+E07,BR000509,2026-01-24,Paint attack on the home of the Head of the Office for the Protection of the Constitution - Investigations are ongoing,https://www.presseportal.de/blaulicht/pm/35235/6203037,False,computational_exploratory
+E07,BR000519,2026-01-22,Investigation Success Against Con Artists: Arrests and Warrants,https://www.presseportal.de/blaulicht/pm/35235/6201423,False,computational_exploratory
+E07,BR000522,2026-01-20,Cyclist seriously injured in traffic accident,https://www.presseportal.de/blaulicht/pm/35235/6200196,False,computational_exploratory
+E07,BR000524,2026-01-20,Reports after unregistered assembly,https://www.presseportal.de/blaulicht/pm/35235/6199973,False,computational_exploratory
+E07,BR000528,2026-01-18,Following a break-in at a wine shop: Police apprehend suspect,https://www.presseportal.de/blaulicht/pm/35235/6198531,False,computational_exploratory
+E07,BR000533,2026-01-16,Operation in Neustadt,https://www.presseportal.de/blaulicht/pm/35235/6198145,False,computational_exploratory
+E07,BR000541,2026-01-15,Swan killed at Werdersee - Police seek witnesses,https://www.presseportal.de/blaulicht/pm/35235/6196650,False,computational_exploratory
+E07,BR000543,2026-01-14,Building smeared with paint,https://www.presseportal.de/blaulicht/pm/35235/6196184,False,computational_exploratory
+E07,BR000548,2026-01-12,Drug trafficking uncovered in Neustadt,https://www.presseportal.de/blaulicht/pm/35235/6194697,False,computational_exploratory
+E07,BR000551,2026-01-11,Burglar apprehended,https://www.presseportal.de/blaulicht/pm/35235/6193961,False,computational_exploratory
+E07,BR000554,2026-01-09,Unknowns attack 22-year-old in Neustadt,https://www.presseportal.de/blaulicht/pm/35235/6193226,False,computational_exploratory
+E07,BR000555,2026-01-08,After shots in Neustadt: 27-year-old arrested,https://www.presseportal.de/blaulicht/pm/35235/6192721,False,computational_exploratory
+E07,BR000562,2026-01-06,Burglar found sleeping after snack bar break-in,https://www.presseportal.de/blaulicht/pm/35235/6190886,False,computational_exploratory
+E07,BR000563,2026-01-06,Perpetrator apprehended after vehicle break-in,https://www.presseportal.de/blaulicht/pm/35235/6190879,False,computational_exploratory
+E07,BR000574,2026-01-01,Police operation in Neustadt,https://www.presseportal.de/blaulicht/pm/35235/6188373,False,computational_exploratory
